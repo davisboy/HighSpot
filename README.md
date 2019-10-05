@@ -2,9 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
+Clone the repo to a local directory and run `npm install` at the command prompt.  This will install all of the dependencies.
+When that completes run `npm start` and wait for the code to build.  Once complete, open a browser and navigate to `http://localhost:4200/`.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Running `npm start` will compile the less files and start the development server.
 
 ## Code scaffolding
 
