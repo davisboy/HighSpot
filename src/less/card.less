@@ -1,0 +1,94 @@
+.card {
+    display         : flex;
+    margin          : 1rem;
+    background-color: @JH-grey;
+    border          : .1rem solid @grey-d;
+    box-shadow      : 0 0.3rem 0.3rem @grey-d;
+    padding         : 1rem;
+    min-width       : 30rem;
+    min-height      : 50rem;
+
+    &:hover {
+        box-shadow: 0.3rem 0.3rem 0.3rem 0.3rem black;
+    }
+
+    &.Uncommon {
+        
+        background: url(@JH-texture-url), @JH-uncommon-gradient;
+        background-blend-mode: overlay;
+
+        &:hover {
+            box-shadow: 0.3rem 0.3rem 0.3rem 0.3rem darken(@JH-blue, 10%);
+        }
+    }
+
+    &.Rare {
+        background: url(@JH-texture-url), @JH-rare-gradient;
+        background-blend-mode: overlay;
+
+        &:hover {
+            box-shadow: 0.3rem 0.3rem 0.3rem 0.3rem darken(@JH-purple, 10%);
+        }
+    }
+
+    &.Mythic {
+        background: url(@JH-texture-url), @JH-mythic-gradient;
+        background-blend-mode: overlay;
+
+        &:hover {
+            box-shadow: 0.3rem 0.3rem 0.3rem 0.3rem darken(@JH-gold, 10%);
+        }
+    }
+}
+
+.card-details {
+    display: inline-block;
+    border : .1rem solid @grey-9;
+    padding: 0.5rem;
+}
+
+.flex-container {
+    display  : flex;
+    flex-wrap: wrap;
+}
+
+.loading-indicator {
+    position : fixed;
+    bottom   : 0;
+    right    : 0;
+    z-index  : 1000;
+    margin   : 1rem;
+    font-size: 2rem;
+    box-shadow: 0.3rem 0.3rem 0.3rem 0.3rem @JH-dark-blue;
+
+    padding         : 5rem;
+    background-color: @JH-aqua-7;
+    border-radius   : 1rem;
+}
+
+.card-image {
+    max-width    : 22.3rem;
+    max-height   : 31.1rem;
+    display      : block;
+    margin       : auto;
+    margin-bottom: 1rem;
+}
+
+.card-details-name {
+    font-weight  : bold;
+    display      : block;
+    margin       : auto;
+    text-align   : center;
+    margin-bottom: .5rem;
+
+    & span {
+        font-size: 2rem;
+    }
+}
+
+.card-details-artist,
+.card-details-setName,
+.card-details-originalType {
+    font-weight: bold;
+    font-size  : 1.6rem;
+}

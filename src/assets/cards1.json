@@ -1,0 +1,2137 @@
+{
+    "cards": [
+        {
+            "name": "_____",
+            "manaCost": "{1}{U}",
+            "cmc": 2,
+            "colors": [
+                "Blue"
+            ],
+            "colorIdentity": [
+                "U"
+            ],
+            "type": "Creature — Shapeshifter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Shapeshifter"
+            ],
+            "rarity": "Uncommon",
+            "set": "UNH",
+            "setName": "Unhinged",
+            "text": "{1}: This card's name becomes the card name of your choice. Activate this ability anywhere, anytime.",
+            "flavor": "{1}: This card's flavor text becomes the flavor text of your choice. (This ability doesn't work because it's flavor text, not rules text (but neither does this reminder text, so you figure it out).)",
+            "artist": "Ron Spears",
+            "number": "23",
+            "power": "1",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 74252,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=74252&type=card",
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "UNH"
+            ],
+            "originalText": "{1}: This card's name becomes the name of your choice. Play this ability anywhere, anytime.",
+            "originalType": "Creature - Shapeshifter",
+            "legalities": [],
+            "id": "71dbd495-fc0f-5539-8373-5e0bc02977f6"
+        },
+        {
+            "name": "Abattoir Ghoul",
+            "manaCost": "{3}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Zombie",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Zombie"
+            ],
+            "rarity": "Uncommon",
+            "set": "ISD",
+            "setName": "Innistrad",
+            "text": "First strike\nWhenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.",
+            "flavor": "Death took his humanity but not his skill with the knife.",
+            "artist": "Volkan Baǵa",
+            "number": "85",
+            "power": "3",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 222911,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=222911&type=card",
+            "rulings": [
+                {
+                    "date": "2011-09-22",
+                    "text": "You’ll gain life equal to the creature’s last known toughness before it died. For example, if Abattoir Ghoul deals 3 first-strike damage to a 7/7 creature and then you give the creature -5/-5 before the regular combat damage step, you’ll gain 2 life."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Schlachthaus-Ghul",
+                    "text": "Erstschlag\nImmer wenn eine Kreatur stirbt, der in diesem Zug vom Schlachthaus-Ghul Schaden zugefügt wurde, erhältst du Lebenspunkte in Höhe der Widerstandskraft dieser Kreatur dazu.",
+                    "flavor": "Der Tod nahm ihm seine Menschlichkeit, aber nicht sein Geschick mit dem Messer.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=273512&type=card",
+                    "language": "German",
+                    "multiverseid": 273512
+                },
+                {
+                    "name": "Necrófago del matadero",
+                    "text": "Daña primero.\nSiempre que una criatura que recibió daño del Necrófago del matadero este turno muera, ganas vidas igual a la resistencia de esa criatura.",
+                    "flavor": "La muerte se llevó su humanidad, pero no su habilidad con el cuchillo.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=273796&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 273796
+                },
+                {
+                    "name": "Goule de l'abattoir",
+                    "text": "Initiative\nÀ chaque fois qu'une créature qui a subi des blessures de la Goule de l'abattoir ce tour-ci meurt, vous gagnez un nombre de points de vie égal à l'endurance de cette créature.",
+                    "flavor": "La mort lui ravit son humanité mais pas son talent au couteau.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=272944&type=card",
+                    "language": "French",
+                    "multiverseid": 272944
+                },
+                {
+                    "name": "Ghoul del Mattatoio",
+                    "text": "Attacco improvviso\nOgniqualvolta una creatura a cui il Ghoul del Mattatoio ha inflitto danno in questo turno muore, guadagni punti vita pari alla costituzione di quella creatura.",
+                    "flavor": "La morte gli ha sottratto la sua umanità ma non la sua abilità col coltello.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=274080&type=card",
+                    "language": "Italian",
+                    "multiverseid": 274080
+                },
+                {
+                    "name": "肉切り屋のグール",
+                    "text": "先制攻撃\nこのターン、肉切り屋のグールによってダメージを与えられたクリーチャーが１体死亡するたび、あなたはそのクリーチャーのタフネスに等しい点数のライフを得る。",
+                    "flavor": "死は彼の人間性を奪ったが、包丁使いの腕までは奪わなかった。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=274364&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 274364
+                },
+                {
+                    "name": "도살장 악귀",
+                    "text": "선제공격도살장 악귀에게 이 턴에 피해를 입은 생물이 죽을 때마다, 당신은 그 생물의 방어력만큼의 생명점을 얻는다.",
+                    "flavor": "죽음은 그의 인간성을 앗아갔지만, 그의 칼솜씨까지 앗아가지는 않았다.",
+                    "imageUrl": null,
+                    "language": "Korean",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Carniçal Abatedor",
+                    "text": "Iniciativa\nToda vez que uma criatura que sofreu dano de Carniçal Abatedor neste turno morre, você ganha uma quantidade de pontos de vida igual à resistência daquela criatura.",
+                    "flavor": "A morte tomou sua humanidade, mas não sua habilidade com a faca.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=272660&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 272660
+                },
+                {
+                    "name": "Скотобойный Упырь",
+                    "text": "Первый удар\nКаждый раз когда существо, которому Скотобойный Упырь нанес повреждения в этом ходу, умирает, вы получаете количество жизней, равное выносливости того существа.",
+                    "flavor": "Смерть отняла у него человечность, но не умение обращаться с ножом.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=273228&type=card",
+                    "language": "Russian",
+                    "multiverseid": 273228
+                },
+                {
+                    "name": "屠宰场食尸鬼",
+                    "text": "先攻\n每当本回合中曾受到屠宰场食尸鬼伤害的生物死去时，你获得等同于该生物防御力的生命。",
+                    "flavor": "死亡夺走他的人性，但使刀技巧还留着。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=272092&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 272092
+                },
+                {
+                    "name": "屠宰場食屍鬼",
+                    "text": "先攻\n每當本回合中曾受到屠宰場食屍鬼傷害的生物死去時，你獲得等同於該生物防禦力的生命。",
+                    "flavor": "死亡奪走他的人性，但使刀技巧還留著。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=272376&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 272376
+                }
+            ],
+            "printings": [
+                "DDQ",
+                "ISD"
+            ],
+            "originalText": "First strike\nWhenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.",
+            "originalType": "Creature — Zombie",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "63241c80-9e3b-52e8-ab29-a211798665c8"
+        },
+        {
+            "name": "Abattoir Ghoul",
+            "manaCost": "{3}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Zombie",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Zombie"
+            ],
+            "rarity": "Uncommon",
+            "set": "DDQ",
+            "setName": "Duel Decks: Blessed vs. Cursed",
+            "text": "First strike\nWhenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.",
+            "flavor": "Death took his humanity but not his skill with the knife.",
+            "artist": "Volkan Baǵa",
+            "number": "50",
+            "power": "3",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 409626,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409626&type=card",
+            "rulings": [
+                {
+                    "date": "2011-09-22",
+                    "text": "You’ll gain life equal to the creature’s last known toughness before it died. For example, if Abattoir Ghoul deals 3 first-strike damage to a 7/7 creature and then you give the creature -5/-5 before the regular combat damage step, you’ll gain 2 life."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "肉切り屋のグール",
+                    "text": "先制攻撃\nこのターンに肉切り屋のグールからダメージを与えられたクリーチャーが１体死亡するたび、あなたはそのクリーチャーのタフネスに等しい点数のライフを得る。",
+                    "flavor": "死は彼の人間性を奪ったが、包丁使いの腕までは奪わなかった。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409706&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 409706
+                }
+            ],
+            "printings": [
+                "DDQ",
+                "ISD"
+            ],
+            "originalText": "First strike\nWhenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.",
+            "originalType": "Creature — Zombie",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "849d948e-bfd4-5631-8690-fd376870834d"
+        },
+        {
+            "name": "Abbey Gargoyles",
+            "manaCost": "{2}{W}{W}{W}",
+            "cmc": 5,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Gargoyle",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Gargoyle"
+            ],
+            "rarity": "Uncommon",
+            "set": "ME2",
+            "setName": "Masters Edition II",
+            "text": "Flying, protection from red",
+            "flavor": "\"Though Serra has not been seen for twenty years, her gargoyles still watch over our city and punish the guilty.\" —Gulsen, abbey matron",
+            "artist": "Christopher Rush",
+            "number": "1",
+            "power": "3",
+            "toughness": "4",
+            "layout": "normal",
+            "multiverseid": 184585,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184585&type=card",
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "5ED",
+                "HML",
+                "ME2",
+                "PTC"
+            ],
+            "originalText": "Flying, protection from red",
+            "originalType": "Creature - Gargoyle",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "de4ab26e-8be7-52e2-ac9c-29d685f4a2e5"
+        },
+        {
+            "name": "Abbey Gargoyles",
+            "manaCost": "{2}{W}{W}{W}",
+            "cmc": 5,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Gargoyle",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Gargoyle"
+            ],
+            "rarity": "Uncommon",
+            "set": "PTC",
+            "setName": "Pro Tour Collector Set",
+            "text": "Flying, protection from red",
+            "flavor": "\"Though Serra has not been seen for twenty years, her Gargoyles still watch over our city and punish the guilty.\" —Gulsen, Abbey Matron",
+            "artist": "Christopher Rush",
+            "number": "sr1sb",
+            "power": "3",
+            "toughness": "4",
+            "layout": "normal",
+            "variations": [
+                "d49e066a-56d6-510f-9caa-8077f010ea5b"
+            ],
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "5ED",
+                "HML",
+                "ME2",
+                "PTC"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "a4b641b0-67ba-5c35-bcca-4a8111a898a7"
+        },
+        {
+            "name": "Abbey Gargoyles",
+            "manaCost": "{2}{W}{W}{W}",
+            "cmc": 5,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Gargoyle",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Gargoyle"
+            ],
+            "rarity": "Uncommon",
+            "set": "HML",
+            "setName": "Homelands",
+            "text": "Flying, protection from red",
+            "flavor": "\"Though Serra has not been seen for twenty years, her Gargoyles still watch over our city and punish the guilty.\" —Gulsen, Abbey Matron",
+            "artist": "Christopher Rush",
+            "number": "1",
+            "power": "3",
+            "toughness": "4",
+            "layout": "normal",
+            "multiverseid": 3010,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3010&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Abteigargoylen",
+                    "text": "Können fliegen, Schutz vor rot",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Gárgolas de la Abadía",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Gargouilles de l'abbaye",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Gargoyle dell'Abbazia",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Gárgulas da Abadia",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "5ED",
+                "HML",
+                "ME2",
+                "PTC"
+            ],
+            "originalText": "Flying, protection from red",
+            "originalType": "Summon - Gargoyles",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "4aff8b88-268a-56e4-907e-5027df081669"
+        },
+        {
+            "name": "Abbey Gargoyles",
+            "manaCost": "{2}{W}{W}{W}",
+            "cmc": 5,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Gargoyle",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Gargoyle"
+            ],
+            "rarity": "Uncommon",
+            "set": "PTC",
+            "setName": "Pro Tour Collector Set",
+            "text": "Flying, protection from red",
+            "flavor": "\"Though Serra has not been seen for twenty years, her gargoyles still watch over our city and punish the guilty.\" —Gulsen, Abbey Matron",
+            "artist": "Christopher Rush",
+            "number": "bl1sb",
+            "power": "3",
+            "toughness": "4",
+            "layout": "normal",
+            "variations": [
+                "a4b641b0-67ba-5c35-bcca-4a8111a898a7"
+            ],
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "5ED",
+                "HML",
+                "ME2",
+                "PTC"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "d49e066a-56d6-510f-9caa-8077f010ea5b"
+        },
+        {
+            "name": "Abbey Gargoyles",
+            "manaCost": "{2}{W}{W}{W}",
+            "cmc": 5,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Gargoyle",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Gargoyle"
+            ],
+            "rarity": "Uncommon",
+            "set": "5ED",
+            "setName": "Fifth Edition",
+            "text": "Flying, protection from red",
+            "flavor": "\"They don't move, do they?\" \"Only for the wrong sort of people.\" \"Are we the wrong sort of people?\"",
+            "artist": "Christopher Rush",
+            "number": "1",
+            "power": "3",
+            "toughness": "4",
+            "layout": "normal",
+            "multiverseid": 4098,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4098&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Abteigargoylen",
+                    "text": "Fliegend, Schutz vor Rot",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Gárgolas de la Abadía",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Gargouilles de l'abbaye",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Gargoyle dell'Abbazia",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "修道院のガーゴイル",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Gárgulas da Abadia",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "5ED",
+                "HML",
+                "ME2",
+                "PTC"
+            ],
+            "originalText": "Flying, protection from red",
+            "originalType": "Summon - Gargoyles",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "240950cc-9563-5fe4-8c4c-78e6a1e7e35e"
+        },
+        {
+            "name": "Abbey Griffin",
+            "manaCost": "{3}{W}",
+            "cmc": 4,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Griffin",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Griffin"
+            ],
+            "rarity": "Common",
+            "set": "ISD",
+            "setName": "Innistrad",
+            "text": "Flying, vigilance",
+            "flavor": "\"The darkness crawls with vampires and ghouls, but we are not without allies.\" —Mikaeus, the Lunarch",
+            "artist": "Jaime Jones",
+            "number": "1",
+            "power": "2",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 235595,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=235595&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Abteigreif",
+                    "text": "Fliegend, Wachsamkeit",
+                    "flavor": "„In der Dunkelheit verstecken sich Vampire und Ghule, aber wir sind auch nicht ohne Verbündete.\" —Lunarch Mikaeus",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=273611&type=card",
+                    "language": "German",
+                    "multiverseid": 273611
+                },
+                {
+                    "name": "Grifo de la abadía",
+                    "text": "Vuela, vigilancia.",
+                    "flavor": "\"La oscuridad avanza con vampiros y necrófagos, pero no nos faltan aliados.\" —Mikaeus, el Lunarca",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=273895&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 273895
+                },
+                {
+                    "name": "Griffon d'abbaye",
+                    "text": "Vol, vigilance",
+                    "flavor": "« Les ténèbres grouillent de vampires et de goules, mais nous ne sommes pas sans alliés. » —Mikaeus, le lunarque",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=273043&type=card",
+                    "language": "French",
+                    "multiverseid": 273043
+                },
+                {
+                    "name": "Grifone dell'Abbazia",
+                    "text": "Volare, cautela",
+                    "flavor": "\"L'oscurità brulica di vampiri e ghoul, ma non ci mancano gli alleati.\" —Mikaeus, il Lunarca",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=274179&type=card",
+                    "language": "Italian",
+                    "multiverseid": 274179
+                },
+                {
+                    "name": "修道院のグリフィン",
+                    "text": "飛行、警戒",
+                    "flavor": "「闇が吸血鬼やグールであふれるとて、我々に味方がおらぬわけでは無い。」 ――月皇ミケウス",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=274463&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 274463
+                },
+                {
+                    "name": "수도원 그리핀",
+                    "text": "비행, 경계",
+                    "flavor": "\"암흑 속에는 흡혈귀들과 악귀들이 득실거리지만, 우리를 도와줄 자들이 없는 건 아니니라.\"—달의 교주 미케이우스",
+                    "imageUrl": null,
+                    "language": "Korean",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Grifo da Abadia",
+                    "text": "Voar, vigilância",
+                    "flavor": "\"A escuridão avança rastejante com vampiros e carniçais, mas nós também temos nossos aliados.\" — Mikaeus, o Lunarca",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=272759&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 272759
+                },
+                {
+                    "name": "Грифон Аббатства",
+                    "text": "Полет, Бдительность",
+                    "flavor": "«Темнота кишит вампирами и упырями, но у нас найдутся союзники». — Микеас, Лунарх",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=273327&type=card",
+                    "language": "Russian",
+                    "multiverseid": 273327
+                },
+                {
+                    "name": "修道院狮鹫",
+                    "text": "飞行，警戒",
+                    "flavor": "「吸血鬼与食尸鬼在黑暗中潜伏，但我们并不缺盟友。」 ～月主教米凯耶",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=272191&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 272191
+                },
+                {
+                    "name": "修道院獅鷲",
+                    "text": "飛行，警戒",
+                    "flavor": "「吸血鬼與食屍鬼在黑暗中潛伏，但我們並不缺盟友。」 ～月主教米凱耶",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=272475&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 272475
+                }
+            ],
+            "printings": [
+                "ISD"
+            ],
+            "originalText": "Flying, vigilance",
+            "originalType": "Creature — Griffin",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "66e5b4a8-7c0d-51ed-bc18-a5c6fb20d690"
+        },
+        {
+            "name": "Abbey Matron",
+            "manaCost": "{2}{W}",
+            "cmc": 3,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human Cleric",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Cleric"
+            ],
+            "rarity": "Common",
+            "set": "HML",
+            "setName": "Homelands",
+            "text": "{W}, {T}: Abbey Matron gets +0/+3 until end of turn.",
+            "flavor": "\"The Matrons are kindly souls, but don't ask one for an ale.\" —Halina, Dwarven Trader",
+            "artist": "Mike Kimble",
+            "number": "2a",
+            "power": "1",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 3011,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3011&type=card",
+            "variations": [
+                "98fbf6aa-f5de-5461-99a9-02e8d5fa0bcb"
+            ],
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Oberin der Abtei",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Abadesa",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Mère abbesse",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Matrona dell'Abbazia",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Matrona da Abadia",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "HML"
+            ],
+            "originalText": "oW, ocT: +0/+3 until end of turn",
+            "originalType": "Summon - Cleric",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "74746784-4158-5498-aef2-39ac4e29e965"
+        },
+        {
+            "name": "Abbey Matron",
+            "manaCost": "{2}{W}",
+            "cmc": 3,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human Cleric",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Cleric"
+            ],
+            "rarity": "Common",
+            "set": "HML",
+            "setName": "Homelands",
+            "text": "{W}, {T}: Abbey Matron gets +0/+3 until end of turn.",
+            "flavor": "\"The Matrons still say Serra is coming back. I bet she never even existed.\" —Murat, Death Speaker",
+            "artist": "Mike Kimble",
+            "number": "2b",
+            "power": "1",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 3012,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3012&type=card",
+            "variations": [
+                "74746784-4158-5498-aef2-39ac4e29e965"
+            ],
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Oberin der Abtei",
+                    "text": "{W}, {T}: +0/+3 bis zum Ende des Zuges.",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Abadesa",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Mère abbesse",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Matrona dell'Abbazia",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Matrona da Abadia",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "HML"
+            ],
+            "originalText": "oW, ocT: +0/+3 until end of turn",
+            "originalType": "Summon - Cleric",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "98fbf6aa-f5de-5461-99a9-02e8d5fa0bcb"
+        },
+        {
+            "name": "Abbot of Keral Keep",
+            "manaCost": "{1}{R}",
+            "cmc": 2,
+            "colors": [
+                "Red"
+            ],
+            "colorIdentity": [
+                "R"
+            ],
+            "type": "Creature — Human Monk",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Monk"
+            ],
+            "rarity": "Rare",
+            "set": "ORI",
+            "setName": "Magic Origins",
+            "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Abbot of Keral Keep enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.",
+            "artist": "Deruchenko Alexander",
+            "number": "127",
+            "power": "2",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 398411,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=398411&type=card",
+            "rulings": [
+                {
+                    "date": "2015-06-22",
+                    "text": "The card exiled by Abbot of Keral Keep’s ability is exiled face up."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "You may play that card that turn even if Abbot of Keral Keep is no longer on the battlefield or under your control."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Playing the card exiled with Abbot of Keral Keep’s ability follows the normal rules for playing that card. You must pay its costs, and you must follow all applicable timing rules. For example, if the card is a creature card, you can cast that card by paying its mana cost only during your main phase while the stack is empty."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Unless an effect allows you to play additional lands that turn, you can play a land card exiled with Abbot of Keral Keep’s ability only if you haven’t played a land yet that turn."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "If you don’t play the card, it will remain exiled."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Any spell you cast that doesn’t have the type creature will cause prowess to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won’t cause prowess to trigger. Playing a land also won’t cause prowess to trigger."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Prowess goes on the stack on top of the spell that caused it to trigger. It will resolve before that spell."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Once it triggers, prowess isn’t connected to the spell that caused it to trigger. If that spell is countered, prowess will still resolve."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Abt des Keralberg-Klosters",
+                    "text": "Bravour (Immer wenn du einen Nichtkreatur-Zauberspruch wirkst, erhält diese Kreatur +1/+1 bis zum Ende des Zuges.)Wenn der Abt des Keralberg-Klosters ins Spiel kommt, schicke die oberste Karte deiner Bibliothek ins Exil. Bis zum Ende des Zuges kannst du diese Karte spielen.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=399242&type=card",
+                    "language": "German",
+                    "multiverseid": 399242
+                },
+                {
+                    "name": "Abad de la Fortaleza Keral",
+                    "text": "Destreza. (Siempre que lances un hechizo que no sea de criatura, esta criatura obtiene +1/+1 hasta el final del turno.)Cuando el Abad de la Fortaleza Keral entre al campo de batalla, exilia la primera carta de tu biblioteca. Hasta el final del turno, puedes jugar esa carta.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401181&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 401181
+                },
+                {
+                    "name": "Abbé de la Forteresse de Keral",
+                    "text": "Prouesse (À chaque fois que vous lancez un sort non-créature, cette créature gagne +1/+1 jusqu'à la fin du tour.)Quand l'Abbé de la Forteresse de Keral arrive sur le champ de bataille, exilez la carte du dessus de votre bibliothèque. Jusqu'à la fin du tour, vous pouvez jouer cette carte.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=399519&type=card",
+                    "language": "French",
+                    "multiverseid": 399519
+                },
+                {
+                    "name": "Abate del Torrione Keral",
+                    "text": "Prodezza (Ogniqualvolta lanci una magia non creatura, questa creatura prende +1/+1 fino alla fine del turno.)Quando l'Abate del Torrione Keral entra nel campo di battaglia, esilia la prima carta del tuo grimorio. Fino alla fine del turno, puoi giocare quella carta.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=399796&type=card",
+                    "language": "Italian",
+                    "multiverseid": 399796
+                },
+                {
+                    "name": "ケラル砦の修道院長",
+                    "text": "果敢（あなたがクリーチャーでない呪文を１つ唱えるたび、ターン終了時まで、このクリーチャーは＋１/＋１の修整を受ける。）ケラル砦の修道院長が戦場に出たとき、あなたのライブラリーの一番上のカードを追放する。ターン終了時まで、あなたはそのカードをプレイしてもよい。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=400073&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 400073
+                },
+                {
+                    "name": "케랄 요새 수도원장",
+                    "text": "기량 (당신이 생물이 아닌 주문을 발동할 때마다, 이 생물은 턴종료까지 +1/+1을 받는다.)케랄 요새 수도원장이 전장에 들어올 때, 당신의 서고 맨 위의 카드를 추방한다. 턴종료까지, 당신은 그 카드를 플레이할 수 있다.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=400350&type=card",
+                    "language": "Korean",
+                    "multiverseid": 400350
+                },
+                {
+                    "name": "Abade da Fortaleza Keral",
+                    "text": "Destreza (Toda vez que você conjura uma mágica que não seja de criatura, esta criatura recebe +1/+1 até o final do turno.)Quando Abade da Fortaleza Keral entrar no campo de batalha, exile o card do topo de seu grimório. Até o final do turno, você poderá jogar aquele card.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=400627&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 400627
+                },
+                {
+                    "name": "Аббат Крепости Керал",
+                    "text": "Искусность (Каждый раз, когда вы разыгрываете не являющееся существом заклинание, это существо получает +1/+1 до конца хода.)Когда Аббат Крепости Керал выходит на поле битвы, изгоните верхнюю карту вашей библиотеки. До конца хода вы можете разыграть ту карту.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=400904&type=card",
+                    "language": "Russian",
+                    "multiverseid": 400904
+                },
+                {
+                    "name": "科瑞尔要塞僧长",
+                    "text": "灵技（每当你施放非生物咒语时，此生物得+1/+1直到回合结束。）当科瑞尔要塞僧长进战场时，放逐你的牌库顶牌。直到回合结束，你可以使用该牌。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=398688&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 398688
+                },
+                {
+                    "name": "科瑞爾要塞僧長",
+                    "text": "靈技（每當你施放非生物咒語時，此生物得+1/+1直到回合結束。）當科瑞爾要塞僧長進戰場時，放逐你的牌庫頂牌。直到回合結束，你可以使用該牌。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=398965&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 398965
+                }
+            ],
+            "printings": [
+                "ORI",
+                "PORI",
+                "PRM"
+            ],
+            "originalText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)When Abbot of Keral Keep enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.",
+            "originalType": "Creature — Human Monk",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "33a5c546-9dfe-541f-a358-edb939ea9089"
+        },
+        {
+            "name": "Abbot of Keral Keep",
+            "manaCost": "{1}{R}",
+            "cmc": 2,
+            "colors": [
+                "Red"
+            ],
+            "colorIdentity": [
+                "R"
+            ],
+            "type": "Creature — Human Monk",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Monk"
+            ],
+            "rarity": "Rare",
+            "set": "PORI",
+            "setName": "Magic Origins Promos",
+            "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Abbot of Keral Keep enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.",
+            "artist": "Deruchenko Alexander",
+            "number": "127s",
+            "power": "2",
+            "toughness": "1",
+            "layout": "normal",
+            "rulings": [
+                {
+                    "date": "2015-06-22",
+                    "text": "The card exiled by Abbot of Keral Keep’s ability is exiled face up."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "You may play that card that turn even if Abbot of Keral Keep is no longer on the battlefield or under your control."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Playing the card exiled with Abbot of Keral Keep’s ability follows the normal rules for playing that card. You must pay its costs, and you must follow all applicable timing rules. For example, if the card is a creature card, you can cast that card by paying its mana cost only during your main phase while the stack is empty."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Unless an effect allows you to play additional lands that turn, you can play a land card exiled with Abbot of Keral Keep’s ability only if you haven’t played a land yet that turn."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "If you don’t play the card, it will remain exiled."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Any spell you cast that doesn’t have the type creature will cause prowess to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won’t cause prowess to trigger. Playing a land also won’t cause prowess to trigger."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Prowess goes on the stack on top of the spell that caused it to trigger. It will resolve before that spell."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Once it triggers, prowess isn’t connected to the spell that caused it to trigger. If that spell is countered, prowess will still resolve."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "ORI",
+                "PORI",
+                "PRM"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "c33b24eb-8491-558e-a034-89ea7e51f935"
+        },
+        {
+            "name": "Abbot of Keral Keep",
+            "manaCost": "{1}{R}",
+            "cmc": 2,
+            "colors": [
+                "Red"
+            ],
+            "colorIdentity": [
+                "R"
+            ],
+            "type": "Creature — Human Monk",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Monk"
+            ],
+            "rarity": "Rare",
+            "set": "PRM",
+            "setName": "Magic Online Promos",
+            "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Abbot of Keral Keep enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.",
+            "artist": "Anna Steinbauer",
+            "number": "62501",
+            "power": "2",
+            "toughness": "1",
+            "layout": "normal",
+            "rulings": [
+                {
+                    "date": "2015-06-22",
+                    "text": "The card exiled by Abbot of Keral Keep’s ability is exiled face up."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "You may play that card that turn even if Abbot of Keral Keep is no longer on the battlefield or under your control."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Playing the card exiled with Abbot of Keral Keep’s ability follows the normal rules for playing that card. You must pay its costs, and you must follow all applicable timing rules. For example, if the card is a creature card, you can cast that card by paying its mana cost only during your main phase while the stack is empty."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Unless an effect allows you to play additional lands that turn, you can play a land card exiled with Abbot of Keral Keep’s ability only if you haven’t played a land yet that turn."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "If you don’t play the card, it will remain exiled."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Any spell you cast that doesn’t have the type creature will cause prowess to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won’t cause prowess to trigger. Playing a land also won’t cause prowess to trigger."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Prowess goes on the stack on top of the spell that caused it to trigger. It will resolve before that spell."
+                },
+                {
+                    "date": "2015-06-22",
+                    "text": "Once it triggers, prowess isn’t connected to the spell that caused it to trigger. If that spell is countered, prowess will still resolve."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "ORI",
+                "PORI",
+                "PRM"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "0cbe0468-fd75-593c-9c43-620af62feca4"
+        },
+        {
+            "name": "Aberrant Researcher",
+            "names": [
+                "Aberrant Researcher",
+                "Perfected Form"
+            ],
+            "manaCost": "{3}{U}",
+            "cmc": 4,
+            "colors": [
+                "Blue"
+            ],
+            "colorIdentity": [
+                "U"
+            ],
+            "type": "Creature — Human Insect",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Insect"
+            ],
+            "rarity": "Uncommon",
+            "set": "SOI",
+            "setName": "Shadows over Innistrad",
+            "text": "Flying\nAt the beginning of your upkeep, put the top card of your library into your graveyard. If it's an instant or sorcery card, transform Aberrant Researcher.",
+            "flavor": "\"Metamorphosis is a process.\"\n—Laboratory notes",
+            "artist": "Nils Hamm",
+            "number": "49",
+            "power": "3",
+            "toughness": "2",
+            "layout": "transform",
+            "multiverseid": 409790,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409790&type=card",
+            "rulings": [
+                {
+                    "date": "2016-04-08",
+                    "text": "No player may take any action between the two steps of Aberrant Researcher’s triggered ability. If the card put into your graveyard is an instant or sorcery card, Aberrant Researcher will have transformed before a player can take any action."
+                },
+                {
+                    "date": "2016-04-08",
+                    "text": "If a replacement effect causes the top card of your library to go to a zone other than your graveyard, Aberrant Researcher will still transform if that card was an instant or sorcery card."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Scheußlicher Forscher",
+                    "text": "Fliegend\nLege zu Beginn deines Versorgungssegments die oberste Karte deiner Bibliothek auf deinen Friedhof. Falls es eine Spontanzauber- oder Hexerei-Karte ist, transformiere den Scheußlichen Forscher.",
+                    "flavor": "„Die Metamorphose ist ein andauernder Prozess.\"\n—Versuchsnotizen",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410780&type=card",
+                    "language": "German",
+                    "multiverseid": 410780
+                },
+                {
+                    "name": "Investigador aberrante",
+                    "text": "Vuela.\nAl comienzo de tu mantenimiento, pon la primera carta de tu biblioteca en tu cementerio. Si es una carta de instantáneo o de conjuro, transforma al Investigador aberrante.",
+                    "flavor": "\"La metamorfosis es un proceso\".\n—Notas de laboratorio",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=413090&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 413090
+                },
+                {
+                    "name": "Chercheur aberrant",
+                    "text": "Vol\nAu début de votre entretien, mettez la carte du dessus de votre bibliothèque dans votre cimetière. Si c'est une carte d'éphémère ou de rituel, transformez le Chercheur aberrant.",
+                    "flavor": "« La métamorphose est un processus. »\n—Notes de laboratoire",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=411110&type=card",
+                    "language": "French",
+                    "multiverseid": 411110
+                },
+                {
+                    "name": "Ricercatore Aberrante",
+                    "text": "Volare\nAll'inizio del tuo mantenimento, metti nel tuo cimitero la prima carta del tuo grimorio. Se è una carta istantaneo o stregoneria, trasforma il Ricercatore Aberrante.",
+                    "flavor": "\"La metamorfosi è un lungo processo.\"\n—Appunti del laboratorio",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=411440&type=card",
+                    "language": "Italian",
+                    "multiverseid": 411440
+                },
+                {
+                    "name": "逸脱した研究者",
+                    "text": "飛行\nあなたのアップキープの開始時に、あなたのライブラリーの一番上のカードをあなたの墓地に置く。それがインスタント・カードかソーサリー・カードなら、逸脱した研究者を変身させる。",
+                    "flavor": "「変身は過程である。」\n――実験メモ",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=411770&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 411770
+                },
+                {
+                    "name": "변종 연구원",
+                    "text": "비행\n당신의 유지단 시작에, 당신의 서고 맨 위의 카드를 당신의 무덤에 넣는다. 그 카드가 순간마법 또는 집중마법 카드라면, 변종 연구원을 변신시킨다.",
+                    "flavor": "\"변형은 일종의 과정이야.\"\n—실험실 메모",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=412100&type=card",
+                    "language": "Korean",
+                    "multiverseid": 412100
+                },
+                {
+                    "name": "Pesquisador Aberrante",
+                    "text": "Voar\nNo início de sua manutenção, coloque o card do topo de seu grimório em seu cemitério. Se for um card de mágica instantânea ou feitiço, transforme Pesquisador Aberrante.",
+                    "flavor": "\"A metamorfose é um processo.\"\n— Anotações de laboratório",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=412430&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 412430
+                },
+                {
+                    "name": "Насекомовидный Ученый",
+                    "text": "Полет\nВ начале вашего шага поддержки положите верхнюю карту вашей библиотеки на ваше кладбище. Если это карта мгновенного заклинания или волшебства, трансформируйте Насекомовидного Ученого.",
+                    "flavor": "«Метаморфоз — продолжительный процесс».\n— лабораторные заметки",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=412760&type=card",
+                    "language": "Russian",
+                    "multiverseid": 412760
+                },
+                {
+                    "name": "变体研究员",
+                    "text": "飞行\n在你的维持开始时，将你的牌库顶牌置入你的坟墓场。若该牌是瞬间或法术牌，转化变体研究员。",
+                    "flavor": "「变形是一个过程。」\n～实验室纪录",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410120&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 410120
+                },
+                {
+                    "name": "變體研究員",
+                    "text": "飛行\n在你的維持開始時，將你的牌庫頂牌置入你的墳墓場。若該牌是瞬間或巫術牌，轉化變體研究員。",
+                    "flavor": "「變形是一個過程。」\n～實驗室紀錄",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410450&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 410450
+                }
+            ],
+            "printings": [
+                "SOI"
+            ],
+            "originalText": "Flying\nAt the beginning of your upkeep, put the top card of your library into your graveyard. If it's an instant or sorcery card, transform Aberrant Researcher.",
+            "originalType": "Creature — Human Insect",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "0d06c2a5-3d5c-57c0-85f7-54120b646f6a"
+        },
+        {
+            "name": "Abhorrent Overlord",
+            "manaCost": "{5}{B}{B}",
+            "cmc": 7,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Demon",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Demon"
+            ],
+            "rarity": "Rare",
+            "set": "PTHS",
+            "setName": "Theros Promos",
+            "text": "Flying\nWhen Abhorrent Overlord enters the battlefield, create a number of 1/1 black Harpy creature tokens with flying equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\nAt the beginning of your upkeep, sacrifice a creature.",
+            "artist": "Dave Kendall",
+            "number": "75",
+            "power": "6",
+            "toughness": "6",
+            "layout": "normal",
+            "watermark": "set (THS)",
+            "rulings": [
+                {
+                    "date": "2013-09-15",
+                    "text": "Numeric mana symbols ({0}, {1}, and so on) in mana costs of permanents you control don’t count toward your devotion to any color."
+                },
+                {
+                    "date": "2013-09-15",
+                    "text": "Mana symbols in the text boxes of permanents you control don’t count toward your devotion to any color."
+                },
+                {
+                    "date": "2013-09-15",
+                    "text": "Hybrid mana symbols, monocolored hybrid mana symbols, and Phyrexian mana symbols do count toward your devotion to their color(s)."
+                },
+                {
+                    "date": "2013-09-15",
+                    "text": "If an activated ability or triggered ability has an effect that depends on your devotion to a color, you count the number of mana symbols of that color among the mana costs of permanents you control as the ability resolves. The permanent with that ability will be counted if it’s still on the battlefield at that time."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "PRM",
+                "PTHS",
+                "THS"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "4397651a-6b6c-59f7-8acf-20dd3d6959d3"
+        },
+        {
+            "name": "Abhorrent Overlord",
+            "names": [],
+            "manaCost": "{5}{B}{B}",
+            "cmc": 7,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Demon",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Demon"
+            ],
+            "rarity": "Rare",
+            "set": "THS",
+            "setName": "Theros",
+            "text": "Flying\nWhen Abhorrent Overlord enters the battlefield, create a number of 1/1 black Harpy creature tokens with flying equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\nAt the beginning of your upkeep, sacrifice a creature.",
+            "artist": "Slawomir Maniak",
+            "number": "75",
+            "power": "6",
+            "toughness": "6",
+            "layout": "normal",
+            "multiverseid": 373661,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373661&type=card",
+            "rulings": [
+                {
+                    "date": "2013-09-15",
+                    "text": "Numeric mana symbols ({0}, {1}, and so on) in mana costs of permanents you control don’t count toward your devotion to any color."
+                },
+                {
+                    "date": "2013-09-15",
+                    "text": "Mana symbols in the text boxes of permanents you control don’t count toward your devotion to any color."
+                },
+                {
+                    "date": "2013-09-15",
+                    "text": "Hybrid mana symbols, monocolored hybrid mana symbols, and Phyrexian mana symbols do count toward your devotion to their color(s)."
+                },
+                {
+                    "date": "2013-09-15",
+                    "text": "If an activated ability or triggered ability has an effect that depends on your devotion to a color, you count the number of mana symbols of that color among the mana costs of permanents you control as the ability resolves. The permanent with that ability will be counted if it’s still on the battlefield at that time."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Verhasster Oberkommandant",
+                    "text": "Fliegend\nWenn der Verhasste Oberkommandant ins Spiel kommt, bringe so viele 1/1 schwarze Harpyie-Kreaturenspielsteine mit Flugfähigkeit ins Spiel, wie deine Hingabe zu Schwarz beträgt. (Jedes {B} in den Manakosten von bleibenden Karten, die du kontrollierst, erhöht deine Hingabe zu Schwarz um eins.)\nOpfere zu Beginn deines Versorgungssegments eine Kreatur.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=374408&type=card",
+                    "language": "German",
+                    "multiverseid": 374408
+                },
+                {
+                    "name": "Jefe supremo aberrante",
+                    "text": "Vuela.\nCuando el Jefe supremo aberrante entre al campo de batalla, pon en el campo de batalla una cantidad de fichas de criatura Arpía negras 1/1 con la habilidad de volar igual a tu devoción al negro. (Cada {B} en los costes de maná de los permanentes que controlas cuenta para tu devoción al negro.)\nAl comienzo de tu mantenimiento, sacrifica una criatura.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376151&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 376151
+                },
+                {
+                    "name": "Suzerain abject",
+                    "text": "Vol\nQuand le Suzerain abject arrive sur le champ de bataille, mettez sur le champ de bataille un nombre de jetons de créature 1/1 noire Harpie avec le vol égal à votre dévotion au noir. (Chaque {B} dans les coûts de mana des permanents que vous contrôlez compte pour votre dévotion au noir.)\nAu début de votre entretien, sacrifiez une créature.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=374657&type=card",
+                    "language": "French",
+                    "multiverseid": 374657
+                },
+                {
+                    "name": "Signore Supremo Ripugnante",
+                    "text": "Volare\nQuando il Signore Supremo Ripugnante entra nel campo di battaglia, metti sul campo di battaglia un numero di pedine creatura Arpia 1/1 nere con volare pari alla tua devozione al nero. (La tua devozione al nero è la somma dei {B} nel costo di mana dei permanenti che controlli.)\nAll'inizio del tuo mantenimento, sacrifica una creatura.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=374906&type=card",
+                    "language": "Italian",
+                    "multiverseid": 374906
+                },
+                {
+                    "name": "忌まわしき首領",
+                    "text": "飛行\n忌まわしき首領が戦場に出たとき、飛行を持つ黒の１/１のハーピー・クリーチャー・トークンをあなたの黒への信心に等しい数だけ戦場に出す。（あなたの黒への信心は、あなたがコントロールするパーマネントのマナ・コストに含まれる{B}の総数に等しい。）\nあなたのアップキープの開始時に、クリーチャーを１体生け贄に捧げる。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=375155&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 375155
+                },
+                {
+                    "name": "혐오스러운 지배자",
+                    "text": "비행\n혐오스러운 지배자가 전장에 들어올 때, 당신의 흑색 신앙심만큼의 비행 능력이 있는 1/1 흑색 하피 생물 토큰을 전장에 놓는다. (당신이 조종하는 지속물의 마나 비용에 있는 각 {B}마다 당신의 흑색 신앙심이 1씩 증가한다.)\n당신의 유지단 시작에, 생물 한 개를 희생한다.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=375404&type=card",
+                    "language": "Korean",
+                    "multiverseid": 375404
+                },
+                {
+                    "name": "Soberano Abominável",
+                    "text": "Voar\nQuando Soberano Abominável entrar no campo de batalha, coloque no campo de batalha um número de fichas de criatura pretas 1/1 do tipo Harpia com voar igual a sua devoção ao preto. (Cada {B} nos custos de mana de permanentes que você controla conta para sua devoção ao preto.)\nNo início de sua manutenção, sacrifique uma criatura.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=375653&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 375653
+                },
+                {
+                    "name": "Гнусный Владыка",
+                    "text": "Полет\nКогда Гнусный Владыка выходит на поле битвы, положите на поле битвы фишки существа 1/1 черная Гарпия с Полетом, количество которых равно вашей Преданности черному. (Каждый символ {B} в мана-стоимости перманентов под вашим контролем идет в счет вашей Преданности черному.)\nВ начале вашего шага поддержки пожертвуйте существо.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=375902&type=card",
+                    "language": "Russian",
+                    "multiverseid": 375902
+                },
+                {
+                    "name": "乖戾督军",
+                    "text": "飞行\n当乖戾督军进战场时，将若干1/1黑色，具飞行异能的哈痞衍生生物放进战场，其数量等同于你的黑色献力。（由你操控之永久物的法术力费用当中每含有一个{B}，你的黑色献力就加一。）\n在你的维持开始时，牺牲一个生物。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373910&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 373910
+                },
+                {
+                    "name": "乖戾督軍",
+                    "text": "飛行\n當乖戾督軍進戰場時，將若干1/1黑色，具飛行異能的哈痞衍生生物放進戰場，其數量等同於你的黑色獻力。（由你操控之永久物的魔法力費用當中每含有一個{B}，你的黑色獻力就加一。）\n在你的維持開始時，犧牲一個生物。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=374159&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 374159
+                }
+            ],
+            "printings": [
+                "PRM",
+                "PTHS",
+                "THS"
+            ],
+            "originalText": "Flying\nWhen Abhorrent Overlord enters the battlefield, put a number of 1/1 black Harpy creature tokens with flying onto the battlefield equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\nAt the beginning of your upkeep, sacrifice a creature.",
+            "originalType": "Creature — Demon",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "b12ac717-1b8e-51d6-89bb-60459cb912f6"
+        },
+        {
+            "name": "Abhorrent Overlord",
+            "manaCost": "{5}{B}{B}",
+            "cmc": 7,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Demon",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Demon"
+            ],
+            "rarity": "Rare",
+            "set": "PRM",
+            "setName": "Magic Online Promos",
+            "text": "Flying\nWhen Abhorrent Overlord enters the battlefield, create a number of 1/1 black Harpy creature tokens with flying equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\nAt the beginning of your upkeep, sacrifice a creature.",
+            "artist": "Dave Kendall",
+            "number": "50126",
+            "power": "6",
+            "toughness": "6",
+            "layout": "normal",
+            "rulings": [
+                {
+                    "date": "2013-09-15",
+                    "text": "Numeric mana symbols ({0}, {1}, and so on) in mana costs of permanents you control don’t count toward your devotion to any color."
+                },
+                {
+                    "date": "2013-09-15",
+                    "text": "Mana symbols in the text boxes of permanents you control don’t count toward your devotion to any color."
+                },
+                {
+                    "date": "2013-09-15",
+                    "text": "Hybrid mana symbols, monocolored hybrid mana symbols, and Phyrexian mana symbols do count toward your devotion to their color(s)."
+                },
+                {
+                    "date": "2013-09-15",
+                    "text": "If an activated ability or triggered ability has an effect that depends on your devotion to a color, you count the number of mana symbols of that color among the mana costs of permanents you control as the ability resolves. The permanent with that ability will be counted if it’s still on the battlefield at that time."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "PRM",
+                "PTHS",
+                "THS"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "9249fc0a-8094-5f3b-96c7-0f0ad34133ec"
+        },
+        {
+            "name": "Abolisher of Bloodlines",
+            "names": [
+                "Voldaren Pariah",
+                "Abolisher of Bloodlines"
+            ],
+            "cmc": 5,
+            "colors": [],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Eldrazi Vampire",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Eldrazi",
+                "Vampire"
+            ],
+            "rarity": "Rare",
+            "set": "PEMN",
+            "setName": "Eldritch Moon Promos",
+            "text": "Flying\nWhen this creature transforms into Abolisher of Bloodlines, target opponent sacrifices three creatures.",
+            "artist": "James Ryman",
+            "number": "111s",
+            "power": "6",
+            "toughness": "5",
+            "layout": "transform",
+            "rulings": [
+                {
+                    "date": "2016-07-13",
+                    "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "If the targeted opponent doesn’t control three creatures as the triggered ability of Abolisher of Bloodlines resolves, that player sacrifices as many creatures as able."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "EMN",
+                "PEMN"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "b596a06b-4b2d-56f5-98bf-3644969c8c58"
+        },
+        {
+            "name": "Abolisher of Bloodlines",
+            "names": [
+                "Voldaren Pariah",
+                "Abolisher of Bloodlines"
+            ],
+            "cmc": 5,
+            "colors": [],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Eldrazi Vampire",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Eldrazi",
+                "Vampire"
+            ],
+            "rarity": "Rare",
+            "set": "EMN",
+            "setName": "Eldritch Moon",
+            "text": "Flying\nWhen this creature transforms into Abolisher of Bloodlines, target opponent sacrifices three creatures.",
+            "flavor": "Even if the rain turned to blood, her thirst would not be slaked.",
+            "artist": "James Ryman",
+            "number": "111",
+            "power": "6",
+            "toughness": "5",
+            "layout": "transform",
+            "multiverseid": 414408,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=414408&type=card",
+            "rulings": [
+                {
+                    "date": "2016-07-13",
+                    "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "If the targeted opponent doesn’t control three creatures as the triggered ability of Abolisher of Bloodlines resolves, that player sacrifices as many creatures as able."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Ausmerzerin der Blutlinien",
+                    "text": "Fliegend\nWenn diese Kreatur in die Ausmerzerin der Blutlinien transformiert, opfert ein Gegner deiner Wahl drei Kreaturen.",
+                    "flavor": "Selbst wenn es Blut regnen würde, könnte dies ihren Durst nicht stillen.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=415076&type=card",
+                    "language": "German",
+                    "multiverseid": 415076
+                },
+                {
+                    "name": "Abolidora de linajes",
+                    "text": "Vuela.\nCuando esta criatura se transforme en la Abolidora de linajes, el oponente objetivo sacrifica tres criaturas.",
+                    "flavor": "Incluso si la lluvia se volviera sangre, no apagaría su sed.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416637&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 416637
+                },
+                {
+                    "name": "Abolisseuse des lignées de sang",
+                    "text": "Vol\nQuand cette créature se transforme en Abolisseuse des lignées de sang, l'adversaire ciblé sacrifie trois créatures.",
+                    "flavor": "Même s'il pleuvait du sang, sa soif ne serait pas étanchée.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=415299&type=card",
+                    "language": "French",
+                    "multiverseid": 415299
+                },
+                {
+                    "name": "Mietitrice di Stirpi",
+                    "text": "Volare\nQuando questa creatura si trasforma nella Mietitrice di Stirpi, un avversario bersaglio sacrifica tre creature.",
+                    "flavor": "Anche se la pioggia divenisse sangue, la sua sete non verrebbe placata.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=415522&type=card",
+                    "language": "Italian",
+                    "multiverseid": 415522
+                },
+                {
+                    "name": "血統の撤廃者",
+                    "text": "飛行\nこのクリーチャーが血統の撤廃者に変身したとき、対戦相手１人を対象とする。そのプレイヤーはクリーチャー３体を生け贄に捧げる。",
+                    "flavor": "血の雨が降っても、彼女の渇きは満たされない。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=415745&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 415745
+                },
+                {
+                    "name": "혈족의 척결사",
+                    "text": "비행\n이 생물이 혈족의 척결사로 변신할 때, 상대를 목표로 정한다. 그 상대는 생물 세 개를 희생한다.",
+                    "flavor": "비가 피로 변해도 그녀의 피에 대한 갈증은 해소되지 않을 것이다.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=415968&type=card",
+                    "language": "Korean",
+                    "multiverseid": 415968
+                },
+                {
+                    "name": "Abolidora de Linhagens",
+                    "text": "Voar\nQuando esta criatura se transforma em Abolidora de Linhagens, o oponente alvo sacrifica três criaturas.",
+                    "flavor": "Nem mesmo se a chuva se transformasse em sangue sua sede seria saciada.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416191&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 416191
+                },
+                {
+                    "name": "Упразднительница Династий",
+                    "text": "Полет\nКогда это существо трансформируется в Упразднительницу Династий, целевой оппонент жертвует три существа.",
+                    "flavor": "Даже если вместо дождя польются потоки крови, ее жажду будет не утолить.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416414&type=card",
+                    "language": "Russian",
+                    "multiverseid": 416414
+                },
+                {
+                    "name": "血脉破弃体",
+                    "text": "飞行\n当此生物转化为血脉破弃体时，目标对手牺牲三个生物。",
+                    "flavor": "即使天降血雨，她的饥渴仍无法满足。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=414630&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 414630
+                },
+                {
+                    "name": "血脈破棄體",
+                    "text": "飛行\n當此生物轉化為血脈破棄體時，目標對手犧牲三個生物。",
+                    "flavor": "即使天降血雨，她的飢渴仍無法滿足。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=414853&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 414853
+                }
+            ],
+            "printings": [
+                "EMN",
+                "PEMN"
+            ],
+            "originalText": "Flying\nWhen this creature transforms into Abolisher of Bloodlines, target opponent sacrifices three creatures.",
+            "originalType": "Creature — Eldrazi Vampire",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "98cd5aa4-180f-5059-814a-afbb900f835d"
+        }
+    ]
+}

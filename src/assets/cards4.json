@@ -1,0 +1,2516 @@
+{
+    "cards": [
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "6ED",
+            "setName": "Classic Sixth Edition",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "artist": "George Pratt",
+            "number": "110",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 15381,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15381&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Unterweltgespenst",
+                    "text": "Fliegend\nImmer wenn das Unterweltgespenst einen Spieler Schaden zufügt, bestimmt dieser Spieler eine Karte von seiner Hand und wirft diese ab.",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Espectro abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Spectre des abysses",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Spettro dell'Abisso",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "深淵の死霊",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Espectro Abissal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "originalText": "Flying\nWhenever Abyssal Specter deals damage to a player, that player chooses and discards a card from his or her hand.",
+            "originalType": "Creature - Specter",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "d82b6002-6985-5062-862f-657cbd833b16"
+        },
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "7ED",
+            "setName": "Seventh Edition",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "flavor": "To gaze under its hood is to invite death.",
+            "artist": "Michael Sutfin",
+            "number": "116",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 25636,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25636&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Unterweltgespenst",
+                    "text": "Fliegend\nImmer wenn das Unterweltgespenst einem Spieler Schaden zufügt, wirft dieser Spieler eine Karte aus seiner Hand ab.",
+                    "flavor": "Unter seine Kapuze zu schauen bedeutet den Tod einzuladen.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=182756&type=card",
+                    "language": "German",
+                    "multiverseid": 182756
+                },
+                {
+                    "name": "Espectro abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Spectre des abysses",
+                    "text": "Vol\nÀ chaque fois que le Spectre des abysses blesse un joueur, ce joueur choisit une carte de sa main et s'en défausse.",
+                    "flavor": "« Quel est ce tourbillon spectral qui se déchaîne ? » — Leconte de Lisle, Poèmes tragiques.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184172&type=card",
+                    "language": "French",
+                    "multiverseid": 184172
+                },
+                {
+                    "name": "深淵の死霊",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Espectro Abissal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "originalText": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card from his or her hand.",
+            "originalType": "Creature - Specter",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "1d8ff432-0fb3-5c0a-bef4-748eaaf123e5"
+        },
+        {
+            "name": "Abzan Battle Priest",
+            "manaCost": "{3}{W}",
+            "cmc": 4,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human Cleric",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Cleric"
+            ],
+            "rarity": "Uncommon",
+            "set": "IMA",
+            "setName": "Iconic Masters",
+            "text": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has lifelink.",
+            "flavor": "\"Wherever I walk, the ancestors walk too.\"",
+            "artist": "Chris Rahn",
+            "number": "2",
+            "power": "3",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 438568,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438568&type=card",
+            "rulings": [
+                {
+                    "date": "2014-09-20",
+                    "text": "The cost to activate a creature’s outlast ability includes the tap symbol ({T}). A creature’s outlast ability can’t be activated unless that creature has been under your control continuously since the beginning of your turn."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "Several creatures with outlast also grant an ability to creatures you control with +1/+1 counters on them, including themselves. These counters could come from an outlast ability, but any +1/+1 counter on the creature will count."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "アブザンの戦僧侶",
+                    "text": "長久{W}（{W}, {T}：このクリーチャーの上に＋１/＋１カウンターを１個置く。長久はソーサリーとしてのみ行う。）\nあなたがコントロールしていて＋１/＋１カウンターが置かれている各クリーチャーはそれぞれ絆魂を持つ。",
+                    "flavor": "「私が歩むすべての場所は、祖先も一緒に歩む。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438817&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 438817
+                },
+                {
+                    "name": "阿布赞战斗僧侣",
+                    "text": "延生{W}（{W}，{T}：在此生物上放置一个+1/+1指示物。延生的时机视同法术。）\n每个由你操控且其上有+1/+1指示物的生物均具有系命异能。",
+                    "flavor": "「不论我去向何方，先祖都与我同在。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439066&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 439066
+                }
+            ],
+            "printings": [
+                "IMA",
+                "KTK"
+            ],
+            "originalText": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has lifelink.",
+            "originalType": "Creature — Human Cleric",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "313f37c8-0777-564b-89d4-8ab23c3e5e92"
+        },
+        {
+            "name": "Abzan Battle Priest",
+            "manaCost": "{3}{W}",
+            "cmc": 4,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human Cleric",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Cleric"
+            ],
+            "rarity": "Uncommon",
+            "set": "KTK",
+            "setName": "Khans of Tarkir",
+            "text": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has lifelink.",
+            "flavor": "\"Wherever I walk, the ancestors walk too.\"",
+            "artist": "Chris Rahn",
+            "number": "1",
+            "power": "3",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 386466,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386466&type=card",
+            "watermark": "abzan",
+            "rulings": [
+                {
+                    "date": "2014-09-20",
+                    "text": "The cost to activate a creature’s outlast ability includes the tap symbol ({T}). A creature’s outlast ability can’t be activated unless that creature has been under your control continuously since the beginning of your turn."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "Several creatures with outlast also grant an ability to creatures you control with +1/+1 counters on them, including themselves. These counters could come from an outlast ability, but any +1/+1 counter on the creature will count."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Abzan-Kampfpriester",
+                    "text": "Standhaft {W} ({W}, {T}: Lege eine +1/+1-Marke auf diese Kreatur. Spiele Standhaft wie eine Hexerei.)\nJede Kreatur, die du kontrollierst und auf der mindestens eine +1/+1-Marke liegt, hat Lebensverknüpfung.",
+                    "flavor": "„Wohin ich auch gehe, unsere Ahnen gehen mit mir.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387273&type=card",
+                    "language": "German",
+                    "multiverseid": 387273
+                },
+                {
+                    "name": "Sacerdote guerrero abzano",
+                    "text": "Supervivencia {W}. ({W}, {T}: Pon un contador +1/+1 sobre esta criatura. Activa la habilidad de supervivencia solo como un conjuro.)\nCada criatura que controlas con un contador +1/+1 sobre ella tiene la habilidad de vínculo vital.",
+                    "flavor": "\"Allá por donde camino, caminan también los ancestros\".",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=389156&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 389156
+                },
+                {
+                    "name": "Prêtre de bataille abzan",
+                    "text": "Résilience {W} ({W}, {T} : Mettez un marqueur +1/+1 sur cette créature. N'utilisez la résilience que lorsque vous pourriez lancer un rituel.)\nChaque créature que vous contrôlez avec un marqueur +1/+1 sur elle a le lien de vie.",
+                    "flavor": "« Où que j'aille, mes ancêtres m'accompagnent. »",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387542&type=card",
+                    "language": "French",
+                    "multiverseid": 387542
+                },
+                {
+                    "name": "Sacerdote Guerriero Abzan",
+                    "text": "Perdurare {W} ({W}, {T}: Metti un segnalino +1/+1 su questa creatura. Perdura solo quando potresti lanciare una stregoneria.)\nOgni creatura con un segnalino +1/+1 che controlli ha legame vitale.",
+                    "flavor": "\"Ovunque io vada, gli antenati sono con me.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387811&type=card",
+                    "language": "Italian",
+                    "multiverseid": 387811
+                },
+                {
+                    "name": "アブザンの戦僧侶",
+                    "text": "長久{W}（{W}, {T}：このクリーチャーの上に＋１/＋１カウンターを１個置く。長久はソーサリーとしてのみ行う。）\nあなたがコントロールする＋１/＋１カウンターが置かれている各クリーチャーは絆魂を持つ。",
+                    "flavor": "「私が歩むすべての場所は、祖先も一緒に歩む。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388080&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 388080
+                },
+                {
+                    "name": "아브잔 전투 사제",
+                    "text": "버티기 {W} ({W}, {T}: 이 생물에 +1/+1 카운터 한 개를 올려놓는다. 당신은 집중마법을 발동할 수 있는 시기에만 버티기를 활성화할 수 있다.)\n당신이 조종하는 생물 중 +1/+1 카운터를 가진 각 생물은 생명연결을 가진다.",
+                    "flavor": "\"내가 가는 길에는 조상님들께서 함께 하신다.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388349&type=card",
+                    "language": "Korean",
+                    "multiverseid": 388349
+                },
+                {
+                    "name": "Sacerdote de Batalha Abzan",
+                    "text": "Sobreviver {W} ({W}, {T}: Coloque um marcador +1/+1 nesta criatura. Use sobreviver somente como um feitiço.)\nCada criatura que você controla com um marcador +1/+1 tem vínculo com a vida.",
+                    "flavor": "\"Onde quer que eu caminhe, os ancestrais caminham também.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388618&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 388618
+                },
+                {
+                    "name": "Абзанский Боевой Жрец",
+                    "text": "Стойкость {W} ({W}, {T}: положите один жетон +1/+1 на это существо. Используйте Стойкость только как волшебство.)\nКаждое существо под вашим контролем, на котором есть жетон +1/+1, имеет Цепь жизни.",
+                    "flavor": "«Где бы я ни шел, со мной идут предки».",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388887&type=card",
+                    "language": "Russian",
+                    "multiverseid": 388887
+                },
+                {
+                    "name": "阿布赞战斗僧侣",
+                    "text": "延生{W}（{W}，{T}：在此生物上放置一个+1/+1指示物。延生的时机视同法术。）\n每个由你操控且其上有+1/+1指示物的生物均具有系命异能。",
+                    "flavor": "「不论我去向何方，先祖都与我同在。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386735&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 386735
+                },
+                {
+                    "name": "阿布贊戰鬥僧侶",
+                    "text": "延生{W}（{W}，{T}：在此生物上放置一個+1/+1指示物。延生的時機視同巫術。）\n每個由你操控且其上有+1/+1指示物的生物均具有繫命異能。",
+                    "flavor": "「不論我去向何方，先祖都與我同在。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387004&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 387004
+                }
+            ],
+            "printings": [
+                "IMA",
+                "KTK"
+            ],
+            "originalText": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has lifelink.",
+            "originalType": "Creature — Human Cleric",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "b614e741-aebe-51b7-b0b3-3f6e6d9b4dd3"
+        },
+        {
+            "name": "Abzan Beastmaster",
+            "manaCost": "{2}{G}",
+            "cmc": 3,
+            "colors": [
+                "Green"
+            ],
+            "colorIdentity": [
+                "G"
+            ],
+            "type": "Creature — Hound Shaman",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Hound",
+                "Shaman"
+            ],
+            "rarity": "Uncommon",
+            "set": "FRF",
+            "setName": "Fate Reforged",
+            "text": "At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.",
+            "flavor": "His beasts move the great siege towers of the Abzan across the endless sands.",
+            "artist": "Winona Nelson",
+            "number": "119",
+            "power": "2",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 391782,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=391782&type=card",
+            "watermark": "abzan",
+            "rulings": [
+                {
+                    "date": "2014-11-24",
+                    "text": "The ability checks the creatures on the battlefield as it resolves to determine if you will draw a card."
+                },
+                {
+                    "date": "2014-11-24",
+                    "text": "You’ll draw a maximum of one card, even if you control multiple creatures tied for the greatest toughness."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Abzan-Bändiger",
+                    "text": "Ziehe zu Beginn deines Versorgungssegments eine Karte, falls du die Kreatur mit der größten Widerstandskraft oder der gemeinsam größten Widerstandskraft kontrollierst.",
+                    "flavor": "Seine Bestien ziehen die großen Belagerungstürme der Abzan über die endlosen Sande.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392337&type=card",
+                    "language": "German",
+                    "multiverseid": 392337
+                },
+                {
+                    "name": "Domador abzano",
+                    "text": "Al comienzo de tu mantenimiento, roba una carta si controlas a la criatura con mayor resistencia o que empata por la mayor resistencia.",
+                    "flavor": "Sus bestias arrastran las enormes torres de asedio de los Abzan a través de un desierto interminable.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393632&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 393632
+                },
+                {
+                    "name": "Maître des bêtes abzan",
+                    "text": "Au début de votre entretien, piochez une carte si vous contrôlez la créature avec l'endurance la plus élevée ou qui partage l'endurance la plus élevée.",
+                    "flavor": "Ses bêtes déplacent les immenses tours de siège des Abzans sur les étendues de sable infinies.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392522&type=card",
+                    "language": "French",
+                    "multiverseid": 392522
+                },
+                {
+                    "name": "Domatore Abzan",
+                    "text": "All'inizio del tuo mantenimento, pesca una carta se controlli la creatura con la costituzione maggiore o con costituzione maggiore a pari merito con un'altra creatura.",
+                    "flavor": "Le sue bestie spostano le grandi torri d'assedio degli Abzan attraverso le sabbie sconfinate.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392707&type=card",
+                    "language": "Italian",
+                    "multiverseid": 392707
+                },
+                {
+                    "name": "アブザンの獣使い",
+                    "text": "あなたのアップキープの開始時に、あなたがタフネスの最も大きいクリーチャー、あるいは２体以上あるならそのうちの１体をコントロールしているなら、カードを１枚引く。",
+                    "flavor": "彼の獣たちは、アブザンの巨大な攻城塔を動かして終わりなき砂地を横断させる。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392892&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 392892
+                },
+                {
+                    "name": "아브잔 야수조련사",
+                    "text": "당신의 유지단 시작에, 당신이 방어력이 제일 높거나 공동으로 방어력이 제일 높은 생물을 조종한다면 카드 한 장을 뽑는다.",
+                    "flavor": "그가 부리는 짐승들은 광활한 사막에서 아브잔의 거대한 공성 병기를 끌고 다닌다.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393077&type=card",
+                    "language": "Korean",
+                    "multiverseid": 393077
+                },
+                {
+                    "name": "Mestre das Feras Abzan",
+                    "text": "No início de sua manutenção, compre um card se você controlar a criatura com maior resistência ou uma das que tem a maior resistência.",
+                    "flavor": "Suas feras movem as enormes torres de cerco dos Abzan pelas intermináveis areias dos desertos.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393262&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 393262
+                },
+                {
+                    "name": "Абзанский Укротитель",
+                    "text": "В начале вашего шага поддержки возьмите карту, если вы контролируете существо с наибольшей выносливостью или с одинаковым значением наибольшей выносливости с другим существом.",
+                    "flavor": "Его звери тащат громадные осадные башни абзанов через нескончаемые пески.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393447&type=card",
+                    "language": "Russian",
+                    "multiverseid": 393447
+                },
+                {
+                    "name": "阿布赞驯兽师",
+                    "text": "在你的维持开始时，如果你操控防御力最大或与他者同为最大的生物，则抓一张牌。",
+                    "flavor": "他的野兽驮着阿布赞的攻城巨塔穿越无垠沙漠。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=391967&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 391967
+                },
+                {
+                    "name": "阿布贊馴獸師",
+                    "text": "在你的維持開始時，如果你操控防禦力最大或與他者同為最大的生物，則抽一張牌。",
+                    "flavor": "他的野獸馱著阿布贊的攻城巨塔穿越無垠沙漠。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392152&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 392152
+                }
+            ],
+            "printings": [
+                "F15",
+                "FRF",
+                "PRM"
+            ],
+            "originalText": "At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.",
+            "originalType": "Creature — Hound Shaman",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "923af0f8-fc9a-57b2-b6b9-9b904698d76d"
+        },
+        {
+            "name": "Abzan Beastmaster",
+            "manaCost": "{2}{G}",
+            "cmc": 3,
+            "colors": [
+                "Green"
+            ],
+            "colorIdentity": [
+                "G"
+            ],
+            "type": "Creature — Hound Shaman",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Hound",
+                "Shaman"
+            ],
+            "rarity": "Rare",
+            "set": "F15",
+            "setName": "Friday Night Magic 2015",
+            "text": "At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.",
+            "flavor": "His beasts move the great siege towers of the Abzan across the endless sands.",
+            "artist": "Scott Murphy",
+            "number": "5",
+            "power": "2",
+            "toughness": "1",
+            "layout": "normal",
+            "watermark": "abzan",
+            "rulings": [
+                {
+                    "date": "2014-11-24",
+                    "text": "The ability checks the creatures on the battlefield as it resolves to determine if you will draw a card."
+                },
+                {
+                    "date": "2014-11-24",
+                    "text": "You’ll draw a maximum of one card, even if you control multiple creatures tied for the greatest toughness."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "F15",
+                "FRF",
+                "PRM"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "8ed99d59-ed6c-51b7-9519-454015416ceb"
+        },
+        {
+            "name": "Abzan Beastmaster",
+            "manaCost": "{2}{G}",
+            "cmc": 3,
+            "colors": [
+                "Green"
+            ],
+            "colorIdentity": [
+                "G"
+            ],
+            "type": "Creature — Hound Shaman",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Hound",
+                "Shaman"
+            ],
+            "rarity": "Uncommon",
+            "set": "PRM",
+            "setName": "Magic Online Promos",
+            "text": "At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.",
+            "flavor": "His beasts move the great siege towers of the Abzan across the endless sands.",
+            "artist": "Scott Murphy",
+            "number": "55888",
+            "power": "2",
+            "toughness": "1",
+            "layout": "normal",
+            "watermark": "abzan",
+            "rulings": [
+                {
+                    "date": "2014-11-24",
+                    "text": "The ability checks the creatures on the battlefield as it resolves to determine if you will draw a card."
+                },
+                {
+                    "date": "2014-11-24",
+                    "text": "You’ll draw a maximum of one card, even if you control multiple creatures tied for the greatest toughness."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "F15",
+                "FRF",
+                "PRM"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "d7c3c7f7-1d1f-58b6-b7ac-60ce4a6fd64f"
+        },
+        {
+            "name": "Abzan Falconer",
+            "manaCost": "{2}{W}",
+            "cmc": 3,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human Soldier",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Soldier"
+            ],
+            "rarity": "Uncommon",
+            "set": "IMA",
+            "setName": "Iconic Masters",
+            "text": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has flying.",
+            "flavor": "The fastest way across the dunes is above.",
+            "artist": "Steven Belledin",
+            "number": "3",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 438569,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438569&type=card",
+            "rulings": [
+                {
+                    "date": "2014-09-20",
+                    "text": "The cost to activate a creature’s outlast ability includes the tap symbol ({T}). A creature’s outlast ability can’t be activated unless that creature has been under your control continuously since the beginning of your turn."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "Several creatures with outlast also grant an ability to creatures you control with +1/+1 counters on them, including themselves. These counters could come from an outlast ability, but any +1/+1 counter on the creature will count."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "アブザンの鷹匠",
+                    "text": "長久{W}（{W}, {T}：このクリーチャーの上に＋１/＋１カウンターを１個置く。長久はソーサリーとしてのみ行う。）\nあなたがコントロールしていて＋１/＋１カウンターが置かれている各クリーチャーはそれぞれ飛行を持つ。",
+                    "flavor": "砂丘群を越えるのに最も速い手段は、上から行くことだ。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438818&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 438818
+                },
+                {
+                    "name": "阿布赞训隼兵",
+                    "text": "延生{W}（{W}，{T}：在此生物上放置一个+1/+1指示物。延生的时机视同法术。）\n每个由你操控且其上有+1/+1指示物的生物均具有飞行异能。",
+                    "flavor": "横跨沙丘的捷径在空中。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439067&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 439067
+                }
+            ],
+            "printings": [
+                "C16",
+                "CM2",
+                "IMA",
+                "KTK"
+            ],
+            "originalText": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has flying.",
+            "originalType": "Creature — Human Soldier",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "6078e3b3-39ee-526d-a882-85adea068f1f"
+        },
+        {
+            "name": "Abzan Falconer",
+            "manaCost": "{2}{W}",
+            "cmc": 3,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human Soldier",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Soldier"
+            ],
+            "rarity": "Uncommon",
+            "set": "KTK",
+            "setName": "Khans of Tarkir",
+            "text": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has flying.",
+            "flavor": "The fastest way across the dunes is above.",
+            "artist": "Steven Belledin",
+            "number": "2",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 386468,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386468&type=card",
+            "watermark": "abzan",
+            "rulings": [
+                {
+                    "date": "2014-09-20",
+                    "text": "The cost to activate a creature’s outlast ability includes the tap symbol ({T}). A creature’s outlast ability can’t be activated unless that creature has been under your control continuously since the beginning of your turn."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "Several creatures with outlast also grant an ability to creatures you control with +1/+1 counters on them, including themselves. These counters could come from an outlast ability, but any +1/+1 counter on the creature will count."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Abzan-Falkner",
+                    "text": "Standhaft {W} ({W}, {T}: Lege eine +1/+1-Marke auf diese Kreatur. Spiele Standhaft wie eine Hexerei.)\nJede Kreatur, die du kontrollierst und auf der mindestens eine +1/+1-Marke liegt, hat Flugfähigkeit.",
+                    "flavor": "Der schnellste Weg durch die Dünen führt darüber.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387275&type=card",
+                    "language": "German",
+                    "multiverseid": 387275
+                },
+                {
+                    "name": "Halconero abzano",
+                    "text": "Supervivencia {W}. ({W}, {T}: Pon un contador +1/+1 sobre esta criatura. Activa la habilidad de supervivencia solo como un conjuro.)\nCada criatura que controlas con un contador +1/+1 sobre ella tiene la habilidad de volar.",
+                    "flavor": "El camino más rápido para cruzar las dunas es por encima.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=389158&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 389158
+                },
+                {
+                    "name": "Fauconnier abzan",
+                    "text": "Résilience {W} ({W}, {T} : Mettez un marqueur +1/+1 sur cette créature. N'utilisez la résilience que lorsque vous pourriez lancer un rituel.)\nChaque créature que vous contrôlez avec un marqueur +1/+1 sur elle a le vol.",
+                    "flavor": "Le moyen le plus rapide de traverser les dunes reste encore de les survoler.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387544&type=card",
+                    "language": "French",
+                    "multiverseid": 387544
+                },
+                {
+                    "name": "Falconiere Abzan",
+                    "text": "Perdurare {W} ({W}, {T}: Metti un segnalino +1/+1 su questa creatura. Perdura solo quando potresti lanciare una stregoneria.)\nOgni creatura con un segnalino +1/+1 che controlli ha volare.",
+                    "flavor": "La via più breve attraverso le dune è il cielo.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387813&type=card",
+                    "language": "Italian",
+                    "multiverseid": 387813
+                },
+                {
+                    "name": "アブザンの鷹匠",
+                    "text": "長久{W}（{W}, {T}：このクリーチャーの上に＋１/＋１カウンターを１個置く。長久はソーサリーとしてのみ行う。）\nあなたがコントロールする＋１/＋１カウンターが置かれている各クリーチャーは飛行を持つ。",
+                    "flavor": "砂丘群を越えるのに最も速い手段は、上から行くことだ。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388082&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 388082
+                },
+                {
+                    "name": "아브잔 매 조련사",
+                    "text": "버티기 {W} ({W}, {T}: 이 생물에 +1/+1 카운터 한 개를 올려놓는다. 당신은 집중마법을 발동할 수 있는 시기에만 버티기를 활성화할 수 있다.)\n당신이 조종하는 생물 중 +1/+1 카운터를 가진 각 생물은 비행을 가진다.",
+                    "flavor": "모래 언덕은 위로 넘어가는 것이 가장 빠르다.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388351&type=card",
+                    "language": "Korean",
+                    "multiverseid": 388351
+                },
+                {
+                    "name": "Falcoeiro Abzan",
+                    "text": "Sobreviver {W} ({W}, {T}: Coloque um marcador +1/+1 nesta criatura. Use sobreviver somente como um feitiço.)\nCada criatura que você controla com um marcador +1/+1 tem voar.",
+                    "flavor": "O modo mais rápido de cruzar as dunas é por cima.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388620&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 388620
+                },
+                {
+                    "name": "Абзанский Сокольничий",
+                    "text": "Стойкость {W} ({W}, {T}: положите один жетон +1/+1 на это существо. Используйте Стойкость только как волшебство.)\nКаждое существо под вашим контролем, на котором есть жетон +1/+1, имеет Полет.",
+                    "flavor": "Самый быстрый путь через дюны — над ними.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388889&type=card",
+                    "language": "Russian",
+                    "multiverseid": 388889
+                },
+                {
+                    "name": "阿布赞训隼兵",
+                    "text": "延生{W}（{W}，{T}：在此生物上放置一个+1/+1指示物。延生的时机视同法术。）\n每个由你操控且其上有+1/+1指示物的生物均具有飞行异能。",
+                    "flavor": "横跨沙丘的捷径在空中。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386737&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 386737
+                },
+                {
+                    "name": "阿布贊訓隼兵",
+                    "text": "延生{W}（{W}，{T}：在此生物上放置一個+1/+1指示物。延生的時機視同巫術。）\n每個由你操控且其上有+1/+1指示物的生物均具有飛行異能。",
+                    "flavor": "橫跨沙丘的捷徑在空中。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387006&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 387006
+                }
+            ],
+            "printings": [
+                "C16",
+                "CM2",
+                "IMA",
+                "KTK"
+            ],
+            "originalText": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has flying.",
+            "originalType": "Creature — Human Soldier",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "7e6f4ba1-681c-5dd7-8a73-dca61b338538"
+        },
+        {
+            "name": "Abzan Falconer",
+            "manaCost": "{2}{W}",
+            "cmc": 3,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human Soldier",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Soldier"
+            ],
+            "rarity": "Uncommon",
+            "set": "CM2",
+            "setName": "Commander Anthology Volume II",
+            "text": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has flying.",
+            "flavor": "The fastest way across the dunes is above.",
+            "artist": "Steven Belledin",
+            "number": "15",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 446751,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=446751&type=card",
+            "rulings": [
+                {
+                    "date": "2014-09-20",
+                    "text": "The cost to activate a creature’s outlast ability includes the tap symbol ({T}). A creature’s outlast ability can’t be activated unless that creature has been under your control continuously since the beginning of your turn."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "Several creatures with outlast also grant an ability to creatures you control with +1/+1 counters on them, including themselves. These counters could come from an outlast ability, but any +1/+1 counter on the creature will count."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "C16",
+                "CM2",
+                "IMA",
+                "KTK"
+            ],
+            "originalText": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has flying.",
+            "originalType": "Creature — Human Soldier",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "e2cb634c-53ea-5430-b7f7-679add44b9ee"
+        },
+        {
+            "name": "Abzan Falconer",
+            "manaCost": "{2}{W}",
+            "cmc": 3,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human Soldier",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Soldier"
+            ],
+            "rarity": "Uncommon",
+            "set": "C16",
+            "setName": "Commander 2016",
+            "text": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has flying.",
+            "flavor": "The fastest way across the dunes is above.",
+            "artist": "Steven Belledin",
+            "number": "57",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 420674,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420674&type=card",
+            "rulings": [
+                {
+                    "date": "2014-09-20",
+                    "text": "The cost to activate a creature’s outlast ability includes the tap symbol ({T}). A creature’s outlast ability can’t be activated unless that creature has been under your control continuously since the beginning of your turn."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "Several creatures with outlast also grant an ability to creatures you control with +1/+1 counters on them, including themselves. These counters could come from an outlast ability, but any +1/+1 counter on the creature will count."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Abzan-Falkner",
+                    "text": "Standhaft {W} ({W}, {T}: Lege eine +1/+1-Marke auf diese Kreatur. Spiele Standhaft wie eine Hexerei.)\nJede Kreatur, die du kontrollierst und auf der mindestens eine +1/+1-Marke liegt, hat Flugfähigkeit.",
+                    "flavor": "Der schnellste Weg durch die Dünen führt darüber.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=421376&type=card",
+                    "language": "German",
+                    "multiverseid": 421376
+                },
+                {
+                    "name": "Halconero abzano",
+                    "text": "Supervivencia {W}. ({W}, {T}: Pon un contador +1/+1 sobre esta criatura. Activa la habilidad de supervivencia solo como un conjuro.)\nCada criatura que controlas con un contador +1/+1 sobre ella tiene la habilidad de volar.",
+                    "flavor": "El camino más rápido para cruzar las dunas es por encima.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423131&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 423131
+                },
+                {
+                    "name": "Fauconnier abzan",
+                    "text": "Résilience {W} ({W}, {T} : Mettez un marqueur +1/+1 sur cette créature. N'utilisez la résilience que lorsque vous pourriez lancer un rituel.)\nChaque créature que vous contrôlez avec un marqueur +1/+1 sur elle a le vol.",
+                    "flavor": "Le moyen le plus rapide de traverser les dunes reste encore de les survoler.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=421727&type=card",
+                    "language": "French",
+                    "multiverseid": 421727
+                },
+                {
+                    "name": "Falconiere Abzan",
+                    "text": "Perdurare {W} ({W}, {T}: Metti un segnalino +1/+1 su questa creatura. Perdura solo quando potresti lanciare una stregoneria.)\nOgni creatura con un segnalino +1/+1 che controlli ha volare.",
+                    "flavor": "La via più breve attraverso le dune è il cielo.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=422078&type=card",
+                    "language": "Italian",
+                    "multiverseid": 422078
+                },
+                {
+                    "name": "アブザンの鷹匠",
+                    "text": "長久{W}（{W}, {T}：このクリーチャーの上に＋１/＋１カウンターを１個置く。長久はソーサリーとしてのみ行う。）\nあなたのコントロールする＋１/＋１カウンターが置かれている各クリーチャーはそれぞれ飛行を持つ。",
+                    "flavor": "砂丘群を越えるのに最も速い手段は、上から行くことだ。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=422429&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 422429
+                },
+                {
+                    "name": "Falcoeiro Abzan",
+                    "text": "Sobreviver {W} ({W}, {T}: Coloque um marcador +1/+1 nesta criatura. Use sobreviver somente como um feitiço.)\nCada criatura com um marcador +1/+1 que você controla tem voar.",
+                    "flavor": "O modo mais rápido de cruzar as dunas é por cima.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=422780&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 422780
+                },
+                {
+                    "name": "阿布赞训隼兵",
+                    "text": "延生{W}（{W}，{T}：在此生物上放置一个+1/+1指示物。延生的时机视同法术。）\n每个由你操控且其上有+1/+1指示物的生物均具有飞行异能。",
+                    "flavor": "横跨沙丘的捷径在空中。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=421025&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 421025
+                }
+            ],
+            "printings": [
+                "C16",
+                "CM2",
+                "IMA",
+                "KTK"
+            ],
+            "originalText": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has flying.",
+            "originalType": "Creature — Human Soldier",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "ab834747-f9da-56b5-b74f-16982e249682"
+        },
+        {
+            "name": "Abzan Guide",
+            "manaCost": "{3}{W}{B}{G}",
+            "cmc": 6,
+            "colors": [
+                "Black",
+                "Green",
+                "White"
+            ],
+            "colorIdentity": [
+                "B",
+                "G",
+                "W"
+            ],
+            "type": "Creature — Human Warrior",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Warrior"
+            ],
+            "rarity": "Common",
+            "set": "KTK",
+            "setName": "Khans of Tarkir",
+            "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nMorph {2}{W}{B}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+            "flavor": "\"These roads are desolate and changeable. Follow me, or die in the wastes.\"",
+            "artist": "Steve Prescott",
+            "number": "162",
+            "power": "4",
+            "toughness": "4",
+            "layout": "normal",
+            "multiverseid": 386469,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386469&type=card",
+            "watermark": "abzan",
+            "rulings": [
+                {
+                    "date": "2014-09-20",
+                    "text": "Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It’s colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn’t use the stack and can’t be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "Because the permanent is on the battlefield both before and after it’s turned face up, turning a permanent face up doesn’t cause any enters-the-battlefield abilities to trigger."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren’t affected."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "At any time, you can look at a face-down spell or permanent you control. You can’t look at face-down spells or permanents you don’t control unless an effect instructs you to do so."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You’re not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Abzan-Führerin",
+                    "text": "Lebensverknüpfung (Schaden, der von dieser Kreatur zugefügt wird, lässt dich ebenso viele Lebenspunkte dazuerhalten.)\nMorph {2}{W}{B}{G} (Du kannst diese Karte verdeckt für {3} als eine 2/2 Kreatur wirken. Decke sie zu einem beliebigen Zeitpunkt für ihre Morph-Kosten auf.)",
+                    "flavor": "„Die Straßen hier sind wüst und wechselhaft. Folge mir oder stirb in der Ödnis.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387276&type=card",
+                    "language": "German",
+                    "multiverseid": 387276
+                },
+                {
+                    "name": "Guía abzana",
+                    "text": "Vínculo vital. (El daño hecho por esta criatura también hace que ganes esa misma cantidad de vidas.)\nMetamorfosis {2}{W}{B}{G}. (Puedes lanzar esta carta boca abajo como una criatura 2/2 pagando {3}. Ponla boca arriba en cualquier momento pagando su coste de metamorfosis.)",
+                    "flavor": "\"Estos caminos son inhóspitos y cambiantes. Síganme o mueran en los yermos\".",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=389159&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 389159
+                },
+                {
+                    "name": "Guide abzane",
+                    "text": "Lien de vie (Les blessures infligées par cette créature vous font aussi gagner autant de points de vie.)\nMue {2}{W}{B}{G} (Vous pouvez lancer cette carte face cachée comme une créature 2/2 pour {3}. Retournez-la à tout moment pour son coût de mue.)",
+                    "flavor": "« Ces routes sont changeantes et désolées. Suivez-moi, ou vous mourrez dans les landes. »",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387545&type=card",
+                    "language": "French",
+                    "multiverseid": 387545
+                },
+                {
+                    "name": "Guida Abzan",
+                    "text": "Legame vitale (Il danno inflitto da questa creatura ti fa anche guadagnare altrettanti punti vita.)\nMetamorfosi {2}{W}{B}{G} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)",
+                    "flavor": "\"Queste strade sono desolate e mutevoli. Seguitemi, o morirete in queste distese.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387814&type=card",
+                    "language": "Italian",
+                    "multiverseid": 387814
+                },
+                {
+                    "name": "アブザンの先達",
+                    "text": "絆魂（このクリーチャーがダメージを与えると、さらにあなたはその点数分のライフを得る。）\n変異{2}{W}{B}{G}（あなたはこのカードを、{3}で２/２クリーチャーとして裏向きに唱えてもよい。これの変異コストで、これをいつでも表向きにしてよい。）",
+                    "flavor": "「これらの道は荒廃しているうえに変わりやすい。私の後をついてくるがいい。さもなくば荒野で屍をさらすことになる。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388083&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 388083
+                },
+                {
+                    "name": "아브잔 길잡이",
+                    "text": "생명연결 (이 생물이 피해를 입히면, 당신은 그 피해만큼의 생명점을 얻는다.)\n변이 {2}{W}{B}{G} (당신은 {3}을 지불해서 이 카드를 뒷면 상태의 2/2 생물로 발동할 수 있다. 언제든지 변이 비용을 지불하고 앞면이 보이도록 뒤집을 수 있다.)",
+                    "flavor": "\"이 길들은 삭막하고 변덕이 심하지. 날 따라오지 않으면 황무지에서 죽게 될 것이다.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388352&type=card",
+                    "language": "Korean",
+                    "multiverseid": 388352
+                },
+                {
+                    "name": "Guia Azban",
+                    "text": "Vínculo com a vida (O dano causado por esta criatura faz com que você ganhe uma quantidade equivalente de pontos de vida.)\nMetamorfose {2}{W}{B}{G} (Você pode conjurar este card com a face voltada para baixo como uma criatura 2/2 por {3}. Volte sua face para cima a qualquer momento pagando seu custo de metamorfose.)",
+                    "flavor": "\"Essas estradas são desoladas e mutáveis. Siga-me ou morra no deserto.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388621&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 388621
+                },
+                {
+                    "name": "Абзанская Проводница",
+                    "text": "Цепь жизни (Повреждения, наносимые этим существом, также заставляют вас получить такое же количество жизней.)\nОборотень {2}{W}{B}{G} (Вы можете разыграть эту карту рубашкой вверх как существо 2/2 за {3}. Переверните ее рубашкой вниз в любой момент за ее стоимость Оборотня.)",
+                    "flavor": "«Эти дороги заброшены и непостоянны. Ступай за мной, или погибнешь в пустошах».",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388890&type=card",
+                    "language": "Russian",
+                    "multiverseid": 388890
+                },
+                {
+                    "name": "阿布赞向导",
+                    "text": "系命（此生物所造成的伤害会让你获得等量的生命。）\n变身{2}{W}{B}{G}（你可牌面朝下地施放此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）",
+                    "flavor": "「这些路途荒凉而多变。跟着我，否则你就会命丧荒野。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386738&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 386738
+                },
+                {
+                    "name": "阿布贊嚮導",
+                    "text": "繫命（此生物所造成的傷害會讓你獲得等量的生命。）\n變身{2}{W}{B}{G}（你可牌面朝下地施放此牌並支付{3}，將其當成2/2生物。可隨時支付其變身費用使其翻回正面。）",
+                    "flavor": "「這些路途荒涼而多變。跟著我，否則你就會命喪荒野。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387007&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 387007
+                }
+            ],
+            "printings": [
+                "KTK"
+            ],
+            "originalText": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nMorph {2}{W}{B}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+            "originalType": "Creature — Human Warrior",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "f7d36f7a-32ba-560f-92a6-aa90c1021484"
+        },
+        {
+            "name": "Abzan Kin-Guard",
+            "manaCost": "{3}{G}",
+            "cmc": 4,
+            "colors": [
+                "Green"
+            ],
+            "colorIdentity": [
+                "G"
+            ],
+            "type": "Creature — Human Warrior",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Warrior"
+            ],
+            "rarity": "Uncommon",
+            "set": "FRF",
+            "setName": "Fate Reforged",
+            "text": "Abzan Kin-Guard has lifelink as long as you control a white or black permanent.",
+            "flavor": "\"The Mardu rush headlong toward extinction. We ensure the longevity of our clan by protecting our territory, not rampaging through it.\"",
+            "artist": "Craig J Spearing",
+            "number": "120",
+            "power": "3",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 391783,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=391783&type=card",
+            "watermark": "abzan",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Abzan-Klangardist",
+                    "text": "Der Abzan-Klangardist hat Lebensverknüpfung, solange du eine weiße oder schwarze bleibende Karte kontrollierst.",
+                    "flavor": "„Die Mardu stürzen sich kopfüber in ihre eigene Ausrottung. Wir sichern das langfristige Überleben unseres Klans, indem wir unser Territorium beschützen, anstatt marodierend darin umherzuziehen.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392338&type=card",
+                    "language": "German",
+                    "multiverseid": 392338
+                },
+                {
+                    "name": "Guardián familiar abzano",
+                    "text": "El Guardián familiar abzano tiene la habilidad de vínculo vital mientras controles un permanente blanco o negro.",
+                    "flavor": "\"Los Mardu se precipitan de cabeza a la extinción. Nosotros aseguramos que nuestro clan perdure protegiendo el territorio, no arrasándolo\".",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393633&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 393633
+                },
+                {
+                    "name": "Frère-garde abzan",
+                    "text": "Le Frère-garde abzan a le lien de vie tant que vous contrôlez un permanent blanc ou noir.",
+                    "flavor": "« Les Mardu courent tout droit vers l'extinction. Nous assurons la pérennité de notre clan en protégeant notre territoire, pas en le saccageant. »",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392523&type=card",
+                    "language": "French",
+                    "multiverseid": 392523
+                },
+                {
+                    "name": "Guardia della Stirpe Abzan",
+                    "text": "La Guardia della Stirpe Abzan ha legame vitale fintanto che controlli un permanente bianco o nero.",
+                    "flavor": "\"I Mardu corrono a capofitto verso l'estinzione. Noi assicuriamo la longevità del clan proteggendo il nostro territorio, non devastandolo.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392708&type=card",
+                    "language": "Italian",
+                    "multiverseid": 392708
+                },
+                {
+                    "name": "アブザンの族護衛",
+                    "text": "あなたが白か黒のパーマネントをコントロールしているかぎりアブザンの族護衛は絆魂を持つ。",
+                    "flavor": "「マルドゥは滅亡に向かって一直線に突き進んでいる。我らは領土を蹂躙するのではなく、それを守護することで氏族の繁栄を確保する。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392893&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 392893
+                },
+                {
+                    "name": "아브잔 부족지킴이",
+                    "text": "아브잔 부족지킴이는 당신이 백색이나 흑색 지속물을 조종하는 한 생명연결을 가진다.",
+                    "flavor": "\"마르두는 자신들의 영토를 짓밟으며 멸종을 향해 달려가고 있다. 하지만 우리는 우리 영토를 보호해 생존을 보장할 것이다.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393078&type=card",
+                    "language": "Korean",
+                    "multiverseid": 393078
+                },
+                {
+                    "name": "Protetor da Família Abzan",
+                    "text": "Protetor da Família Abzan terá vínculo com a vida enquanto você controlar uma permanente branca ou preta.",
+                    "flavor": "\"Os Mardu correm em direção à extinção. Nós garantimos a longevidade do nosso clã protegendo o nosso território, não pisoteando-o.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393263&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 393263
+                },
+                {
+                    "name": "Абзанский Страж Рода",
+                    "text": "Абзанский Страж Рода имеет Цепь жизни, пока вы контролируете белый или черный перманент.",
+                    "flavor": "«Марду сломя голову несутся навстречу вымиранию. Мы же сохраняем жизни клана, защищая нашу территорию, а не разоряя ее».",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393448&type=card",
+                    "language": "Russian",
+                    "multiverseid": 393448
+                },
+                {
+                    "name": "阿布赞族卫",
+                    "text": "只要你操控白色或黑色永久物，阿布赞族卫便具有系命异能。",
+                    "flavor": "「玛尔都人鲁莽地冲向覆灭。我们要保护领土，绝不横冲直撞，以保部落永世长存。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=391968&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 391968
+                },
+                {
+                    "name": "阿布贊族衛",
+                    "text": "只要你操控白色或黑色永久物，阿布贊族衛便具有繫命異能。",
+                    "flavor": "「瑪爾都人魯莽地衝向覆滅。我們要保護領土，絕不橫衝直撞，以保部落永世長存。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392153&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 392153
+                }
+            ],
+            "printings": [
+                "FRF"
+            ],
+            "originalText": "Abzan Kin-Guard has lifelink as long as you control a white or black permanent.",
+            "originalType": "Creature — Human Warrior",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "64def293-4a7e-58f6-8d64-80ef820bfb4f"
+        },
+        {
+            "name": "Abzan Skycaptain",
+            "manaCost": "{3}{W}",
+            "cmc": 4,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Bird Soldier",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Bird",
+                "Soldier"
+            ],
+            "rarity": "Common",
+            "set": "FRF",
+            "setName": "Fate Reforged",
+            "text": "Flying\nWhen Abzan Skycaptain dies, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",
+            "flavor": "\"A tempest is coming. Turn your faces toward the wind!\"",
+            "artist": "Matt Stewart",
+            "number": "4",
+            "power": "2",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 391785,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=391785&type=card",
+            "watermark": "abzan",
+            "rulings": [
+                {
+                    "date": "2014-11-24",
+                    "text": "Bolster itself doesn’t target any creature, though some spells and abilities that bolster may have other effects that target creatures. For example, you could put counters on a creature with protection from white with Abzan Skycaptain’s bolster ability."
+                },
+                {
+                    "date": "2014-11-24",
+                    "text": "You determine which creature to put counters on as the spell or ability that instructs you to bolster resolves."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Abzan-Geschwaderführer",
+                    "text": "Fliegend\nWenn der Abzan-Geschwaderführer stirbt, wende Kräftigung 2 an. (Lege zwei +1/+1-Marken auf eine Kreatur mit der geringsten Widerstandskraft unter den Kreaturen, die du kontrollierst.)",
+                    "flavor": "„Ein Sturm zieht auf. Wendet eure Gesichter in den Wind!\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392340&type=card",
+                    "language": "German",
+                    "multiverseid": 392340
+                },
+                {
+                    "name": "Capitán celeste abzano",
+                    "text": "Vuela.\nCuando el Capitán celeste abzano muera, fortalece 2. (Elige la criatura con menor resistencia entre las criaturas que controlas y pon dos contadores +1/+1 sobre ella.)",
+                    "flavor": "\"Se acerca una tempestad. ¡Vuelvan los rostros cara al viento!\".",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393635&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 393635
+                },
+                {
+                    "name": "Capitaine céleste abzane",
+                    "text": "Vol\nQuand la Capitaine céleste abzane meurt, renforcement 2. (Choisissez une créature avec l'endurance la plus faible parmi les créatures que vous contrôlez et mettez deux marqueurs +1/+1 sur elle.)",
+                    "flavor": "« Une tempête approche. Faites face au vent ! »",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392525&type=card",
+                    "language": "French",
+                    "multiverseid": 392525
+                },
+                {
+                    "name": "Capitana dei Cieli Abzan",
+                    "text": "Volare\nQuando la Capitana dei Cieli Abzan muore, sostieni 2.(Scegli una creatura con la costituzione minore tra le creature che controlli e metti due segnalini +1/+1 su di essa.)",
+                    "flavor": "\"Sta arrivando una tempesta. Voltatevi e affrontate il vento!\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392710&type=card",
+                    "language": "Italian",
+                    "multiverseid": 392710
+                },
+                {
+                    "name": "アブザンの飛空隊長",
+                    "text": "飛行\nアブザンの飛空隊長が死亡したとき、鼓舞２を行う。（あなたがコントロールするクリーチャーの中で最も小さいタフネスを持つクリーチャーを１体選び、それの上に＋１/＋１カウンターを２個置く。）",
+                    "flavor": "「大嵐がくるぞ。顔を風上に向けよ！」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392895&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 392895
+                },
+                {
+                    "name": "아브잔 창공지휘관",
+                    "text": "비행\n아브잔 창공지휘관이 죽을 때, 강화 2를 한다. (당신이 조종하는 생물 중 방어력이 가장 낮은 생물 하나를 선택한다. 그 생물에 +1/+1 카운터 두 개를 올려놓는다.)",
+                    "flavor": "\"폭풍이 다가온다. 모두 바람이 불어오는 쪽으로 고개를 돌려라!\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393080&type=card",
+                    "language": "Korean",
+                    "multiverseid": 393080
+                },
+                {
+                    "name": "Capitão Celeste Abzan",
+                    "text": "Voar\nQuando Capitão Celeste Abzan morrer, revigore 2. (Escolha uma criatura com a menor resistência entre as que você controla e coloque dois marcadores +1/+1 nela.)",
+                    "flavor": "\"Uma tempestade está chegando. Virem seus rostos para o vento!\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393265&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 393265
+                },
+                {
+                    "name": "Абзанский Небесный Капитан",
+                    "text": "Полет\nКогда Абзанский Небесный Капитан умирает, используйте Подмогу 2. (Выберите из существ под вашим контролем существо с наименьшим значением выносливости и положите на него два жетона +1/+1.)",
+                    "flavor": "«Надвигается буря. Обратите свои лица навстречу ветру!»",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=393450&type=card",
+                    "language": "Russian",
+                    "multiverseid": 393450
+                },
+                {
+                    "name": "阿布赞空队长",
+                    "text": "飞行\n当阿布赞空队长死去时，振励2。（于由你操控的生物中选择一个防御力最小的生物，在其上放置两个+1/+1指示物。）",
+                    "flavor": "「龙暴将至。迎风备战！」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=391970&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 391970
+                },
+                {
+                    "name": "阿布贊空隊長",
+                    "text": "飛行\n當阿布贊空隊長死去時，振勵2。（於由你操控的生物中選擇一個防禦力最小的生物，在其上放置兩個+1/+1指示物。）",
+                    "flavor": "「龍暴將至。迎風備戰！」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=392155&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 392155
+                }
+            ],
+            "printings": [
+                "FRF"
+            ],
+            "originalText": "Flying\nWhen Abzan Skycaptain dies, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",
+            "originalType": "Creature — Bird Soldier",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "c4108f2e-b107-5b9c-a4e5-4a6c38da5cd4"
+        },
+        {
+            "name": "Academy Drake",
+            "manaCost": "{2}{U}",
+            "cmc": 3,
+            "colors": [
+                "Blue"
+            ],
+            "colorIdentity": [
+                "U"
+            ],
+            "type": "Creature — Drake",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Drake"
+            ],
+            "rarity": "Common",
+            "set": "DOM",
+            "setName": "Dominaria",
+            "text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nFlying\nIf Academy Drake was kicked, it enters the battlefield with two +1/+1 counters on it.",
+            "artist": "Svetlin Velinov",
+            "number": "40",
+            "power": "2",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 442928,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=442928&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Akademie-Sceada",
+                    "text": "Bonus {4} (Du kannst zusätzlich {4} bezahlen, sowie du diesen Zauberspruch wirkst.)\nFliegend\nFalls die Bonuskosten des Akademie-Sceadas bezahlt wurden, kommt er mit zwei +1/+1-Marken ins Spiel.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=443197&type=card",
+                    "language": "German",
+                    "multiverseid": 443197
+                },
+                {
+                    "name": "Draco de la Academia",
+                    "text": "Estímulo {4}. (Puedes pagar {4} adicionales al lanzar este hechizo.)\nVuela.\nSi el Draco de la Academia fue estimulado, entra al campo de batalla con dos contadores +1/+1 sobre él.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=443466&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 443466
+                },
+                {
+                    "name": "Drakôn de l'Académie",
+                    "text": "Kick {4} (Vous pouvez payer {4} supplémentaires au moment où vous lancez ce sort.)\nVol\nSi le Drakôn de l'Académie a été kické, il arrive sur le champ de bataille avec deux marqueurs +1/+1 sur lui.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=443735&type=card",
+                    "language": "French",
+                    "multiverseid": 443735
+                },
+                {
+                    "name": "Draghetto dell'Accademia",
+                    "text": "Potenziamento {4} (Puoi pagare {4} addizionale mentre lanci questa magia.)\nVolare\nSe il Draghetto dell'Accademia è stato potenziato, entra nel campo di battaglia con due segnalini +1/+1.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=444004&type=card",
+                    "language": "Italian",
+                    "multiverseid": 444004
+                },
+                {
+                    "name": "アカデミーのドレイク",
+                    "text": "キッカー{4}（あなたはこの呪文を唱えるに際し、追加で{4}を支払ってもよい。）\n飛行\nアカデミーのドレイクがキッカーされていたなら、これは＋１/＋１カウンターが２個置かれた状態で戦場に出る。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=444273&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 444273
+                },
+                {
+                    "name": "아카데미 드레이크",
+                    "text": "키커 {4} (당신은 이 주문을 발동하면서 추가로 {4}를 지불할 수 있다.)\n비행\n아카데미 드레이크의 키커 비용이 지불되었다면, 아카데미 드레이크는 +1/+1 카운터 두 개를 가지고 전장에 들어온다.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=444542&type=card",
+                    "language": "Korean",
+                    "multiverseid": 444542
+                },
+                {
+                    "name": "Dragonete da Academia",
+                    "text": "Reforçar {4} (Você pode pagar um custo adicional de {4} ao conjurar esta mágica.)\nVoar\nSe Dragonete da Academia foi reforçado, ele entra no campo de batalha com dois marcadores +1/+1.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=444811&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 444811
+                },
+                {
+                    "name": "Дрейк Академии",
+                    "text": "Усилитель {4} (При разыгрывании этого заклинания вы можете дополнительно заплатить {4}.)\nПолет\nЕсли Дрейк Академии получил Усилитель, он выходит на поле битвы с двумя жетонами +1/+1 на нем.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=445080&type=card",
+                    "language": "Russian",
+                    "multiverseid": 445080
+                },
+                {
+                    "name": "学院龙兽",
+                    "text": "增幅{4}（你施放此咒语时可以额外支付{4}。）\n飞行\n如果学院龙兽已增幅，则它进战场时上面有两个+1/+1指示物。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=445349&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 445349
+                },
+                {
+                    "name": "學院龍獸",
+                    "text": "增幅{4}（你施放此咒語時可以額外支付{4}）。\n飛行\n如果學院龍獸已增幅，則它進戰場時上面有兩個+1/+1指示物。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=445618&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 445618
+                }
+            ],
+            "printings": [
+                "DOM"
+            ],
+            "originalText": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nFlying\nIf Academy Drake was kicked, it enters the battlefield with two +1/+1 counters on it.",
+            "originalType": "Creature — Drake",
+            "legalities": [
+                {
+                    "format": "Brawl",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Standard",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "9d13ce9b-1731-5ce5-a209-c590829d0aeb"
+        },
+        {
+            "name": "Academy Elite",
+            "manaCost": "{3}{U}",
+            "cmc": 4,
+            "colors": [
+                "Blue"
+            ],
+            "colorIdentity": [
+                "U"
+            ],
+            "type": "Creature — Human Wizard",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Wizard"
+            ],
+            "rarity": "Rare",
+            "set": "CNS",
+            "setName": "Conspiracy",
+            "text": "Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.\n{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.",
+            "artist": "Volkan Baǵa",
+            "number": "20",
+            "power": "0",
+            "toughness": "0",
+            "layout": "normal",
+            "multiverseid": 382205,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382205&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "アカデミーの精鋭",
+                    "text": "アカデミーの精鋭は、＋１/＋１カウンターがＸ個置かれた状態で戦場に出る。Ｘはすべての墓地にあるインスタント・カードとソーサリー・カードの総数に等しい。\n{2}{U}, アカデミーの精鋭の上から＋１/＋１カウンターを１個取り除く：カードを１枚引き、その後カードを１枚捨てる。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382625&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 382625
+                },
+                {
+                    "name": "学院精英",
+                    "text": "学院精英进战场时上面有X个+1/+1指示物，X为所有坟墓场中瞬间牌和法术牌的数量加总。\n{2}{U}，从学院精英上移去一个+1/+1指示物：抓一张牌，然后弃一张牌。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382415&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 382415
+                }
+            ],
+            "printings": [
+                "C16",
+                "CNS",
+                "VMA"
+            ],
+            "originalText": "Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.\n{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.",
+            "originalType": "Creature — Human Wizard",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "0f03fcd4-b87c-54e6-9845-bd041179b5b5"
+        },
+        {
+            "name": "Academy Elite",
+            "manaCost": "{3}{U}",
+            "cmc": 4,
+            "colors": [
+                "Blue"
+            ],
+            "colorIdentity": [
+                "U"
+            ],
+            "type": "Creature — Human Wizard",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Wizard"
+            ],
+            "rarity": "Rare",
+            "set": "C16",
+            "setName": "Commander 2016",
+            "text": "Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.\n{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.",
+            "artist": "Volkan Baǵa",
+            "number": "81",
+            "power": "0",
+            "toughness": "0",
+            "layout": "normal",
+            "multiverseid": 420698,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420698&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Elite der Akademie",
+                    "text": "Die Elite der Akademie kommt mit X +1/+1-Marken ins Spiel, wobei X gleich der Anzahl an Spontanzauber- und Hexereikarten in allen Friedhöfen ist.\n{2}{U}, entferne eine +1/+1-Marke von der Elite der Akademie: Ziehe eine Karte und wirf dann eine Karte ab.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=421400&type=card",
+                    "language": "German",
+                    "multiverseid": 421400
+                },
+                {
+                    "name": "Élite de la academia",
+                    "text": "La Élite de la academia entra al campo de batalla con X contadores +1/+1 sobre ella, donde X es la cantidad de cartas de instantáneo y de conjuro que hay en todos los cementerios.\n{2}{U}, remover un contador +1/+1 de la Élite de la academia: Roba una carta, luego descarta una carta.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423155&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 423155
+                },
+                {
+                    "name": "Élite de l'académie",
+                    "text": "L'Élite de l'académie arrive sur le champ de bataille avec X marqueurs +1/+1 sur elle, X étant le nombre de cartes d'éphémère et de rituel dans tous les cimetières.\n{2}{U}, retirez un marqueur +1/+1 de l'Élite de l'académie : Piochez une carte, puis défaussez-vous d'une carte.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=421751&type=card",
+                    "language": "French",
+                    "multiverseid": 421751
+                },
+                {
+                    "name": "Elite dell'Accademia",
+                    "text": "L'Elite dell'Accademia entra nel campo di battaglia con X segnalini +1/+1, dove X è il numero di carte istantaneo e stregoneria in tutti i cimiteri.\n{2}{U}, Rimuovi un segnalino +1/+1 dall'Elite dell'Accademia: Pesca una carta, poi scarta una carta.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=422102&type=card",
+                    "language": "Italian",
+                    "multiverseid": 422102
+                },
+                {
+                    "name": "アカデミーの精鋭",
+                    "text": "アカデミーの精鋭は、＋１/＋１カウンターがＸ個置かれた状態で戦場に出る。Ｘはすべての墓地にあるインスタント・カードとソーサリー・カードの総数に等しい。\n{2}{U}, アカデミーの精鋭の上から＋１/＋１カウンターを１個取り除く：カードを１枚引き、その後カード１枚を捨てる。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=422453&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 422453
+                },
+                {
+                    "name": "Elite da Academia",
+                    "text": "Elite da Academia entra no campo de batalha com X marcadores +1/+1, sendo X o número de cards de mágica instantânea ou feitiço em todos os cemitérios.\n{2}{U}, Remova um marcador +1/+1 de Elite da Academia: Compre um card e, em seguida, descarte um card.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=422804&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 422804
+                },
+                {
+                    "name": "学院精英",
+                    "text": "学院精英进战场时上面有X个+1/+1指示物，X为所有坟墓场中瞬间牌和法术牌的数量加总。\n{2}{U}，从学院精英上移去一个+1/+1指示物：抓一张牌，然后弃一张牌。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=421049&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 421049
+                }
+            ],
+            "printings": [
+                "C16",
+                "CNS",
+                "VMA"
+            ],
+            "originalText": "Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.\n{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.",
+            "originalType": "Creature — Human Wizard",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "97a5d817-4c28-5a28-b9ec-257f9d50d9ce"
+        },
+        {
+            "name": "Academy Elite",
+            "manaCost": "{3}{U}",
+            "cmc": 4,
+            "colors": [
+                "Blue"
+            ],
+            "colorIdentity": [
+                "U"
+            ],
+            "type": "Creature — Human Wizard",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Wizard"
+            ],
+            "rarity": "Rare",
+            "set": "VMA",
+            "setName": "Vintage Masters",
+            "text": "Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.\n{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.",
+            "artist": "Volkan Baǵa",
+            "number": "55",
+            "power": "0",
+            "toughness": "0",
+            "layout": "normal",
+            "multiverseid": 382835,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382835&type=card",
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "C16",
+                "CNS",
+                "VMA"
+            ],
+            "originalText": "Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.\n{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.",
+            "originalType": "Creature — Human Wizard",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "37aeb4a5-c862-5c8d-a6ad-a77bc34b33bc"
+        },
+        {
+            "name": "Academy Journeymage",
+            "manaCost": "{4}{U}",
+            "cmc": 5,
+            "colors": [
+                "Blue"
+            ],
+            "colorIdentity": [
+                "U"
+            ],
+            "type": "Creature — Human Wizard",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Wizard"
+            ],
+            "rarity": "Common",
+            "set": "DOM",
+            "setName": "Dominaria",
+            "text": "This spell costs {1} less to cast if you control a Wizard.\nWhen Academy Journeymage enters the battlefield, return target creature an opponent controls to its owner's hand.",
+            "flavor": "\"We don't choose who comes here. We choose how long they stay.\"",
+            "artist": "Magali Villeneuve",
+            "number": "41",
+            "power": "3",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 442929,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=442929&type=card",
+            "rulings": [
+                {
+                    "date": "2018-04-27",
+                    "text": "If you control more than one Wizard, Academy Journeymage’s cost is reduced by only {1}."
+                },
+                {
+                    "date": "2018-04-27",
+                    "text": "Once you announce that you’re casting Academy Journeymage, no player may take other actions until the spell’s been paid for. Notably, players can’t try to raise the spell’s cost by removing your Wizards."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Wandermagierin der Akademie",
+                    "text": "Dieser Zauberspruch kostet beim Wirken {1} weniger, falls du einen Zauberer kontrollierst.\nWenn die Wandermagierin der Akademie ins Spiel kommt, bringe eine Kreatur deiner Wahl, die ein Gegner kontrolliert, auf die Hand ihres Besitzers zurück.",
+                    "flavor": "„Wir können nicht kontrollieren, wer hierher kommt. Aber wir entscheiden, wann sie wieder gehen.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=443198&type=card",
+                    "language": "German",
+                    "multiverseid": 443198
+                },
+                {
+                    "name": "Maga graduada de la Academia",
+                    "text": "Te cuesta {1} menos lanzar este hechizo si controlas un Hechicero.\nCuando la Maga graduada de la Academia entre al campo de batalla, regresa la criatura objetivo que controla un oponente a la mano de su propietario.",
+                    "flavor": "\"No elegimos quién viene aquí, pero sí cuánto tiempo se queda\".",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=443467&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 443467
+                },
+                {
+                    "name": "Mage compagnon de l'Académie",
+                    "text": "Ce sort coûte {1} de moins à lancer si vous contrôlez un sorcier.\nQuand le Mage compagnon de l'Académie arrive sur le champ de bataille, renvoyez une créature ciblée qu'un adversaire contrôle dans la main de son propriétaire.",
+                    "flavor": "« Nous ne choisissons pas ceux qui viennent ici. Nous décidons du temps qu'ils restent. »",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=443736&type=card",
+                    "language": "French",
+                    "multiverseid": 443736
+                },
+                {
+                    "name": "Maga Veterana dell'Accademia",
+                    "text": "Questa magia costa {1} in meno per essere lanciata se controlli un Mago.\nQuando la Maga Veterana dell'Accademia entra nel campo di battaglia, fai tornare una creatura bersaglio controllata da un avversario in mano al suo proprietario.",
+                    "flavor": "\"Non decidiamo chi viene qui, ma quanto resterà.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=444005&type=card",
+                    "language": "Italian",
+                    "multiverseid": 444005
+                },
+                {
+                    "name": "アカデミーの修士魔道士",
+                    "text": "あなたがウィザードをコントロールしているなら、この呪文を唱えるためのコストは{1}少なくなる。\nアカデミーの修士魔道士が戦場に出たとき、対戦相手がコントロールしているクリーチャー１体を対象とし、それをオーナーの手札に戻す。",
+                    "flavor": "「誰が来るのか我々には選べない。我々はいつまで留まるかを選ぶのだ。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=444274&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 444274
+                },
+                {
+                    "name": "아카데미 수습마도사",
+                    "text": "당신이 마법사를 조종한다면 이 주문은 발동하는 데 {1}이 덜 든다.\n아카데미 수습마도사가 전장에 들어올 때, 상대가 조종하는 생물을 목표로 정한다. 그 생물을 소유자의 손으로 되돌린다.",
+                    "flavor": "\"우리는 누가 이곳에 올 수 있는지 정하지 않는다. 다만 그들이 얼마나 머물 수 있는지를 정한다.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=444543&type=card",
+                    "language": "Korean",
+                    "multiverseid": 444543
+                },
+                {
+                    "name": "Maga Graduada da Academia",
+                    "text": "Esta mágica custa {1} a menos para ser conjurada se você controla um Mago.\nQuando Maga Graduada da Academia entrar no campo de batalha, devolva a criatura alvo que um oponente controla para a mão de seu dono.",
+                    "flavor": "\"Não escolhemos quem vem. Escolhemos quanto tempo ficarão.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=444812&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 444812
+                },
+                {
+                    "name": "Маг-Подмастерье из Академии",
+                    "text": "Разыгрывание этого заклинания стоит на {1} меньше, если вы контролируете Чародея.\nКогда Маг-Подмастерье из Академии выходит на поле битвы, верните целевое существо под контролем оппонента в руку его владельца.",
+                    "flavor": "«Мы не властны над тем, кто сюда приходит. Но нам решать, сколько они пробудут здесь».",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=445081&type=card",
+                    "language": "Russian",
+                    "multiverseid": 445081
+                },
+                {
+                    "name": "学院老练法师",
+                    "text": "如果你操控法术师，则此咒语减少{1}来施放。\n当学院老练法师进战场时，将目标由对手操控的生物移回其拥有者手上。",
+                    "flavor": "「造访此地与否由人们决定。在此停留多久由我们决定。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=445350&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 445350
+                },
+                {
+                    "name": "學院老練法師",
+                    "text": "如果你操控魔法師，則此咒語減少{1}來施放。\n當學院老練法師進戰場時，將目標由對手操控的生物移回其擁有者手上。",
+                    "flavor": "「造訪此地與否由人們決定。在此停留多久由我們決定。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=445619&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 445619
+                }
+            ],
+            "printings": [
+                "DOM"
+            ],
+            "originalText": "This spell costs {1} less to cast if you control a Wizard.\nWhen Academy Journeymage enters the battlefield, return target creature an opponent controls to its owner's hand.",
+            "originalType": "Creature — Human Wizard",
+            "legalities": [
+                {
+                    "format": "Brawl",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Standard",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "6ce29456-b8e5-5c42-8233-a734819eb614"
+        },
+        {
+            "name": "Academy Raider",
+            "manaCost": "{2}{R}",
+            "cmc": 3,
+            "colors": [
+                "Red"
+            ],
+            "colorIdentity": [
+                "R"
+            ],
+            "type": "Creature — Human Warrior",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Warrior"
+            ],
+            "rarity": "Common",
+            "set": "M14",
+            "setName": "Magic 2014",
+            "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever Academy Raider deals combat damage to a player, you may discard a card. If you do, draw a card.",
+            "artist": "Karl Kopinski",
+            "number": "124",
+            "power": "1",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 370735,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370735&type=card",
+            "rulings": [
+                {
+                    "date": "2013-07-01",
+                    "text": "The triggered ability triggers just once each time Academy Raider deals combat damage to a player, regardless of how much damage it deals."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Plünderer der Akademie",
+                    "text": "Einschüchtern (Diese Kreatur kann außer von Artefaktkreaturen und/oder Kreaturen, mit denen sie eine Farbe gemeinsam hat, nicht geblockt werden.)Immer wenn der Plünderer der Akademie einem Spieler Kampfschaden zufügt, kannst du eine Karte abwerfen. Falls du dies tust, ziehe eine Karte.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=371482&type=card",
+                    "language": "German",
+                    "multiverseid": 371482
+                },
+                {
+                    "name": "Incursor de la academia",
+                    "text": "Intimidar. (Esta criatura no puede ser bloqueada excepto por criaturas artefacto y/o criaturas que compartan un color con ella.)Siempre que el Incursor de la academia haga daño de combate a un jugador, puedes descartar una carta. Si lo haces, roba una carta.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373225&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 373225
+                },
+                {
+                    "name": "Pillard de l'académie",
+                    "text": "Intimidation (Cette créature ne peut pas être bloquée excepté par des créatures-artefacts et/ou des créatures qui partagent une couleur avec elle.)À chaque fois que le Pillard de l'académie inflige des blessures de combat à un joueur, vous pouvez vous défausser d'une carte. Si vous faites ainsi, piochez une carte.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=371731&type=card",
+                    "language": "French",
+                    "multiverseid": 371731
+                },
+                {
+                    "name": "Razziatore dell'Accademia",
+                    "text": "Intimidire (Questa creatura non può essere bloccata tranne che da creature artefatto e/o creature che condividono con essa un colore.)Ogniqualvolta il Razziatore dell'Accademia infligge danno da combattimento a un giocatore, puoi scartare una carta. Se lo fai, pesca una carta.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=371980&type=card",
+                    "language": "Italian",
+                    "multiverseid": 371980
+                },
+                {
+                    "name": "アカデミーの略奪者",
+                    "text": "威嚇（このクリーチャーはアーティファクト・クリーチャーかこれと共通の色を持つクリーチャー以外にはブロックされない。）アカデミーの略奪者がプレイヤー１人に戦闘ダメージを与えるたび、あなたはカードを１枚捨ててもよい。そうした場合、カードを１枚引く。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=372229&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 372229
+                },
+                {
+                    "name": "마법학원 습격자",
+                    "text": "위협 (이 생물은 마법물체 생물 및/또는 자신과 색을 공유하는 생물에게만 방어될 수 있다.)마법학원 습격자가 플레이어에게 전투피해를 입힐 때마다, 당신은 손에서 카드 한 장을 버릴 수 있다. 그렇게 한다면, 카드 한 장을 뽑는다.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=372478&type=card",
+                    "language": "Korean",
+                    "multiverseid": 372478
+                },
+                {
+                    "name": "Salteador da Academia",
+                    "text": "Intimidar (Esta criatura só pode ser bloqueada por criaturas artefato e/ou criaturas que compartilhem uma cor com ela.)Toda vez que Salteador da Academia causa dano de combate a um jogador, você pode descartar um card. Se fizer isso, compre um card.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=372727&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 372727
+                },
+                {
+                    "name": "Расхититель Академий",
+                    "text": "Устрашение (Это существо может быть заблокировано только артефактными существами и (или) существами, у которых есть такой же цвет, как у него.)Каждый раз, когда Расхититель Академий наносит боевые повреждения игроку, вы можете сбросить карту. Если вы это делаете, возьмите карту.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=372976&type=card",
+                    "language": "Russian",
+                    "multiverseid": 372976
+                },
+                {
+                    "name": "学院劫徒",
+                    "text": "威吓（此生物只能被神器生物和／或与它有共通颜色的生物阻挡。）每当学院劫徒对任一牌手造成战斗伤害时，你可以弃一张牌。若你如此作，则抓一张牌。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370984&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 370984
+                },
+                {
+                    "name": "學院劫徒",
+                    "text": "威嚇（此生物只能被神器生物和／或與它有共通顏色的生物阻擋。）每當學院劫徒對任一玩家造成戰鬥傷害時，你可以棄一張牌。若你如此作，則抽一張牌。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=371233&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 371233
+                }
+            ],
+            "printings": [
+                "M14"
+            ],
+            "originalText": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)Whenever Academy Raider deals combat damage to a player, you may discard a card. If you do, draw a card.",
+            "originalType": "Creature — Human Warrior",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "836a72e7-1ddc-5bc4-9461-bb4946150b63"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+<div [ngClass]="card.rarity" class="card">
+    <img class="card-image" [src]="card.imageUrl">
+    <div class="card-details">
+        <div class="card-details-name">
+            <span>{{card.name}}</span>
+        </div>
+        <div><span class="card-details-artist">Artist: </span>{{card.artist}}</div>
+        <div><span class="card-details-setName">Set: </span>{{card.setName}} </div>
+        <div *ngIf="card.originalType"><span class="card-details-originalType">Type: </span>{{card.originalType}}</div>
+        <div *ngIf="!card.originalType"><span class="card-details-originalType" >Type: </span>No Type Provided</div>
+        <div><span class="card-details-originalType">Rarity: </span>{{card.rarity}}</div>
+    </div>
+</div>

@@ -1,0 +1,55 @@
+#MainContent {
+    position      : relative;
+    top           : 10rem;
+    max-width     : 90%;
+    padding-bottom: 8rem;
+}
+
+section {
+    padding: 15rem 0;
+}
+
+.btn {
+    background-color: transparent;
+    border-radius   : 1rem;
+    padding         : .2rem 1.5rem 0 1.5rem;
+    border-color    : @JH-button-border;
+    color           : @JH-button-color;
+    font-size       : 1.3rem !important;
+    outline         : none;
+    outline-color   : none !important;
+
+    &:hover {
+        color           : @JH-button-color-hover;
+        background-color: @JH-button-background-hover ;
+        border-color    : @JH-button-border-hover;
+        cursor          : pointer;
+    }
+
+    &:active {
+        background-color: @JH-button-background-active  !important;
+        color           : @JH-button-color-active  !important;
+        border-color    : @JH-button-border-active  !important;
+        outline         : none !important;
+        outline-color   : none !important;
+    }
+
+    &:disabled {
+        background-color: @JH-button-background-disabled;
+        border-radius   : 1rem;
+        border-color    : @JH-button-border-disabled;
+        color           : @JH-button-border-disabled;
+    }
+}
+
+@media @widthSmall {
+    #MainContent {
+        top           : 3.5rem;
+        max-width     : 90%;
+        padding-bottom: 8rem;
+    }
+
+    .btn {
+        margin-top: 2rem;
+    }
+}

@@ -1,0 +1,241 @@
+// Typography
+// - base element typography
+// --------------------
+
+/*
+10px baseline no nonsense root em values
+0.1rem = 1px / 1rem = 10px / 10rem = 100px
+*/
+
+html,
+body {
+  font-family: @JH-font-face;
+  font-size  : 62.5%;
+}
+
+div,
+span,
+applet,
+object,
+iframe,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+input,
+button,
+textarea,
+select,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  font-size: 1.4rem; // 14px
+  color    : @JH-aqua-1;
+}
+
+
+h1 {
+  font-size: 4.5rem;
+}
+
+h2 {
+  font-size: 4rem;
+}
+
+h3 {
+  font-size: 3.5rem;
+}
+
+h4 {
+  font-size: 3rem;
+}
+
+h5 {
+  font-size: 2.5rem;
+}
+
+h6 {
+  font-size: 2rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin     : 3rem 0 1rem;
+  text-shadow: 0.1rem 0.1rem 0.1rem @grey-d;
+}
+
+label,
+legend {
+  font-weight: bold;
+}
+
+label,
+legend,
+input,
+select,
+textarea,
+output {
+  font-size: 1.6rem;
+}
+
+legend {
+  font-size: 1.8rem;
+}
+
+input[type=datetime-local],
+input[type=date],
+input[type=month],
+input[type=week],
+input[type=time],
+input,
+select,
+textarea,
+/* Firefox required */
+output,
+input.toggle:empty+label.toggle,
+.radio-list li label {
+  font-family: @JH-font-face;
+}
+
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src        : url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.eot);
+  src        : url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.woff) format('woff'), url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
+}
+
+.glyphicon {
+  position               : relative;
+  top                    : .1rem;
+  display                : inline-block;
+  font-family            : 'Glyphicons Halflings';
+  font-style             : normal;
+  font-weight            : 400;
+  line-height            : 1;
+  -webkit-font-smoothing : antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+
+.glyphicon-remove:before {
+  content: "\e014"
+}
+
+.glyphicon-file:before {
+  content: "\e022";
+}
+
+.glyphicon-pencil:before {
+  content:"\270f";
+}
+.glyphicon-user:before{
+  content:"\e008";
+}
+.glyphicon-info-sign:before{
+  content:"\e086";
+}
+.glyphicon-earphone:before{
+  content:"\e182";
+}
+
+.glyphicon-menu-hamburger:before{
+  content:"\e236";
+}
+
+.big-icon {
+  font-size: 2.5rem;
+}
+
+.white-text {
+  color: @JH-grey;
+}
+
+@font-face {
+  font-family: 'old_londonregular';
+  src: url('/assets/fonts/oldlondon-webfont.woff2') format('woff2'),
+       url('/assets/fonts/oldlondon-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'ancientmedium';
+  src: url('/assets/fonts/ancient_medium-webfont.woff2') format('woff2'),
+       url('/assets/fonts/ancient_medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'magic_regular';
+  src: url('/assets/fonts/magicmedieval-webfont.woff2') format('woff2'),
+       url('/assets/fonts/magicmedieval-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+

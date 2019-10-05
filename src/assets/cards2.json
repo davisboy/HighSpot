@@ -1,0 +1,2061 @@
+{
+    "cards": [
+        {
+            "name": "Abominable Treefolk",
+            "manaCost": "{2}{G}{U}",
+            "cmc": 4,
+            "colors": [
+                "Green",
+                "Blue"
+            ],
+            "colorIdentity": [
+                "G",
+                "U"
+            ],
+            "type": "Snow Creature — Treefolk",
+            "supertypes": [
+                "Snow"
+            ],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Treefolk"
+            ],
+            "rarity": "Uncommon",
+            "set": "MH1",
+            "setName": "Modern Horizons",
+            "text": "Trample\nAbominable Treefolk's power and toughness are each equal to the number of snow permanents you control.\nWhen Abominable Treefolk enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",
+            "artist": "Jonas De Ro",
+            "number": "194",
+            "power": "*",
+            "toughness": "*",
+            "layout": "normal",
+            "multiverseid": 464143,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=464143&type=card",
+            "rulings": [
+                {
+                    "date": "2019-06-14",
+                    "text": "The ability that defines Abominable Treefolk’s power and toughness works in all zones, not just the battlefield."
+                },
+                {
+                    "date": "2019-06-14",
+                    "text": "As long as Abominable Treefolk is on the battlefield, its first ability will count itself, so it’ll be at least 1/1."
+                },
+                {
+                    "date": "2019-06-14",
+                    "text": "Abominable Treefolk’s last ability can target a creature that’s already tapped. That creature won’t untap during its controller’s next untap step."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Abscheulicher Baumhirte",
+                    "text": "Verursacht Trampelschaden\nStärke und Widerstandskraft des Abscheulichen Baumhirten sind gleich der Anzahl an verschneiten bleibenden Karten, die du kontrollierst.\nWenn der Abscheuliche Baumhirte ins Spiel kommt, tappe eine Kreatur deiner Wahl, die ein Gegner kontrolliert. Die Kreatur enttappt nicht während des nächsten Enttappsegments ihres Beherrschers.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=464397&type=card",
+                    "language": "German",
+                    "multiverseid": 464397
+                },
+                {
+                    "name": "Pueblo arbóreo abominable",
+                    "text": "Arrolla.\nTanto la fuerza como la resistencia del Pueblo arbóreo abominable son iguales a la cantidad de permanentes nevados que controlas.\nCuando el Pueblo arbóreo abominable entre al campo de batalla, gira la criatura objetivo que controla un oponente. Esa criatura no se endereza durante el próximo paso de enderezar de su controlador.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=464651&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 464651
+                },
+                {
+                    "name": "Abominable sylvin",
+                    "text": "Piétinement\nLa force et l'endurance de l'Abominable sylvin sont chacune égales au nombre de permanents neigeux que vous contrôlez.\nQuand l'Abominable sylvin arrive sur le champ de bataille, engagez une créature ciblée qu'un adversaire contrôle. Cette créature ne se dégage pas pendant la prochaine étape de dégagement de son contrôleur.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=464905&type=card",
+                    "language": "French",
+                    "multiverseid": 464905
+                },
+                {
+                    "name": "Silvantropo Abominevole",
+                    "text": "Travolgere\nLa forza e la costituzione del Silvantropo Abominevole sono pari al numero di permanenti neve che controlli.\nQuando il Silvantropo Abominevole entra nel campo di battaglia, TAPpa una creatura bersaglio controllata da un avversario. Quella creatura non STAPpa durante il prossimo STAP del suo controllore.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=465159&type=card",
+                    "language": "Italian",
+                    "multiverseid": 465159
+                },
+                {
+                    "name": "忌まわしきツリーフォーク",
+                    "text": "トランプル\n忌まわしきツリーフォークのパワーとタフネスは、それぞれあなたがコントロールしている氷雪パーマネントの総数に等しい。\n忌まわしきツリーフォークが戦場に出たとき、対戦相手がコントロールしているクリーチャー１体を対象とし、それをタップする。そのクリーチャーは、それのコントローラーの次のアンタップ・ステップにアンタップしない。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=465413&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 465413
+                },
+                {
+                    "name": "혐오스러운 인목",
+                    "text": "돌진\n혐오스러운 인목의 공격력과 방어력은 각각 당신이 조종하는 눈 지속물의 개수와 같다.\n혐오스러운 인목이 전장에 들어올 때, 상대가 조종하는 생물을 목표로 정한다. 그 생물을 탭한다. 그 생물은 조종자의 다음 언탭단에 언탭되지 않는다.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=465667&type=card",
+                    "language": "Korean",
+                    "multiverseid": 465667
+                },
+                {
+                    "name": "Ent Abominável",
+                    "text": "Atropelar\nO poder e a resistência de Ent Abominável são iguais ao número de permanentes da neve que você controla.\nQuando Ent Abominável entrar no campo de batalha, vire a criatura alvo que um oponente controla. Aquela criatura não é desvirada durante a próxima etapa de desvirar de seu controlador.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=465921&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 465921
+                },
+                {
+                    "name": "Мерзкий Лесовик",
+                    "text": "Пробивной удар\nСила и выносливость Мерзкого Лесовика равны количеству снежных перманентов под вашим контролем.\nКогда Мерзкий Лесовик выходит на поле битвы, поверните целевое существо под контролем оппонента. То существо не разворачивается во время следующего шага разворота контролирующего его игрока.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466175&type=card",
+                    "language": "Russian",
+                    "multiverseid": 466175
+                },
+                {
+                    "name": "大无畏树妖",
+                    "text": "践踏\n大无畏树妖的力量和防御力各等同于由你操控的雪境永久物数量。\n当大无畏树妖进战场时，横置目标由对手操控的生物。该生物于其操控者的下一个重置步骤中不能重置。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466429&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 466429
+                },
+                {
+                    "name": "大無畏樹妖",
+                    "text": "踐踏\n大無畏樹妖的力量和防禦力各等同於由你操控的雪境永久物數量。\n當大無畏樹妖進戰場時，橫置目標由對手操控的生物。該生物於其操控者的下一個重置步驟中不能重置。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=466683&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 466683
+                }
+            ],
+            "printings": [
+                "MH1"
+            ],
+            "originalText": "Trample\nAbominable Treefolk's power and toughness are each equal to the number of snow permanents you control.\nWhen Abominable Treefolk enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",
+            "originalType": "Snow Creature — Treefolk",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "3877cb82-cea4-53de-9c70-b0cc4c618387"
+        },
+        {
+            "name": "Abomination",
+            "manaCost": "{3}{B}{B}",
+            "cmc": 5,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Uncommon",
+            "set": "4ED",
+            "setName": "Fourth Edition",
+            "text": "Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.",
+            "artist": "Mark Tedin",
+            "number": "117",
+            "power": "2",
+            "toughness": "6",
+            "layout": "normal",
+            "multiverseid": 2084,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2084&type=card",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The color of the blocking/blocked creature is checked only at declaration of the block. If the creature is green or white at that time, it will be destroyed at end of combat even if it changes color before combat ends."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Scheußlichkeit",
+                    "text": "Vernichte am Ende des Kampfes alle grünen und weißen Kreaturen, die die Scheußlichkeit blocken oder von ihr geblockt wurden.",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Abominación",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Abomination",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Abominio",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "忌まわしき者",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Abominação",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "4BB",
+                "4ED",
+                "LEG",
+                "REN"
+            ],
+            "originalText": "At the end of combat, destroy all green and white creatures blocking or blocked by Abomination.",
+            "originalType": "Summon - Abomination",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Oldschool",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "fc58c459-9827-5244-85b2-5e76af1b0bf2"
+        },
+        {
+            "name": "Abomination",
+            "manaCost": "{3}{B}{B}",
+            "cmc": 5,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Uncommon",
+            "set": "LEG",
+            "setName": "Legends",
+            "text": "Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.",
+            "artist": "Mark Tedin",
+            "number": "87",
+            "power": "2",
+            "toughness": "6",
+            "layout": "normal",
+            "multiverseid": 1427,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1427&type=card",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The color of the blocking/blocked creature is checked only at declaration of the block. If the creature is green or white at that time, it will be destroyed at end of combat even if it changes color before combat ends."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Abominio",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "4BB",
+                "4ED",
+                "LEG",
+                "REN"
+            ],
+            "originalText": "All green or white creatures blocking or blocked by Abomination are destroyed at the end of combat.",
+            "originalType": "Summon - Abomination",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Oldschool",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "dc06929d-0675-53a6-9734-d2fb82168e40"
+        },
+        {
+            "name": "Abomination",
+            "manaCost": "{3}{B}{B}",
+            "cmc": 5,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Uncommon",
+            "set": "REN",
+            "setName": "Renaissance",
+            "text": "Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.",
+            "artist": "Mark Tedin",
+            "number": "46",
+            "power": "2",
+            "toughness": "6",
+            "layout": "normal",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The color of the blocking/blocked creature is checked only at declaration of the block. If the creature is green or white at that time, it will be destroyed at end of combat even if it changes color before combat ends."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Abomination",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Scheußlichkeit",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "4BB",
+                "4ED",
+                "LEG",
+                "REN"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Oldschool",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "73079442-af74-50d9-b6c3-6933f0e6d222"
+        },
+        {
+            "name": "Abomination",
+            "manaCost": "{3}{B}{B}",
+            "cmc": 5,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Uncommon",
+            "set": "4BB",
+            "setName": "Fourth Edition Foreign Black Border",
+            "text": "Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.",
+            "artist": "Mark Tedin",
+            "number": "117",
+            "power": "2",
+            "toughness": "6",
+            "layout": "normal",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The color of the blocking/blocked creature is checked only at declaration of the block. If the creature is green or white at that time, it will be destroyed at end of combat even if it changes color before combat ends."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Abominación",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "忌まわしき者",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Abominação",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "4BB",
+                "4ED",
+                "LEG",
+                "REN"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "16376f75-9dcb-583b-9094-161ead43dd82"
+        },
+        {
+            "name": "Abomination of Gudul",
+            "manaCost": "{3}{B}{G}{U}",
+            "cmc": 6,
+            "colors": [
+                "Black",
+                "Green",
+                "Blue"
+            ],
+            "colorIdentity": [
+                "B",
+                "G",
+                "U"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Common",
+            "set": "KTK",
+            "setName": "Khans of Tarkir",
+            "text": "Flying\nWhenever Abomination of Gudul deals combat damage to a player, you may draw a card. If you do, discard a card.\nMorph {2}{B}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+            "artist": "Erica Yang",
+            "number": "159",
+            "power": "3",
+            "toughness": "4",
+            "layout": "normal",
+            "multiverseid": 386463,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386463&type=card",
+            "watermark": "sultai",
+            "rulings": [
+                {
+                    "date": "2014-09-20",
+                    "text": "Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It’s colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn’t use the stack and can’t be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "Because the permanent is on the battlefield both before and after it’s turned face up, turning a permanent face up doesn’t cause any enters-the-battlefield abilities to trigger."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren’t affected."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "At any time, you can look at a face-down spell or permanent you control. You can’t look at face-down spells or permanents you don’t control unless an effect instructs you to do so."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You’re not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield."
+                },
+                {
+                    "date": "2014-09-20",
+                    "text": "If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Gudul-Scheußlichkeit",
+                    "text": "Fliegend\nImmer wenn die Gudul-Scheußlichkeit einem Spieler Kampfschaden zufügt, kannst du eine Karte ziehen. Falls du dies tust, wirf eine Karte ab.\nMorph {2}{B}{G}{U} (Du kannst diese Karte verdeckt für {3} als eine 2/2 Kreatur wirken. Decke sie zu einem beliebigen Zeitpunkt für ihre Morph-Kosten auf.)",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387270&type=card",
+                    "language": "German",
+                    "multiverseid": 387270
+                },
+                {
+                    "name": "Abominación de Gudul",
+                    "text": "Vuela.\nSiempre que la Abominación de Gudul haga daño de combate a un jugador, puedes robar una carta. Si lo haces, descarta una carta.\nMetamorfosis {2}{B}{G}{U}. (Puedes lanzar esta carta boca abajo como una criatura 2/2 pagando {3}. Ponla boca arriba en cualquier momento pagando su coste de metamorfosis.)",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=389153&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 389153
+                },
+                {
+                    "name": "Abomination de Gudùl",
+                    "text": "Vol\nÀ chaque fois que l'Abomination de Gudùl inflige des blessures de combat à un joueur, vous pouvez piocher une carte. Si vous faites ainsi, défaussez-vous d'une carte.\nMue {2}{B}{G}{U} (Vous pouvez lancer cette carte face cachée comme une créature 2/2 pour {3}. Retournez-la à tout moment pour son coût de mue.)",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387539&type=card",
+                    "language": "French",
+                    "multiverseid": 387539
+                },
+                {
+                    "name": "Abominio di Gudul",
+                    "text": "Volare\nOgniqualvolta l'Abominio di Gudul infligge danno da combattimento a un giocatore, puoi pescare una carta. Se lo fai, scarta una carta.\nMetamorfosi {2}{B}{G}{U} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387808&type=card",
+                    "language": "Italian",
+                    "multiverseid": 387808
+                },
+                {
+                    "name": "グドゥルの嫌悪者",
+                    "text": "飛行\nグドゥルの嫌悪者がプレイヤー１人に戦闘ダメージを与えるたび、あなたはカードを１枚引いてもよい。そうしたなら、カードを１枚捨てる。\n変異{2}{B}{G}{U}（あなたはこのカードを、{3}で２/２クリーチャーとして裏向きに唱えてもよい。これの変異コストで、これをいつでも表向きにしてよい。）",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388077&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 388077
+                },
+                {
+                    "name": "구둘의 흉물",
+                    "text": "비행\n구둘의 흉물이 플레이어에게 전투피해를 입힐 때마다, 당신은 카드 한 장을 뽑을 수 있다. 그렇게 한다면, 카드 한 장을 버린다.\n변이 {2}{B}{G}{U} (당신은 {3}을 지불해서 이 카드를 뒷면 상태의 2/2 생물로 발동할 수 있다. 언제든지 변이 비용을 지불하고 앞면이 보이도록 뒤집을 수 있다.)",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388346&type=card",
+                    "language": "Korean",
+                    "multiverseid": 388346
+                },
+                {
+                    "name": "Abominação de Gudul",
+                    "text": "Voar\nToda vez que Abominação de Gudul causa dano de combate a um jogador, você pode comprar um card. Se fizer isso, descarte um card.\nMetamorfose {2}{B}{G}{U} (Você pode conjurar este card com a face voltada para baixo como uma criatura 2/2 por {3}. Volte sua face para cima a qualquer momento pagando seu custo de metamorfose.)",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388615&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 388615
+                },
+                {
+                    "name": "Гудульская Мерзость",
+                    "text": "Полет\nКаждый раз, когда Гудульская Мерзость наносит боевые повреждения игроку, вы можете взять карту. Если вы это делаете, сбросьте карту.\nОборотень {2}{B}{G}{U} (Вы можете разыграть эту карту рубашкой вверх как существо 2/2 за {3}. Переверните ее рубашкой вниз в любой момент за ее стоимость Оборотня.)",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388884&type=card",
+                    "language": "Russian",
+                    "multiverseid": 388884
+                },
+                {
+                    "name": "谷渡憎恨兽",
+                    "text": "飞行\n每当谷渡憎恨兽对任一牌手造成战斗伤害时，你可以抓一张牌。若你如此作，则弃一张牌。\n变身{2}{B}{G}{U}（你可牌面朝下地施放此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386732&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 386732
+                },
+                {
+                    "name": "谷渡憎恨獸",
+                    "text": "飛行\n每當谷渡憎恨獸對任一玩家造成戰鬥傷害時，你可以抽一張牌。若你如此作，則棄一張牌。\n變身{2}{B}{G}{U}（你可牌面朝下地施放此牌並支付{3}，將其當成2/2生物。可隨時支付其變身費用使其翻回正面。）",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387001&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 387001
+                }
+            ],
+            "printings": [
+                "KTK"
+            ],
+            "originalText": "Flying\nWhenever Abomination of Gudul deals combat damage to a player, you may draw a card. If you do, discard a card.\nMorph {2}{B}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+            "originalType": "Creature — Horror",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "aef2b3de-ed09-591e-ac6b-ecf62bac4a6b"
+        },
+        {
+            "name": "Aboroth",
+            "manaCost": "{4}{G}{G}",
+            "cmc": 6,
+            "colors": [
+                "Green"
+            ],
+            "colorIdentity": [
+                "G"
+            ],
+            "type": "Creature — Elemental",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Elemental"
+            ],
+            "rarity": "Rare",
+            "set": "WTH",
+            "setName": "Weatherlight",
+            "text": "Cumulative upkeep—Put a -1/-1 counter on Aboroth. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+            "flavor": "The Weatherlight banked sharply as the colossal beast rose up to crush the lone rider. \"My bet's on the dirt,\" Gerrard said flatly.",
+            "artist": "Brom",
+            "number": "117",
+            "power": "9",
+            "toughness": "9",
+            "layout": "normal",
+            "multiverseid": 4505,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4505&type=card",
+            "rulings": [
+                {
+                    "date": "2008-10-01",
+                    "text": "Paying cumulative upkeep is always optional. If it’s not paid, the permanent with cumulative upkeep is sacrificed. Partial payments of the total cumulative upkeep cost can’t be made. For example, if a permanent with “cumulative upkeep {1}” has three age counters on it when its cumulative upkeep ability triggers, it gets another age counter and then its controller chooses to either pay {4} or sacrifice the permanent."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Aboroth",
+                    "text": "Kumulative Versorgung- Lege eine -1/-1-Marke auf Aboroth.",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Aboroth",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Aboroth",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Aboroth",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "アボロス",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Aboroth",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "WTH"
+            ],
+            "originalText": "Cumulative upkeep—Put a -1/-1 counter on Aboroth",
+            "originalType": "Summon - Aboroth",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "a103d4e0-66a4-5a0e-8a33-a429c2053a9e"
+        },
+        {
+            "name": "Aboshan, Cephalid Emperor",
+            "manaCost": "{4}{U}{U}",
+            "cmc": 6,
+            "colors": [
+                "Blue"
+            ],
+            "colorIdentity": [
+                "U"
+            ],
+            "type": "Legendary Creature — Cephalid",
+            "supertypes": [
+                "Legendary"
+            ],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Cephalid"
+            ],
+            "rarity": "Rare",
+            "set": "ODY",
+            "setName": "Odyssey",
+            "text": "Tap an untapped Cephalid you control: Tap target permanent.\n{U}{U}{U}: Tap all creatures without flying.",
+            "flavor": "\"No one can fight the tide forever.\"",
+            "artist": "Christopher Moeller",
+            "number": "58",
+            "power": "3",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 31821,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=31821&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Kaiser Aboshan",
+                    "text": "Tappe einen ungetappten Zephaliden, den du kontrollierst: Tappe eine bleibende Karte deiner Wahl.\n{U}{U}{U}: Tappe alle nichtfliegenden Kreaturen.",
+                    "flavor": "„Niemand kann ewig gegen die Flut ankämpfen.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=175766&type=card",
+                    "language": "German",
+                    "multiverseid": 175766
+                },
+                {
+                    "name": "Áboshan, Emperador cefálido",
+                    "text": "Girar un Cefálido enderezado que controles: Gira el permanente objetivo.\n{U}{U}{U}: Gira todas las criaturas que no tengan la habilidad de volar.",
+                    "flavor": "\"Nadie puede luchar eternamente contra la marea.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=177178&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 177178
+                },
+                {
+                    "name": "Aboshân, empereur des Céphalides",
+                    "text": "Engagez un céphalide dégagé que vous contrôlez : Engagez le permanent ciblé.\n{U}{U}{U}: Engagez toutes les créatures sans le vol.",
+                    "flavor": "« On ne peut se battre sans arrêt contre la marée. »",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=176118&type=card",
+                    "language": "French",
+                    "multiverseid": 176118
+                },
+                {
+                    "name": "Aboshan, Imperatore Cefalide",
+                    "text": "TAPpa un Cefalide STAPpato che controlli: TAPpa un permanente bersaglio.\n{U}{U}{U}: TAPpa tutte le creature senza volare.",
+                    "flavor": "\"Nessuno può combattere la corrente in eterno\".",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=176627&type=card",
+                    "language": "Italian",
+                    "multiverseid": 176627
+                },
+                {
+                    "name": "セファリッドの皇帝アボシャン",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Aboshan, Imperador Cefálida",
+                    "text": "Vire um Cefálida desvirado que você controla: Vira a permanente alvo.\n{U}{U}{U}: Vira todas as criaturas sem a habilidade de voar.",
+                    "flavor": "\"Ninguém pode lutar contra a maré para sempre.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178621&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 178621
+                }
+            ],
+            "printings": [
+                "ODY"
+            ],
+            "originalText": "Tap an untapped Cephalid you control: Tap target permanent.\noUoUoU: Tap all creatures without flying.",
+            "originalType": "Creature - Cephalid Legend",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "144ae019-5343-57b4-b00c-1d72f05014e1"
+        },
+        {
+            "name": "Absolver Thrull",
+            "manaCost": "{3}{W}",
+            "cmc": 4,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Thrull Cleric",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Thrull",
+                "Cleric"
+            ],
+            "rarity": "Common",
+            "set": "GPT",
+            "setName": "Guildpact",
+            "text": "Haunt (When this creature dies, exile it haunting target creature.)\nWhen Absolver Thrull enters the battlefield or the creature it haunts dies, destroy target enchantment.",
+            "artist": "Rob Alexander",
+            "number": "1",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 96953,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96953&type=card",
+            "watermark": "orzhov",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Absolutions-Thrull",
+                    "text": "Spuk (Wenn diese Karte aus dem Spiel auf einen Friedhof gelegt wird, entferne sie ganz aus dem Spiel, so dass sie bei einer Kreatur deiner Wahl spukt.)\nWenn der Absolutions-Thrull ins Spiel kommt oder die Kreatur, bei der er spukt, auf einen Friedhof gelegt wird, zerstöre eine Verzauberung deiner Wahl.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=117688&type=card",
+                    "language": "German",
+                    "multiverseid": 117688
+                },
+                {
+                    "name": "Absolutor thrull",
+                    "text": "Acechar (Cuando esta carta vaya a un cementerio desde el juego, remuévela del juego acechando a la criatura objetivo.)\nCuando el Absolutor thrull entre en juego o la criatura a la que acecha vaya a un cementerio, destruye el encantamiento objetivo.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=118678&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 118678
+                },
+                {
+                    "name": "Srâne absoluteur",
+                    "text": "Hantise (Quand cette carte est mise dans un cimetière depuis le jeu, retirez-la de la partie, hantant la créature ciblée.)\nQuand le Srâne absoluteur arrive en jeu ou quand la créature qu'il hante est mise dans un cimetière, détruisez l'enchantement ciblé.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=117853&type=card",
+                    "language": "French",
+                    "multiverseid": 117853
+                },
+                {
+                    "name": "Thrull Assolutore",
+                    "text": "Tormentare (Quando questa carta viene messa in un cimitero dal gioco, rimuovila dal gioco ed essa va a tormentare una creatura bersaglio.)\nQuando il Thrull Assolutore entra in gioco o la creatura che esso tormenta viene messa in un cimitero, distruggi un incantesimo bersaglio.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=118018&type=card",
+                    "language": "Italian",
+                    "multiverseid": 118018
+                },
+                {
+                    "name": "赦免のスラル",
+                    "text": "憑依 （このカードが場からいずれかの墓地に置かれたとき、クリーチャー１体を対象とする。このカードをそれに憑依している状態でゲームから取り除く。）\n赦免のスラルが場に出るか、それが憑依しているクリーチャーがいずれかの墓地に置かれるかしたとき、エンチャント１つを対象とし、それを破壊する。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=118183&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 118183
+                },
+                {
+                    "name": "Thrull Absolvedor",
+                    "text": "Assombrar (Quando este card for colocado no cemitério vindo do jogo, remova-o do jogo assombrando a criatura alvo.)\nQuando Thrull Absolvedor entrar em jogo ou quando a criatura que ele assombra for colocada num cemitério, destrua o encantamento alvo.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=118348&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 118348
+                },
+                {
+                    "name": "Прощающий трулл",
+                    "text": "Преследование (Когда эта карта попадает из игры на кладбище, выведите ее из игры. Она преследует целевое существо.)\nКогда Прощающий трулл вступает в игру, либо когда преследуемое им существо попадает на кладбище, уничтожьте целевые чары.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=118513&type=card",
+                    "language": "Russian",
+                    "multiverseid": 118513
+                },
+                {
+                    "name": "赦罪索尔兽",
+                    "text": "缠身（当此牌从场上置入坟墓场时，将它移出对战并缠身在目标生物上。）\n当赦罪索尔兽进场或它所缠身的生物置入坟墓场时，消灭目标结界。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=117523&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 117523
+                }
+            ],
+            "printings": [
+                "GPT"
+            ],
+            "originalText": "Haunt (When this card is put into a graveyard from play, remove it from the game haunting target creature.)\nWhen Absolver Thrull comes into play or the creature it haunts is put into a graveyard, destroy target enchantment.",
+            "originalType": "Creature - Thrull Cleric",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "89c4fb10-8766-5ebb-999d-3c939cac9682"
+        },
+        {
+            "name": "Abu Ja'far",
+            "manaCost": "{W}",
+            "cmc": 1,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human"
+            ],
+            "rarity": "Uncommon",
+            "set": "ARN",
+            "setName": "Arabian Nights",
+            "text": "When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.",
+            "artist": "Ken Meyer, Jr.",
+            "number": "1",
+            "power": "0",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 968,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=968&type=card",
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "ARN",
+                "CHR",
+                "PRM",
+                "RIN"
+            ],
+            "originalText": "If Abu dies without regenerating while participating in an attack or defense,all creatures Abu is blocking or being blocked by are also killed and may not regenerate.",
+            "originalType": "Summon - Leper",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Oldschool",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "8f2426c7-7523-56b8-a5a3-19b2c6b437c7"
+        },
+        {
+            "name": "Abu Ja'far",
+            "manaCost": "{W}",
+            "cmc": 1,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human"
+            ],
+            "rarity": "Uncommon",
+            "set": "CHR",
+            "setName": "Chronicles",
+            "text": "When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.",
+            "artist": "Ken Meyer, Jr.",
+            "number": "1",
+            "power": "0",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 2838,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2838&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "アブー・ジャーファル",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "ARN",
+                "CHR",
+                "PRM",
+                "RIN"
+            ],
+            "originalText": "If Abu Ja'far is put into the graveyard from play during combat, bury all creatures blocking or blocked by Abu Ja'far.",
+            "originalType": "Summon - Leper",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Oldschool",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "1be987e0-e4ab-54fc-85d2-51decfb0f962"
+        },
+        {
+            "name": "Abu Ja'far",
+            "manaCost": "{W}",
+            "cmc": 1,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human"
+            ],
+            "rarity": "Uncommon",
+            "set": "RIN",
+            "setName": "Rinascimento",
+            "text": "When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.",
+            "artist": "Ken Meyer, Jr.",
+            "number": "1",
+            "power": "0",
+            "toughness": "1",
+            "layout": "normal",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Abu Ja'far",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "ARN",
+                "CHR",
+                "PRM",
+                "RIN"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Oldschool",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "86d6fcd0-332f-5c1e-81db-c5d7cee5d8ff"
+        },
+        {
+            "name": "Abu Ja'far",
+            "manaCost": "{W}",
+            "cmc": 1,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Human",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human"
+            ],
+            "rarity": "Uncommon",
+            "set": "PRM",
+            "setName": "Magic Online Promos",
+            "text": "When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.",
+            "artist": "Ryan Alexander Lee",
+            "number": "62479",
+            "power": "0",
+            "toughness": "1",
+            "layout": "normal",
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "ARN",
+                "CHR",
+                "PRM",
+                "RIN"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "f69c8681-30bc-5901-9399-abe36c7a4240"
+        },
+        {
+            "name": "Abuna Acolyte",
+            "manaCost": "{1}{W}",
+            "cmc": 2,
+            "colors": [
+                "White"
+            ],
+            "colorIdentity": [
+                "W"
+            ],
+            "type": "Creature — Cat Cleric",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Cat",
+                "Cleric"
+            ],
+            "rarity": "Uncommon",
+            "set": "SOM",
+            "setName": "Scars of Mirrodin",
+            "text": "{T}: Prevent the next 1 damage that would be dealt to any target this turn.\n{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.",
+            "flavor": "\"You can break nothing I cannot mend.\"",
+            "artist": "Igor Kieryluk",
+            "number": "1",
+            "power": "1",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 194371,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194371&type=card",
+            "watermark": "mirran",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Tempeldiener des Hohepriesters",
+                    "text": "{T}: Verhindere den nächsten 1 Schadenspunkt, der in diesem Zug einer Kreatur oder einem Spieler deiner Wahl zugefügt würde.\n{T}: Verhindere die nächsten 2 Schadenspunkte, die in diesem Zug einer Artefaktkreatur deiner Wahl zugefügt würden.",
+                    "flavor": "„Du kannst nichts zerstören, was ich nicht reparieren kann.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=231045&type=card",
+                    "language": "German",
+                    "multiverseid": 231045
+                },
+                {
+                    "name": "Acólito del abunas",
+                    "text": "{T}: Prevén el siguiente 1 punto de daño que se le fuera a hacer a la criatura o jugador objetivo este turno.\n{T}: Prevén los siguientes 2 puntos de daño que se le fueran a hacer a la criatura artefacto objetivo este turno.",
+                    "flavor": "\"No puedes romper nada que yo no pueda reparar.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=232539&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 232539
+                },
+                {
+                    "name": "Acolyte abuna",
+                    "text": "{T} : Prévenez, ce tour-ci, la prochaine 1 blessure qui devrait être infligée à une cible, créature ou joueur.\n{T} : Prévenez, ce tour-ci, les prochaines 2 blessures qui devraient être infligées à une créature-artefact ciblée.",
+                    "flavor": "« Vous ne pouvez rien briser que je ne puisse réparer. »",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=231792&type=card",
+                    "language": "French",
+                    "multiverseid": 231792
+                },
+                {
+                    "name": "Accolito Abuna",
+                    "text": "{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.\n{T}: Previeni i prossimi 2 danni che verrebbero inflitti a una creatura artefatto bersaglio in questo turno.",
+                    "flavor": "\"Non puoi rompere nulla che io non possa riparare.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=232788&type=card",
+                    "language": "Italian",
+                    "multiverseid": 232788
+                },
+                {
+                    "name": "高僧の見習い",
+                    "text": "{T}：クリーチャー１体かプレイヤー１人を対象とする。このターン、次にそれに与えられるダメージを１点軽減する。\n{T}：アーティファクト・クリーチャー１体を対象とする。このターン、次にそれに与えられるダメージを２点軽減する。",
+                    "flavor": "「私に治せない物を壊すことはできまい。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=231543&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 231543
+                },
+                {
+                    "name": "Acólito Abuna",
+                    "text": "{T}: Previna o próximo 1 ponto de dano que seria causado à criatura ou ao jogador alvo neste turno.\n{T}: Previna os próximos 2 pontos de dano que seriam causados à criatura artefato alvo neste turno.",
+                    "flavor": "\"Não há nada que você possa quebrar que eu não possa remendar.\"",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230796&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 230796
+                },
+                {
+                    "name": "Помощник Абуны",
+                    "text": "{T}: предотвратите следующее 1 повреждение, которое должно быть нанесено целевому существу или игроку в этом ходу.\n{T}: предотвратите следующие 2 повреждения, которые должны быть нанесены целевому артефактному существу в этом ходу.",
+                    "flavor": "«Вы не можете сломать что-нибудь такое, что я не мог бы починить».",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=231294&type=card",
+                    "language": "Russian",
+                    "multiverseid": 231294
+                },
+                {
+                    "name": "高僧随从",
+                    "text": "{T}：于本回合中，防止接下来将对目标生物或牌手造成的1点伤害。\n{T}：于本回合中，防止接下来将对目标神器生物造成的2点伤害。",
+                    "flavor": "「你能打坏的东西，我都能修好。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=232290&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 232290
+                },
+                {
+                    "name": "高僧隨從",
+                    "text": "{T}：於本回合中，防止接下來將對目標生物或玩家造成的1點傷害。\n{T}：於本回合中，防止接下來將對目標神器生物造成的2點傷害。",
+                    "flavor": "「你能打壞的東西，我都能修好。」",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=232041&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 232041
+                }
+            ],
+            "printings": [
+                "SOM"
+            ],
+            "originalText": "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.\n{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.",
+            "originalType": "Creature — Cat Cleric",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "2fe77d9e-dc88-5701-9e2a-8ff14f996f91"
+        },
+        {
+            "name": "Abundant Maw",
+            "manaCost": "{8}",
+            "cmc": 8,
+            "colors": [],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Eldrazi Leech",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Eldrazi",
+                "Leech"
+            ],
+            "rarity": "Uncommon",
+            "set": "EMN",
+            "setName": "Eldritch Moon",
+            "text": "Emerge {6}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)\nWhen you cast this spell, target opponent loses 3 life and you gain 3 life.",
+            "artist": "Greg Staples",
+            "number": "1",
+            "power": "6",
+            "toughness": "4",
+            "layout": "normal",
+            "multiverseid": 414290,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=414290&type=card",
+            "rulings": [
+                {
+                    "date": "2016-07-13",
+                    "text": "A “when you cast” triggered ability resolves before the original spell resolves. It resolves even if the original spell is countered, and the original spell resolves even if the triggered ability is countered."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "Each card with emerge is colorless and has an emerge cost that includes one or more colors of mana. These cards are still colorless if you pay the emerge cost."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "A creature’s converted mana cost is determined solely by the mana symbols printed in its upper right corner (unless that creature is the back face of a double-faced card, is a melded permanent, or is copying something else; see below). If the mana cost includes {X}, X is considered to be 0. If it’s a single-faced card with no mana symbols in its upper right corner (because it’s an animated land, for example), its converted mana cost is 0. Ignore any alternative costs or additional costs (such as kicker) that were paid as the creature was cast."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "Colored mana components of emerge costs can’t be reduced with emerge."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "You may sacrifice a creature with a converted mana cost of 0, such as a token creature that’s not a copy of another permanent, to cast a spell for its emerge cost. You’ll just pay the full emerge cost with no reduction."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "You may sacrifice a creature with converted mana cost greater than or equal to the emerge cost. If you do, you’ll pay only the colored mana component of the emerge cost."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "If you sacrifice a creature with {X} in its mana cost, that X is considered to be 0."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "The converted mana cost of the back face of a double-faced card is the converted mana cost of its front face. The converted mana cost of a melded permanent is the sum of the converted mana costs of its front faces. A creature that’s a copy of either has a converted mana cost of 0."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "The converted mana cost of a creature spell with emerge isn’t affected by whether its emerge cost is paid. For example, if you cast Elder Deep-Fiend for its emerge cost and sacrifice a creature whose converted mana cost is 3, Elder Deep-Fiend’s converted mana cost remains 8."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "The creature chosen to be sacrificed is still on the battlefield up through the time that you activate mana abilities. Its abilities may affect the spell’s cost, be activated to generate mana, and so on. However, if it has an ability that triggers when a spell is cast, it will have been sacrificed before that ability can trigger."
+                },
+                {
+                    "date": "2016-07-13",
+                    "text": "Once you begin to cast a spell with emerge, no player may take actions until you’re done. Notably, opponents can’t try to remove the creature you wish to sacrifice."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Unersättlicher Schlund",
+                    "text": "Auftauchen {6}{B} (Du kannst diesen Zauberspruch wirken, indem du eine Kreatur opferst und die Auftauchen-Kosten bezahlst, abzüglich der umgewandelten Manakosten der geopferten Kreatur.)\nWenn du den Unersättlichen Schlund wirkst, verliert ein Gegner deiner Wahl 3 Lebenspunkte und du erhältst 3 Lebenspunkte dazu.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=414959&type=card",
+                    "language": "German",
+                    "multiverseid": 414959
+                },
+                {
+                    "name": "Milfauces",
+                    "text": "Emerger {6}{B}. (Puedes lanzar este hechizo sacrificando una criatura y pagando el coste de emerger menos el coste de maná convertido de esa criatura.)\nCuando lances el Milfauces, el oponente objetivo pierde 3 vidas y tú ganas 3 vidas.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416520&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 416520
+                },
+                {
+                    "name": "Gueule d'abondance",
+                    "text": "Émergence {6}{B} (Vous pouvez lancer ce sort en sacrifiant une créature et en payant le coût d'émergence, moins le coût converti de mana de cette créature.)\nQuand vous lancez la Gueule d'abondance, l'adversaire ciblé perd 3 points de vie et vous gagnez 3 points de vie.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=415182&type=card",
+                    "language": "French",
+                    "multiverseid": 415182
+                },
+                {
+                    "name": "Fauce Colossale",
+                    "text": "Emergere {6}{B} (Puoi lanciare questa magia sacrificando una creatura e pagando il costo di emergere meno il costo di mana convertito di quella creatura.)\nQuando lanci la Fauce Colossale, un avversario bersaglio perde 3 punti vita e tu guadagni 3 punti vita.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=415405&type=card",
+                    "language": "Italian",
+                    "multiverseid": 415405
+                },
+                {
+                    "name": "甚だしい大口",
+                    "text": "現出{6}{B}（あなたはこの呪文を、クリーチャー１体を生け贄に捧げるとともに{X}だけ減らした現出コストを支払って唱えてもよい。Ｘはそのクリーチャーの点数で見たマナ・コストに等しい。）\nあなたが甚だしい大口を唱えたとき、対戦相手１人を対象とする。そのプレイヤーは３点のライフを失い、あなたは３点のライフを得る。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=415628&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 415628
+                },
+                {
+                    "name": "과도한 아가리",
+                    "text": "출현 {6}{B} (생물 하나를 희생하고 출현 비용에서 그 생물의 전환마나비용을 뺀 만큼을 지불해서 이 주문을 발동할 수 있다.)\n과도한 아가리를 발동할 때, 상대를 목표로 정한다. 그 상대는 생명 3점을 잃고 당신은 생명 3점을 얻는다.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=415851&type=card",
+                    "language": "Korean",
+                    "multiverseid": 415851
+                },
+                {
+                    "name": "Gorja Abundante",
+                    "text": "Emergir {6}{B} (Você pode conjurar esta mágica sacrificando uma criatura e pagando o custo de emergir menos o custo de mana convertido daquela criatura.)\nQuando você conjura Gorja Abundante, o oponente alvo perde 3 pontos de vida e você ganha 3 pontos de vida.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416074&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 416074
+                },
+                {
+                    "name": "Ненасытная Утроба",
+                    "text": "Явление {6}{B} (Вы можете разыграть это заклинание, пожертвовав существо и оплатив стоимость Явления, уменьшенную на конвертированную мана-стоимость того существа.)\nКогда вы разыгрываете Ненасытную Утробу, целевой оппонент теряет 3 жизни, а вы получаете 3 жизни.",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416297&type=card",
+                    "language": "Russian",
+                    "multiverseid": 416297
+                },
+                {
+                    "name": "千足蛭",
+                    "text": "化生{6}{B}（你可以牺牲一个生物并支付化生费用来施放此咒语，此时总费用会扣除该生物之总法术力费用。）\n当你施放千足蛭时，目标对手失去3点生命且你获得3点生命。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=414513&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 414513
+                },
+                {
+                    "name": "千足蛭",
+                    "text": "化生{6}{B}（你可以犧牲一個生物並支付化生費用來施放此咒語，此時總費用會扣除該生物之總魔法力費用。）\n當你施放千足蛭時，目標對手失去3點生命且你獲得3點生命。",
+                    "flavor": null,
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=414736&type=card",
+                    "language": "Chinese Traditional",
+                    "multiverseid": 414736
+                }
+            ],
+            "printings": [
+                "EMN"
+            ],
+            "originalText": "Emerge {6}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)\nWhen you cast Abundant Maw, target opponent loses 3 life and you gain 3 life.",
+            "originalType": "Creature — Eldrazi Leech",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "69dea497-0092-5075-a125-e36030c32170"
+        },
+        {
+            "name": "Abyssal Gatekeeper",
+            "manaCost": "{1}{B}",
+            "cmc": 2,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Common",
+            "set": "WTH",
+            "setName": "Weatherlight",
+            "text": "When Abyssal Gatekeeper dies, each player sacrifices a creature.",
+            "flavor": "\"There are two ways for me to pass this gate. One involves you remaining conscious.\" —Gerrard of the Weatherlight",
+            "artist": "Mark Tedin",
+            "number": "59",
+            "power": "1",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 4447,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4447&type=card",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The “sacrifice a creature” effect is not targeted. It can affect creatures with protection from black, for example."
+                },
+                {
+                    "date": "2008-04-01",
+                    "text": "The player whose turn it is chooses a creature to sacrifice, then each other player in turn order chooses a creature to sacrifice, then all chosen creatures are sacrificed at the same time."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Torwächter der Unterwelt",
+                    "text": "Wenn der Torwächter der Unterwelt aus dem Spiel auf dem Friedhof landet, bestimmt jeder Spieler eine Kreatur, die er kontrolliert, und begräbt diese.",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Portero abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Gardien de la porte des abysses",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Custode del Portale Abissale",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "深淵の門番",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Porteiro Abissal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "DDC",
+                "DVD",
+                "TD0",
+                "WTH"
+            ],
+            "originalText": "If Abyssal Gatekeeper is put into any graveyard from play, each player chooses and buries a creature he or she controls.",
+            "originalType": "Summon - Gatekeeper",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "ae59023b-c4be-55cd-904b-eb5e269b4c8e"
+        },
+        {
+            "name": "Abyssal Gatekeeper",
+            "manaCost": "{1}{B}",
+            "cmc": 2,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Common",
+            "set": "DDC",
+            "setName": "Duel Decks: Divine vs. Demonic",
+            "text": "When Abyssal Gatekeeper dies, each player sacrifices a creature.",
+            "flavor": "\"There are two ways for me to pass this gate. One involves you remaining conscious.\" —Gerrard of the Weatherlight",
+            "artist": "Mark Tedin",
+            "number": "31",
+            "power": "1",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 197037,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197037&type=card",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The “sacrifice a creature” effect is not targeted. It can affect creatures with protection from black, for example."
+                },
+                {
+                    "date": "2008-04-01",
+                    "text": "The player whose turn it is chooses a creature to sacrifice, then each other player in turn order chooses a creature to sacrifice, then all chosen creatures are sacrificed at the same time."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "DDC",
+                "DVD",
+                "TD0",
+                "WTH"
+            ],
+            "originalText": "When Abyssal Gatekeeper is put into a graveyard from play, each player sacrifices a creature.",
+            "originalType": "Creature — Horror",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "d2fabada-b2c3-5281-9164-74d18b90b154"
+        },
+        {
+            "name": "Abyssal Gatekeeper",
+            "manaCost": "{1}{B}",
+            "cmc": 2,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Common",
+            "set": "DVD",
+            "setName": "Duel Decks Anthology: Divine vs. Demonic",
+            "text": "When Abyssal Gatekeeper dies, each player sacrifices a creature.",
+            "flavor": "\"There are two ways for me to pass this gate. One involves you remaining conscious.\" —Gerrard of the Weatherlight",
+            "artist": "Mark Tedin",
+            "number": "31",
+            "power": "1",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 394003,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394003&type=card",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The “sacrifice a creature” effect is not targeted. It can affect creatures with protection from black, for example."
+                },
+                {
+                    "date": "2008-04-01",
+                    "text": "The player whose turn it is chooses a creature to sacrifice, then each other player in turn order chooses a creature to sacrifice, then all chosen creatures are sacrificed at the same time."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "DDC",
+                "DVD",
+                "TD0",
+                "WTH"
+            ],
+            "originalText": "When Abyssal Gatekeeper dies, each player sacrifices a creature.",
+            "originalType": "Creature — Horror",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "23f22ca1-76ed-5398-92c9-892f4ad1763a"
+        },
+        {
+            "name": "Abyssal Gatekeeper",
+            "manaCost": "{1}{B}",
+            "cmc": 2,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Common",
+            "set": "TD0",
+            "setName": "Magic Online Theme Decks",
+            "text": "When Abyssal Gatekeeper dies, each player sacrifices a creature.",
+            "flavor": "\"There are two ways for me to pass this gate. One involves you remaining conscious.\" —Gerrard of the Weatherlight",
+            "artist": "Mark Tedin",
+            "number": "A34",
+            "power": "1",
+            "toughness": "1",
+            "layout": "normal",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The “sacrifice a creature” effect is not targeted. It can affect creatures with protection from black, for example."
+                },
+                {
+                    "date": "2008-04-01",
+                    "text": "The player whose turn it is chooses a creature to sacrifice, then each other player in turn order chooses a creature to sacrifice, then all chosen creatures are sacrificed at the same time."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "DDC",
+                "DVD",
+                "TD0",
+                "WTH"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Pauper",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "ddb63224-5f3e-50aa-81b7-22b430d3788c"
+        },
+        {
+            "name": "Abyssal Horror",
+            "manaCost": "{4}{B}{B}",
+            "cmc": 6,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Rare",
+            "set": "S99",
+            "setName": "Starter 1999",
+            "text": "Flying\nWhen Abyssal Horror enters the battlefield, target player discards two cards.",
+            "artist": "rk post",
+            "number": "63",
+            "power": "2",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 21019,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21019&type=card",
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "7ED",
+                "S99",
+                "USG"
+            ],
+            "originalText": "Flying\nWhen Abyssal Horror comes into play, target player chooses and discards two cards from his or her hand. (If that player has only one card, he or she discards it.)",
+            "originalType": "Creature - Horror",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "9130a73c-35fc-5f2d-9c05-07971e8025e1"
+        }
+    ]
+}

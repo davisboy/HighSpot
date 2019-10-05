@@ -1,0 +1,29 @@
+footer {
+    position        : fixed;
+    left            : 0;
+    bottom          : 0;
+    width           : 100%;
+    background-color: @JH-header-footer-color;
+    color           : @JH-header-footer-font-color;
+    padding         : 1.2rem;
+    min-height      : 5rem;
+    margin          : 0rem !important;
+
+    &>div>p {
+        color    : @JH-header-footer-font-color;
+        font-size: 2rem;
+    }
+}
+
+
+@media @widthSmall {
+    footer {
+        padding   : .5rem;
+        min-height: 1rem;
+        margin    : 0rem !important;
+
+        &>div>p {
+            font-size: .5rem;
+        }
+    }
+}

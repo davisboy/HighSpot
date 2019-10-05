@@ -1,0 +1,2103 @@
+{
+    "cards": [
+        {
+            "name": "Abyssal Horror",
+            "manaCost": "{4}{B}{B}",
+            "cmc": 6,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Rare",
+            "set": "7ED",
+            "setName": "Seventh Edition",
+            "text": "Flying\nWhen Abyssal Horror enters the battlefield, target player discards two cards.",
+            "flavor": "\"I dreamt of it once. Now I fear it dreams of me.\" —Tolarian scholar",
+            "artist": "Daren Bader",
+            "number": "115",
+            "power": "2",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 13111,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=13111&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Schrecken der Unterwelt",
+                    "text": "Fliegend\nEin Spieler deiner Wahl wirft zwei Karten aus seiner Hand ab, wenn der Schrecken der Unterwelt ins Spiel kommt.",
+                    "flavor": "„Ich habe einst von ihm geträumt. Nun fürchte ich, dass er von mir träumt.\" —Tolarianischer Zauberlehrer",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=182755&type=card",
+                    "language": "German",
+                    "multiverseid": 182755
+                },
+                {
+                    "name": "Horror abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Horreur des abysses",
+                    "text": "Vol\nQuand l'Horreur des abysses arrive en jeu, le joueur ciblé choisit deux cartes de sa main et s'en défausse.",
+                    "flavor": "« J'ai rêvé d'elle encore. Et j'ai peur qu'elle rêve de moi. » — Un érudit tolarian.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184171&type=card",
+                    "language": "French",
+                    "multiverseid": 184171
+                },
+                {
+                    "name": "深淵の怪物",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Horror Abissal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "7ED",
+                "S99",
+                "USG"
+            ],
+            "originalText": "Flying\nWhen Abyssal Horror comes into play, target player discards two cards from his or her hand.",
+            "originalType": "Creature - Horror",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "a608490d-0f01-536a-8763-b105bc394d2b"
+        },
+        {
+            "name": "Abyssal Horror",
+            "manaCost": "{4}{B}{B}",
+            "cmc": 6,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Rare",
+            "set": "S99",
+            "setName": "Starter 1999",
+            "text": "Flying\nWhen Abyssal Horror enters the battlefield, target player discards two cards.",
+            "artist": "rk post",
+            "number": "63",
+            "power": "2",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 21019,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21019&type=card",
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "7ED",
+                "S99",
+                "USG"
+            ],
+            "originalText": "Flying\nWhen Abyssal Horror comes into play, target player chooses and discards two cards from his or her hand. (If that player has only one card, he or she discards it.)",
+            "originalType": "Creature - Horror",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "9130a73c-35fc-5f2d-9c05-07971e8025e1"
+        },
+        {
+            "name": "Abyssal Hunter",
+            "manaCost": "{3}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Human Assassin",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Assassin"
+            ],
+            "rarity": "Rare",
+            "set": "MIR",
+            "setName": "Mirage",
+            "text": "{B}, {T}: Tap target creature. Abyssal Hunter deals damage equal to Abyssal Hunter's power to that creature.",
+            "flavor": "Some smiles show cheer; some merely show teeth.",
+            "artist": "Steve Luke",
+            "number": "103",
+            "power": "1",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 3272,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3272&type=card",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The ability can target an already tapped creature."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Unterweltjäger",
+                    "text": "{B}, {T}: Tappe eine Kreatur Deiner Wahl. Der Unterweltjäger fügt dieser Kreatur Schadenspunkte in Höhe der Stärke des Unterweltjägers zu.",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Cazador abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Chasseur des abysses",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Cacciatore degli Abissi",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "深淵の狩人",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Caçador Abissal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "6ED",
+                "MIR"
+            ],
+            "originalText": "oB, ocT: Tap target creature. Abyssal Hunter deals to that creature an amount of damage equal to Abyssal Hunter's power.",
+            "originalType": "Summon - Hunter",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "1b26df17-c215-52b0-bfe3-979ae190fac1"
+        },
+        {
+            "name": "Abyssal Hunter",
+            "manaCost": "{3}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Human Assassin",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Human",
+                "Assassin"
+            ],
+            "rarity": "Rare",
+            "set": "6ED",
+            "setName": "Classic Sixth Edition",
+            "text": "{B}, {T}: Tap target creature. Abyssal Hunter deals damage equal to Abyssal Hunter's power to that creature.",
+            "flavor": "Some smiles show cheer; some merely show teeth.",
+            "artist": "Steve Luke",
+            "number": "109",
+            "power": "1",
+            "toughness": "1",
+            "layout": "normal",
+            "multiverseid": 15383,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15383&type=card",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The ability can target an already tapped creature."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Unterweltjäger",
+                    "text": "{B}, {T}: Tappe eine Kreatur Deiner Wahl. Der Unterweltjäger fügt dieser Kreatur Schadenspunkte in Höhe seiner Stärke zu.",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Cazador abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Chasseur des abysses",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Cacciatore degli Abissi",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "深淵の狩人",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Caçador Abissal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "6ED",
+                "MIR"
+            ],
+            "originalText": "oB, ocT: Tap target creature. Abyssal Hunter deals damage equal to its power to that creature.",
+            "originalType": "Creature - Minion",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "ab41e83d-65cc-5189-8969-1a2a806f8a32"
+        },
+        {
+            "name": "Abyssal Nightstalker",
+            "manaCost": "{3}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Nightstalker",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Nightstalker"
+            ],
+            "rarity": "Uncommon",
+            "set": "P02",
+            "setName": "Portal Second Age",
+            "text": "Whenever Abyssal Nightstalker attacks and isn't blocked, defending player discards a card.",
+            "artist": "Sam Wood",
+            "number": "61",
+            "power": "2",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 6567,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=6567&type=card",
+            "rulings": [
+                {
+                    "date": "2013-04-15",
+                    "text": "An ability that triggers when something “attacks and isn’t blocked” triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Höllischer Nachtschrat",
+                    "text": "Wenn der Höllische Nachtschrat angreift und nicht geblockt wird, bestimmt Dein Gegner eine Karte aus seiner Hand und wirft diese ab",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Cazador nocturno abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Chassenuit des abysses",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Cacciatore Notturno Abissale",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "深淵の夜魔",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "P02"
+            ],
+            "originalText": "If Abyssal Nightstalker attacks and isn't blocked, your opponent chooses and discards a card from his or her hand. (Ignore this effect if your opponent doesn't have any cards.)",
+            "originalType": "Creature - Nightstalker",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "cfce190e-ec2f-5406-9f96-3d9064d3d800"
+        },
+        {
+            "name": "Abyssal Nocturnus",
+            "manaCost": "{1}{B}{B}",
+            "cmc": 3,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Horror",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Horror"
+            ],
+            "rarity": "Rare",
+            "set": "GPT",
+            "setName": "Guildpact",
+            "text": "Whenever an opponent discards a card, Abyssal Nocturnus gets +2/+2 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+            "flavor": "\"I fear to keep an open mind, for there are those who would use it as a door to my soul.\" —Voka Schlak, Mauzam Asylum inmate, diary",
+            "artist": "Jon Foster",
+            "number": "43",
+            "power": "2",
+            "toughness": "2",
+            "layout": "normal",
+            "multiverseid": 96858,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96858&type=card",
+            "rulings": [
+                {
+                    "date": "2006-02-01",
+                    "text": "If your opponent discards any cards during their cleanup step to get down to the maximum hand size, the ability will trigger and players will receive priority. After that cleanup step ends, a new one will begin and Abyssal Nocturnus’s effect will end. It won’t carry over into the next turn."
+                },
+                {
+                    "date": "2006-02-01",
+                    "text": "If your opponent discards multiple cards to a single effect, this will trigger multiple times."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Unterwelt-Nocturnus",
+                    "text": "Immer wenn ein Gegner eine Karte abwirft, erhält der Unterwelt-Nocturnus +2/+2 und verursacht Furcht bis zum Ende des Zuges.",
+                    "flavor": "„Ich fürchte mich vor freien Gedanken, da es Leute gibt, die sie als Hintertür in meine Seele nutzen würden.\" —Tagebuch von Voka Schlak, Insasse der Mauzam-Anstalt",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=117689&type=card",
+                    "language": "German",
+                    "multiverseid": 117689
+                },
+                {
+                    "name": "Nócturnus abismal",
+                    "text": "Siempre que un oponente descarte una carta, el Nócturnus abismal obtiene +2/+2 y gana la habilidad de inspirar temor hasta el final del turno.",
+                    "flavor": "\"Temo tener una mente abierta, porque existen quienes podrían usarla como una puerta a mi alma.\" —Voka Schlak, Internado del Asilo Mauzam, diario",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=118679&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 118679
+                },
+                {
+                    "name": "Nocturnus des abysses",
+                    "text": "À chaque fois qu'un adversaire se défausse d'une carte, le Nocturnus des abysses gagne +2/+2 et acquiert la peur jusqu'à la fin du tour.",
+                    "flavor": "« Je refuse de garder l'esprit ouvert, de peur que certains en profitent pour s'introduire dans mon âme. » —Voka Schlak, patient à l'asile de Mauzam, journal",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=117854&type=card",
+                    "language": "French",
+                    "multiverseid": 117854
+                },
+                {
+                    "name": "Notturio Abissale",
+                    "text": "Ogniqualvolta un avversario scarta una carta, il Notturio Abissale prende +2/+2 e guadagna paura fino alla fine del turno.",
+                    "flavor": "\"Essere di mente aperta è pericoloso: qualcuno potrebbe approfittarne per accedere alla mia anima.\" —Voka Schlak, paziente del Manicomio Mauzam, diario",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=118019&type=card",
+                    "language": "Italian",
+                    "multiverseid": 118019
+                },
+                {
+                    "name": "深淵の夜行魔",
+                    "text": "いずれかの対戦相手がカードを捨てるたび、深淵の夜行魔はターン終了時まで＋２/＋２の修整を受けるとともに畏怖を得る。",
+                    "flavor": "私が恐れるのは心を開くことだ。それを扉として我が魂まで届く者がいるかもしれぬ。 ――マウザム精神院の収容者、 ヴォカ・シュラクの日記",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=118184&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 118184
+                },
+                {
+                    "name": "Nocturnus Abissal",
+                    "text": "Toda vez que um oponente descarta um card, Nocturnus Abissal recebe +2/+2 e ganha a habilidade de amedrontar até o final do turno.",
+                    "flavor": "\"Tenho medo de manter a mente aberta, pois poderiam usá-la como uma porta para a minha alma.\" —Voka Schlak, paciente do Hospício de Mauzam, diário",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=118349&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 118349
+                },
+                {
+                    "name": "Ночной страх из бездны",
+                    "text": "Каждый раз, когда оппонент сбрасывает карту, Ночной страх из бездны получает +2/+2 и приобретает способность Страх до конца хода.",
+                    "flavor": "\"Я страшусь раскрывать свой разум, ибо есть такие, кто сможет воспользоваться им как дверью в мою душу\". — Вока Шлак, пациент сумасшедшего дома Маузам, дневник",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=118514&type=card",
+                    "language": "Russian",
+                    "multiverseid": 118514
+                },
+                {
+                    "name": "深渊惧影",
+                    "text": "每当任一对手弃一张牌时，深渊惧影得+2/+2且获得恐惧异能直到回合结束。",
+                    "flavor": "「我不敢敞开胸怀的原因，是有人会藉此侵入心灵。」 ～沃卡·夏克的日记， 毛札精神病院收容者",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=117524&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 117524
+                }
+            ],
+            "printings": [
+                "GPT"
+            ],
+            "originalText": "Whenever an opponent discards a card, Abyssal Nocturnus gets +2/+2 and gains fear until end of turn.",
+            "originalType": "Creature - Horror",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "a85bc320-e2cb-5455-904f-5bf3bb8cf5b5"
+        },
+        {
+            "name": "Abyssal Persecutor",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Demon",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Demon"
+            ],
+            "rarity": "Mythic",
+            "set": "PZ1",
+            "setName": "Legendary Cube Prize Pack",
+            "text": "Flying, trample\nYou can't win the game and your opponents can't lose the game.",
+            "flavor": "His slaves crave death more than they desire freedom. He denies them both.",
+            "artist": "Chippy",
+            "number": "38",
+            "power": "6",
+            "toughness": "6",
+            "layout": "normal",
+            "rulings": [
+                {
+                    "date": "2017-11-17",
+                    "text": "No game effect can cause you to win the game or cause any opponent to lose the game while you control Abyssal Persecutor. It doesn’t matter whether an opponent has 0 or less life, an opponent is forced to draw a card while their library is empty, an opponent has ten or more poison counters, an opponent is dealt combat damage by Phage the Untouchable, you control Felidar Sovereign and have 40 or more life, or so on. You keep playing."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Other circumstances can still cause an opponent to lose the game, however. An opponent will lose a game if they concede, if that player is penalized with a Game Loss or a Match Loss during a sanctioned tournament due to a DCI rules infraction, or if that player’s Magic Online® game clock runs out of time."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Effects that say the game is a draw, such as the _Legends_(TM) card Divine Intervention, are not affected by Abyssal Persecutor."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Abyssal Persecutor won’t preclude an opponent’s life total from reaching 0 or less. It will just preclude that player from losing the game as a result."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "If Abyssal Persecutor leaves the battlefield while an opponent has 0 or less life, that opponent will lose the game as a state-based action. No player can respond between the time Abyssal Persecutor leaves the battlefield and the time that player loses the game."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Even though your opponents can’t lose the game, a player can’t pay an amount of life that’s greater than their life total. If a player’s life total is 0 or less, that player can’t pay life at all, with one exception: a player may always pay 0 life."
+                }
+            ],
+            "foreignNames": [],
+            "printings": [
+                "C14",
+                "IMA",
+                "PZ1",
+                "WWK"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "669eecaf-eaaa-5c5b-9691-7d95262561ff"
+        },
+        {
+            "name": "Abyssal Persecutor",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Demon",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Demon"
+            ],
+            "rarity": "Mythic",
+            "set": "WWK",
+            "setName": "Worldwake",
+            "text": "Flying, trample\nYou can't win the game and your opponents can't lose the game.",
+            "flavor": "His slaves crave death more than they desire freedom. He denies them both.",
+            "artist": "Chippy",
+            "number": "47",
+            "power": "6",
+            "toughness": "6",
+            "layout": "normal",
+            "multiverseid": 197869,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197869&type=card",
+            "rulings": [
+                {
+                    "date": "2017-11-17",
+                    "text": "No game effect can cause you to win the game or cause any opponent to lose the game while you control Abyssal Persecutor. It doesn’t matter whether an opponent has 0 or less life, an opponent is forced to draw a card while their library is empty, an opponent has ten or more poison counters, an opponent is dealt combat damage by Phage the Untouchable, you control Felidar Sovereign and have 40 or more life, or so on. You keep playing."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Other circumstances can still cause an opponent to lose the game, however. An opponent will lose a game if they concede, if that player is penalized with a Game Loss or a Match Loss during a sanctioned tournament due to a DCI rules infraction, or if that player’s Magic Online® game clock runs out of time."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Effects that say the game is a draw, such as the _Legends_(TM) card Divine Intervention, are not affected by Abyssal Persecutor."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Abyssal Persecutor won’t preclude an opponent’s life total from reaching 0 or less. It will just preclude that player from losing the game as a result."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "If Abyssal Persecutor leaves the battlefield while an opponent has 0 or less life, that opponent will lose the game as a state-based action. No player can respond between the time Abyssal Persecutor leaves the battlefield and the time that player loses the game."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Even though your opponents can’t lose the game, a player can’t pay an amount of life that’s greater than their life total. If a player’s life total is 0 or less, that player can’t pay life at all, with one exception: a player may always pay 0 life."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Höllischer Verfolger",
+                    "text": "Fliegend, verursacht Trampelschaden\nDu kannst das Spiel nicht gewinnen, und deine Gegner können das Spiel nicht verlieren.",
+                    "flavor": "Seine Sklaven sehnen sich mehr nach dem Tod als nach der Freiheit. Er gönnt ihnen beides nicht.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=210606&type=card",
+                    "language": "German",
+                    "multiverseid": 210606
+                },
+                {
+                    "name": "Perseguidor abismal",
+                    "text": "Vuela, arrolla.\nTú no puedes ganar el juego y tus oponentes no pueden perder el juego.",
+                    "flavor": "Sus esclavos desean más la muerte que la libertad. Él les niega ambas.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=211621&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 211621
+                },
+                {
+                    "name": "Persécuteur abyssal",
+                    "text": "Vol, piétinement\nVous ne pouvez pas gagner la partie et vos adversaires ne peuvent pas la perdre.",
+                    "flavor": "Ses esclaves préfèrent la mort à la liberté. Il leur refuse les deux.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=211331&type=card",
+                    "language": "French",
+                    "multiverseid": 211331
+                },
+                {
+                    "name": "Persecutore Abissale",
+                    "text": "Volare, travolgere\nNon puoi vincere la partita e i tuoi avversari non possono perdere la partita.",
+                    "flavor": "I suoi schiavi bramano la morte più di quanto non desiderino la libertà. Lui nega loro entrambe.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=211186&type=card",
+                    "language": "Italian",
+                    "multiverseid": 211186
+                },
+                {
+                    "name": "深淵の迫害者",
+                    "text": "飛行、トランプル\nあなたはこのゲームに勝利することができず、あなたの対戦相手はこのゲームに敗北することができない。",
+                    "flavor": "彼の奴隷は、自由を求めるよりも死を望んでいる。 彼はそのどちらも許さない。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=210751&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 210751
+                },
+                {
+                    "name": "Perseguidor Abissal",
+                    "text": "Voar, atropelar\nVocê não pode vencer o jogo e seus oponentes não podem perdê-lo.",
+                    "flavor": "Seus escravos anseiam pela morte mais do que desejam a liberdade. Ele lhes nega ambas as coisas.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=210896&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 210896
+                },
+                {
+                    "name": "Преследователь из Бездны",
+                    "text": "Полет, Пробивной удар\nВы не можете выиграть партию, а ваши оппоненты не могут проиграть партию.",
+                    "flavor": "Его рабы жаждут смерти больше, чем свободы. Он не дает им ни того ни другого.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=211476&type=card",
+                    "language": "Russian",
+                    "multiverseid": 211476
+                },
+                {
+                    "name": "深渊虐魔",
+                    "text": "飞行，践踏\n你这盘游戏不会赢，对手也不会输。",
+                    "flavor": "比起希冀自由，他的奴隶还更渴求一死。 但他两者都不许。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=211041&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 211041
+                }
+            ],
+            "printings": [
+                "C14",
+                "IMA",
+                "PZ1",
+                "WWK"
+            ],
+            "originalText": "Flying, trample\nYou can't win the game and your opponents can't lose the game.",
+            "originalType": "Creature — Demon",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "1fd8e8fe-23b3-550d-ba7d-fa5b20f820ac"
+        },
+        {
+            "name": "Abyssal Persecutor",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Demon",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Demon"
+            ],
+            "rarity": "Rare",
+            "set": "IMA",
+            "setName": "Iconic Masters",
+            "text": "Flying, trample\nYou can't win the game and your opponents can't lose the game.",
+            "flavor": "His slaves crave death more than they desire freedom. He denies them both.",
+            "artist": "Chippy",
+            "number": "78",
+            "power": "6",
+            "toughness": "6",
+            "layout": "normal",
+            "multiverseid": 438644,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438644&type=card",
+            "rulings": [
+                {
+                    "date": "2017-11-17",
+                    "text": "No game effect can cause you to win the game or cause any opponent to lose the game while you control Abyssal Persecutor. It doesn’t matter whether an opponent has 0 or less life, an opponent is forced to draw a card while their library is empty, an opponent has ten or more poison counters, an opponent is dealt combat damage by Phage the Untouchable, you control Felidar Sovereign and have 40 or more life, or so on. You keep playing."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Other circumstances can still cause an opponent to lose the game, however. An opponent will lose a game if they concede, if that player is penalized with a Game Loss or a Match Loss during a sanctioned tournament due to a DCI rules infraction, or if that player’s Magic Online® game clock runs out of time."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Effects that say the game is a draw, such as the _Legends_(TM) card Divine Intervention, are not affected by Abyssal Persecutor."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Abyssal Persecutor won’t preclude an opponent’s life total from reaching 0 or less. It will just preclude that player from losing the game as a result."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "If Abyssal Persecutor leaves the battlefield while an opponent has 0 or less life, that opponent will lose the game as a state-based action. No player can respond between the time Abyssal Persecutor leaves the battlefield and the time that player loses the game."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Even though your opponents can’t lose the game, a player can’t pay an amount of life that’s greater than their life total. If a player’s life total is 0 or less, that player can’t pay life at all, with one exception: a player may always pay 0 life."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "深淵の迫害者",
+                    "text": "飛行、トランプル\nあなたはこのゲームに勝利できず、対戦相手はこのゲームに敗北できない。",
+                    "flavor": "彼の奴隷は、自由を求めるよりも死を望んでいる。彼はそのどちらも許さない。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438893&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 438893
+                },
+                {
+                    "name": "深渊虐魔",
+                    "text": "飞行，践踏\n你这盘游戏不会赢，对手也不会输。",
+                    "flavor": "比起希冀自由，他的奴隶还更渴求一死。但他两者都不许。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439142&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 439142
+                }
+            ],
+            "printings": [
+                "C14",
+                "IMA",
+                "PZ1",
+                "WWK"
+            ],
+            "originalText": "Flying, trample\nYou can't win the game and your opponents can't lose the game.",
+            "originalType": "Creature — Demon",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "5bbc85bd-d90c-5a34-8582-8995a02d1d34"
+        },
+        {
+            "name": "Abyssal Persecutor",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Demon",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Demon"
+            ],
+            "rarity": "Mythic",
+            "set": "C14",
+            "setName": "Commander 2014",
+            "text": "Flying, trample\nYou can't win the game and your opponents can't lose the game.",
+            "flavor": "His slaves crave death more than they desire freedom. He denies them both.",
+            "artist": "Chippy",
+            "number": "132",
+            "power": "6",
+            "toughness": "6",
+            "layout": "normal",
+            "multiverseid": 389422,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=389422&type=card",
+            "rulings": [
+                {
+                    "date": "2017-11-17",
+                    "text": "No game effect can cause you to win the game or cause any opponent to lose the game while you control Abyssal Persecutor. It doesn’t matter whether an opponent has 0 or less life, an opponent is forced to draw a card while their library is empty, an opponent has ten or more poison counters, an opponent is dealt combat damage by Phage the Untouchable, you control Felidar Sovereign and have 40 or more life, or so on. You keep playing."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Other circumstances can still cause an opponent to lose the game, however. An opponent will lose a game if they concede, if that player is penalized with a Game Loss or a Match Loss during a sanctioned tournament due to a DCI rules infraction, or if that player’s Magic Online® game clock runs out of time."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Effects that say the game is a draw, such as the _Legends_(TM) card Divine Intervention, are not affected by Abyssal Persecutor."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Abyssal Persecutor won’t preclude an opponent’s life total from reaching 0 or less. It will just preclude that player from losing the game as a result."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "If Abyssal Persecutor leaves the battlefield while an opponent has 0 or less life, that opponent will lose the game as a state-based action. No player can respond between the time Abyssal Persecutor leaves the battlefield and the time that player loses the game."
+                },
+                {
+                    "date": "2017-11-17",
+                    "text": "Even though your opponents can’t lose the game, a player can’t pay an amount of life that’s greater than their life total. If a player’s life total is 0 or less, that player can’t pay life at all, with one exception: a player may always pay 0 life."
+                }
+            ],
+            "foreignNames": [
+                {
+                    "name": "Höllischer Verfolger",
+                    "text": "Fliegend, verursacht Trampelschaden\nDu kannst die Partie nicht gewinnen, und deine Gegner können die Partie nicht verlieren.",
+                    "flavor": "Seine Sklaven sehnen sich mehr nach dem Tod als nach der Freiheit. Er gönnt ihnen beides nicht.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=390096&type=card",
+                    "language": "German",
+                    "multiverseid": 390096
+                },
+                {
+                    "name": "Perseguidor abismal",
+                    "text": "Vuela, arrolla.\nTú no puedes ganar el juego y tus oponentes no pueden perder el juego.",
+                    "flavor": "Sus esclavos desean más la muerte que la libertad. Él les niega ambas.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=391444&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 391444
+                },
+                {
+                    "name": "Persécuteur abyssal",
+                    "text": "Vol, piétinement\nVous ne pouvez pas gagner la partie et vos adversaires ne peuvent pas la perdre.",
+                    "flavor": "Ses esclaves préfèrent la mort à la liberté. Il leur refuse les deux.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=390433&type=card",
+                    "language": "French",
+                    "multiverseid": 390433
+                },
+                {
+                    "name": "Persecutore Abissale",
+                    "text": "Volare, travolgere\nNon puoi vincere la partita e i tuoi avversari non possono perdere la partita.",
+                    "flavor": "I suoi schiavi bramano la morte più di quanto non desiderino la libertà. Lui nega loro entrambe.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=390770&type=card",
+                    "language": "Italian",
+                    "multiverseid": 390770
+                },
+                {
+                    "name": "深淵の迫害者",
+                    "text": "飛行、トランプル\nあなたはこのゲームに勝利することができず、あなたの対戦相手はこのゲームに敗北することができない。",
+                    "flavor": "彼の奴隷は、自由を求めるよりも死を望んでいる。彼はそのどちらも許さない。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=391107&type=card",
+                    "language": "Japanese",
+                    "multiverseid": 391107
+                },
+                {
+                    "name": "深渊虐魔",
+                    "text": "飞行，践踏\n你这盘游戏不会赢，对手也不会输。",
+                    "flavor": "比起希冀自由，他的奴隶还更渴求一死。但他两者都不许。",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=389759&type=card",
+                    "language": "Chinese Simplified",
+                    "multiverseid": 389759
+                }
+            ],
+            "printings": [
+                "C14",
+                "IMA",
+                "PZ1",
+                "WWK"
+            ],
+            "originalText": "Flying, trample\nYou can't win the game and your opponents can't lose the game.",
+            "originalType": "Creature — Demon",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "4f62de85-d755-5079-a843-39e2a91e3f2a"
+        },
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "7ED",
+            "setName": "Seventh Edition",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "flavor": "To gaze under its hood is to invite death.",
+            "artist": "Michael Sutfin",
+            "number": "116",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 25636,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25636&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Unterweltgespenst",
+                    "text": "Fliegend\nImmer wenn das Unterweltgespenst einem Spieler Schaden zufügt, wirft dieser Spieler eine Karte aus seiner Hand ab.",
+                    "flavor": "Unter seine Kapuze zu schauen bedeutet den Tod einzuladen.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=182756&type=card",
+                    "language": "German",
+                    "multiverseid": 182756
+                },
+                {
+                    "name": "Espectro abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Spectre des abysses",
+                    "text": "Vol\nÀ chaque fois que le Spectre des abysses blesse un joueur, ce joueur choisit une carte de sa main et s'en défausse.",
+                    "flavor": "« Quel est ce tourbillon spectral qui se déchaîne ? » — Leconte de Lisle, Poèmes tragiques.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184172&type=card",
+                    "language": "French",
+                    "multiverseid": 184172
+                },
+                {
+                    "name": "深淵の死霊",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Espectro Abissal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "originalText": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card from his or her hand.",
+            "originalType": "Creature - Specter",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "1d8ff432-0fb3-5c0a-bef4-748eaaf123e5"
+        },
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "DKM",
+            "setName": "Deckmasters",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "flavor": "\"Open the gates, and bid them enter.\" —Lim-Dûl, the Necromancer",
+            "artist": "Ruth Thompson",
+            "number": "1",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "dc99c73b-2758-5bb1-8ee5-f7e3e1809c11"
+        },
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "5ED",
+            "setName": "Fifth Edition",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "flavor": "\"Mystic shadow, bending near me, / Who art thou? / Whence come ye?\" —Stephen Crane, \"Mystic shadow, bending near me\"",
+            "artist": "George Pratt",
+            "number": "139",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 3822,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3822&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Unterweltgespenst",
+                    "text": "Fliegend\nWenn das Unterweltgespenst einem Spieler Schaden zufügt, muß dieser Spieler eine Karte aus seiner Hand auswählen und abwerfen.",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Espectro abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Spectre des abysses",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Spettro dell'Abisso",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "深淵の死霊",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Espectro Abissal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "originalText": "Flying\nIf Abyssal Specter damages any player, he or she chooses and discards a card.",
+            "originalType": "Summon - Specter",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "9a69b9bb-6033-506f-92e1-7a5d4f682f96"
+        },
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "PS11",
+            "setName": "Salvat 2011",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "artist": "Michael Sutfin",
+            "number": "60",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Espectro abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "7425ddb0-b410-5913-ad07-74e1154577df"
+        },
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "DPA",
+            "setName": "Duels of the Planeswalkers",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "flavor": "To gaze under its hood is to invite death.",
+            "artist": "Michael Sutfin",
+            "number": "18",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "3f841d04-3dd8-5173-a253-01f4cdc3cf9f"
+        },
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "DVD",
+            "setName": "Duel Decks Anthology: Divine vs. Demonic",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "flavor": "To gaze under its hood is to invite death.",
+            "artist": "Michael Sutfin",
+            "number": "40",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 394004,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394004&type=card",
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "originalText": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "originalType": "Creature — Specter",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "2f5e5f1c-c866-5a44-acc2-913e1bdab717"
+        },
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "6ED",
+            "setName": "Classic Sixth Edition",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "artist": "George Pratt",
+            "number": "110",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 15381,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15381&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Unterweltgespenst",
+                    "text": "Fliegend\nImmer wenn das Unterweltgespenst einen Spieler Schaden zufügt, bestimmt dieser Spieler eine Karte von seiner Hand und wirft diese ab.",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Espectro abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Spectre des abysses",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Spettro dell'Abisso",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "深淵の死霊",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Espectro Abissal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "originalText": "Flying\nWhenever Abyssal Specter deals damage to a player, that player chooses and discards a card from his or her hand.",
+            "originalType": "Creature - Specter",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "d82b6002-6985-5062-862f-657cbd833b16"
+        },
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "ICE",
+            "setName": "Ice Age",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "flavor": "\"Open the gates, and bid them enter.\" —Lim-Dûl, the Necromancer",
+            "artist": "Ruth Thompson",
+            "number": "113",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 2437,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2437&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Unterweltgespenst",
+                    "text": "Fliegend\nWenn das Unterweltgespenst einem Spieler Schaden zufügt, muß dieser Spieler eine Karte aus seiner Hand auswählen und abwerfen. Ignoriere diese Fähigkeit, wenn dieser Spieler keine Karten auf der Hand hat.",
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "German",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Espectro abismal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Spanish",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Spectre des abysses",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "French",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Spettro dell'Abisso",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Italian",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Espectro Abissal",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": null
+                }
+            ],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "originalText": "Flying\nWhenever Abyssal Specter damages any player, that player chooses and discards a card from his or her hand. Ignore this ability if the player has no cards in hand.",
+            "originalType": "Summon - Specter",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "9615e749-ed22-5544-b03b-cd159cf9be6e"
+        },
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "BRB",
+            "setName": "Battle Royale Box Set",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "artist": "George Pratt",
+            "number": "1",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 21167,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21167&type=card",
+            "rulings": [],
+            "foreignNames": [],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "originalText": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card from his or her hand.",
+            "originalType": "Creature - Specter",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "f125c362-de0f-52b9-9963-9cc046642e6a"
+        },
+        {
+            "name": "Abyssal Specter",
+            "manaCost": "{2}{B}{B}",
+            "cmc": 4,
+            "colors": [
+                "Black"
+            ],
+            "colorIdentity": [
+                "B"
+            ],
+            "type": "Creature — Specter",
+            "supertypes": [],
+            "types": [
+                "Creature"
+            ],
+            "subtypes": [
+                "Specter"
+            ],
+            "rarity": "Uncommon",
+            "set": "8ED",
+            "setName": "Eighth Edition",
+            "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+            "flavor": "To gaze under its hood is to invite death.",
+            "artist": "Michael Sutfin",
+            "number": "117",
+            "power": "2",
+            "toughness": "3",
+            "layout": "normal",
+            "multiverseid": 45307,
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45307&type=card",
+            "rulings": [],
+            "foreignNames": [
+                {
+                    "name": "Unterweltgespenst",
+                    "text": "Fliegend (Diese Kreatur kann nur von fliegenden Kreaturen geblockt werden.)\nImmer wenn das Unterweltgespenst einem Spieler Schaden zufügt, wirft dieser Spieler eine Karte aus seiner Hand ab.",
+                    "flavor": "Unter seine Kapuze zu schauen bedeutet den Tod einzuladen.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=162730&type=card",
+                    "language": "German",
+                    "multiverseid": 162730
+                },
+                {
+                    "name": "Espectro abismal",
+                    "text": "Vuela. (Esta criatura no puede ser bloqueada excepto por criaturas que tengan la habilidad de volar.)\nSiempre que el Espectro abismal haga daño a un jugador, ese jugador descarta una carta de su mano.",
+                    "flavor": "Ver debajo de su capucha es invitar a la muerte.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=165367&type=card",
+                    "language": "Spanish",
+                    "multiverseid": 165367
+                },
+                {
+                    "name": "Spectre des abysses",
+                    "text": "Vol (Cette créature ne peut être bloquée que par des créatures avec le vol.)\nÀ chaque fois que le Spectre des abysses blesse un joueur, ce joueur choisit une carte de sa main et s'en défausse.",
+                    "flavor": "« Quel est ce tourbillon spectral qui se déchaîne ? » — Leconte de Lisle, Poèmes tragiques.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=163087&type=card",
+                    "language": "French",
+                    "multiverseid": 163087
+                },
+                {
+                    "name": "Spettro dell'Abisso",
+                    "text": "Volare (Questa creatura non può essere bloccata tranne che da creature con volare.)\nOgniqualvolta lo Spettro dell'Abisso infligge danno a un giocatore, quel giocatore scarta una carta dalla propria mano.",
+                    "flavor": "Scrutare sotto il suo mantello equivale a invocare la morte.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=165010&type=card",
+                    "language": "Italian",
+                    "multiverseid": 165010
+                },
+                {
+                    "name": "深淵の死霊",
+                    "text": null,
+                    "flavor": null,
+                    "imageUrl": null,
+                    "language": "Japanese",
+                    "multiverseid": null
+                },
+                {
+                    "name": "Espectro Abissal",
+                    "text": "Voar (Esta criatura só pode ser bloqueada por criaturas com a habilidade de voar.)\nToda vez que Espectro Abissal causar dano a algum jogador, aquele jogador descarta um card de sua própria mão.",
+                    "flavor": "Espiar sob seu capuz é um convite à morte.",
+                    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=165724&type=card",
+                    "language": "Portuguese (Brazil)",
+                    "multiverseid": 165724
+                }
+            ],
+            "printings": [
+                "5ED",
+                "6ED",
+                "7ED",
+                "8ED",
+                "BRB",
+                "DDC",
+                "DKM",
+                "DPA",
+                "DVD",
+                "ICE",
+                "MM3",
+                "PS11"
+            ],
+            "originalText": "Flying (This creature can't be blocked except by creatures with flying.)\nWhenever Abyssal Specter deals damage to a player, that player discards a card from his or her hand.",
+            "originalType": "Creature - Specter",
+            "legalities": [
+                {
+                    "format": "Commander",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Duel",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Legacy",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Modern",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Penny",
+                    "legality": "Legal"
+                },
+                {
+                    "format": "Vintage",
+                    "legality": "Legal"
+                }
+            ],
+            "id": "166baa9b-6758-5aaa-9f88-0cda35049eaa"
+        }
+    ]
+}

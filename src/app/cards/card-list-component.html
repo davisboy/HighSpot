@@ -1,0 +1,32 @@
+<div class="container" id="MainContent">
+    <form [formGroup]="searchForm" id="searchForm">
+        <div class="card-list-header">
+            <div class="sub-header">Tasty cards
+                <span class="header-loading-message" *ngIf="isLoading">&nbsp;-&nbsp;(loading cards<span
+                        class="header-loading-full">, please wait...</span>)</span>
+            </div>
+            <div class="search-form">
+                <div class="form-element">Card Color:
+                    <select formControlName="cardColor">
+                        <option>Any</option>
+                        <option>Black</option>
+                        <option>Blue</option>
+                        <option>Red</option>
+                        <option>Green</option>
+                        <option>White</option>
+                    </select>
+                </div>
+                <div class="form-element">Card Type
+                    <select formControlName="cardType">
+                        <option *ngFor="let type of types" [value]="type">{{type}}</option>
+                    </select>
+                </div>
+                <div class="form-element">
+                    <button class="btn btn-search" (click)="getCards()">Find</button>
+                </div>
+            </div>
+        </div>
+    </form>
+    <app-my-cards [cards]=cards (scrolled)="onScroll()"></app-my-cards>
+    <div *ngIf="isLoading" class="loading-indicator">Bringing more cards up from the cellar...</div>
+</div>
